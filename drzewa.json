@@ -880,18 +880,18 @@
       "photos": [
         {
           "id": "b",
-          "thumbnail": "web_thumbnail_400/032b Olcha 272m_thumb.webp",
-          "image": "web_body_1200/032b Olcha 272m_body.webp"
+          "thumbnail": "web_thumbnail_400/032a Olcha 272cm_thumb.webp",
+          "image": "web_body_1200/032a Olcha 272m_body.webp"
         },
         {
           "id": "c",
-          "thumbnail": "web_thumbnail_400/032c Olcha 272m_thumb.webp",
-          "image": "web_body_1200/032c Olcha 272m_body.webp"
+          "thumbnail": "web_thumbnail_400/032c Olcha 272cm_thumb.webp",
+          "image": "web_body_1200/032c Olcha 272cm_body.webp"
         },
         {
           "id": "e",
-          "thumbnail": "web_thumbnail_400/032e Olcha 272m_thumb.webp",
-          "image": "web_body_1200/032e Olcha 272m_body.webp"
+          "thumbnail": "web_thumbnail_400/032b Olcha 272cm_thumb.webp",
+          "image": "web_body_1200/032b Olcha 272cm_body.webp"
         }
       ],
       "group": false,
@@ -2601,23 +2601,23 @@
       "photos": [
         {
           "id": "a",
-          "thumbnail": "web_thumbnail_400/84a Buk 315cm_thumb.webp",
-          "image": "web_body_1200/84a Buk 315cm_body.webp"
+          "thumbnail": "web_thumbnail_400/084a Buk 315cm_thumb.webp",
+          "image": "web_body_1200/084a Buk 315cm_body.webp"
         },
         {
           "id": "b",
-          "thumbnail": "web_thumbnail_400/84b Buk 315cm_thumb.webp",
-          "image": "web_body_1200/84b Buk 315cm_body.webp"
+          "thumbnail": "web_thumbnail_400/084b Buk 315cm_thumb.webp",
+          "image": "web_body_1200/084b Buk 315cm_body.webp"
         },
         {
           "id": "c",
-          "thumbnail": "web_thumbnail_400/84c Buk 315cm_thumb.webp",
-          "image": "web_body_1200/84c Buk 315cm_body.webp"
+          "thumbnail": "web_thumbnail_400/084c Buk 315cm_thumb.webp",
+          "image": "web_body_1200/084c Buk 315cm_body.webp"
         },
         {
           "id": "d",
-          "thumbnail": "web_thumbnail_400/84d Buk 315cm_thumb.webp",
-          "image": "web_body_1200/84d Buk 315cm_body.webp"
+          "thumbnail": "web_thumbnail_400/084d Buk 315cm_thumb.webp",
+          "image": "web_body_1200/084d Buk 315cm_body.webp"
         }
       ],
       "group": false,
