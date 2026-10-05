@@ -1,0 +1,3113 @@
+{
+  "schema_version": "1.1",
+  "coordinate_order": "lat, lng",
+  "records": [
+    {
+      "id": "001",
+      "name": "Buk 3.55m",
+      "coordinates": {
+        "lat": 54.4698013,
+        "lng": 18.5371928
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica) o ponad 3,5m obwodzie rosnący przy starej brukowanej drodze. Na wysokości 2,5-3m rozgałęzia się na dwa duże stosunkowo równe konary. Posiada on bardzo ładnie rozbudowaną koronę. Możliwe, że w młodości było przydrożnym drzewem. Brak zewnętrznych oznak próchnienia takich jak dziuple czy odsłonięte martwe drewno.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/001a Buk 354 cm_thumb.webp",
+          "image": "web_body_1200/001a Buk 354 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/001b Buk 354 cm_thumb.webp",
+          "image": "web_body_1200/001b Buk 354 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/001c Buk 354 cm_thumb.webp",
+          "image": "web_body_1200/001c Buk 354 cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/001d Buk 354 cm_thumb.webp",
+          "image": "web_body_1200/001d Buk 354 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.55
+    },
+    {
+      "id": "002",
+      "name": "Dąb bezszypułkowy 3.95-4.04m",
+      "coordinates": {
+        "lat": 54.4708177,
+        "lng": 18.5389972
+      },
+      "description": "Dąb bezszypułkowy (Quercus petraea) o obwodzie około 4m w pierśnicy. Pień z wieloma wybrzuszeniami bez widocznych uszkodzeń lub dziupli. Rośnie na szczycie wzgórza, przy drodze nieopodal kamienia granicznego. Drzewo jest jednym z grubszych przedstawicieli tego gatunku w TPK. Jego wiek, unikalny kształt pnia i rozbudowana korona sprawiają, że jest on wyjątkowo pięknym i cennym okazem.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/002a Dąb 395 404 cm_thumb.webp",
+          "image": "web_body_1200/002a Dąb 395 404 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/002b Dąb 395 404 cm_thumb.webp",
+          "image": "web_body_1200/002b Dąb 395 404 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/002c Dąb 395 404 cm_thumb.webp",
+          "image": "web_body_1200/002c Dąb 395 404 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": {
+        "min": 3.95,
+        "max": 4.04
+      }
+    },
+    {
+      "id": "003",
+      "name": "Podwójny Buk",
+      "measurement_m": {
+        "min": 2.61,
+        "max": 3.24
+      },
+      "coordinates": {
+        "lat": 54.4729332,
+        "lng": 18.5436411
+      },
+      "description": "Dwa zrośnięte Buki zwyczajne (Fagus sylvatica) 261 cm / 324 cm. Nisko zrośnięte ze sobą osobniki o mocno ponadprzeciętnym obwodzie pnia. Ponieważ rosną niemal na samym szczycie wzgórza stosunkowo nisko i bujnie się rozgałęziają. Wraz z wiekiem można spodziewać się silniejszego zrastania się ich pni w jeden dużo grubszy. Oba drzewa zdają się być zdrowe, bez widocznych uszkodzeń pnia. Warto nadmienić, że większe z nich przekracza już rozmiary pomnikowe.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/003a Buki 261 324 cm_thumb.webp",
+          "image": "web_body_1200/003a Buki 261 324 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/003b Buki 261 324 cm_thumb.webp",
+          "image": "web_body_1200/003b Buki 261 324 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/003c Buki 261 324 cm_thumb.webp",
+          "image": "web_body_1200/003c Buki 261 324 cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/003d Buki 261 324 cm_thumb.webp",
+          "image": "web_body_1200/003d Buki 261 324 cm_body.webp"
+        }
+      ],
+      "group": false
+    },
+    {
+      "id": "004",
+      "name": "Dąb 3.25m",
+      "coordinates": {
+        "lat": 54.4731913,
+        "lng": 18.5437829
+      },
+      "description": "Dąb bezszypułkowy (Quercus petraea) 325 cm. Spory przedstawiciel swojego gatunku. Jedno z szeregu dużych przydrożnych drzew rosnących na szczycie jaru. Prosty pień bez widocznych uszkodzeń oraz stosunkowo dobrze rozbudowana korona.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/004a Dąb bezszypułkowy 325 cm_thumb.webp",
+          "image": "web_body_1200/004a Dąb bezszypułkowy 325 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/004b Dąb bezszypułkowy 325 cm_thumb.webp",
+          "image": "web_body_1200/004b Dąb bezszypułkowy 325 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.25
+    },
+    {
+      "id": "005",
+      "name": "Dąb 3.81",
+      "measurement_m": 3.81,
+      "coordinates": {
+        "lat": 54.4733778,
+        "lng": 18.5436689
+      },
+      "description": "Dwa zrośnięte dęby bezszypułkowe (Quercus petraea) 381 cm. Drzewo / drzewa na wysokości pierśnicy zrastają się w jeden duży pień (inoskulacja) rozwidlając się nieco wyżej na dwa osobne mniejsze konary. Ciekawostką jest bardzo duża narośl znajdująca się nisko na pniu.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/005a Dęby bezszypułkowe 381 cm_thumb.webp",
+          "image": "web_body_1200/005a Dęby bezszypułkowe 381 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/005b Dęby bezszypułkowe 381 cm_thumb.webp",
+          "image": "web_body_1200/005b Dęby bezszypułkowe 381 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/005c Dęby bezszypułkowe 381 cm_thumb.webp",
+          "image": "web_body_1200/005c Dęby bezszypułkowe 381 cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/005d Dęby bezszypułkowe 381 cm_thumb.webp",
+          "image": "web_body_1200/005d Dęby bezszypułkowe 381 cm_body.webp"
+        }
+      ],
+      "group": false
+    },
+    {
+      "id": "006",
+      "name": "Czarny bez trójkonarowy 0.92-1.05m, niżej 1.25-1.13m",
+      "coordinates": {
+        "lat": 54.4633773,
+        "lng": 18.541197
+      },
+      "description": "Duży drzewiasty Bez czarny (Sambucus nigra). Największy oraz najbardziej imponujący przedstawiciel swojego gatunku w okolicy. Bzy tych rozmiarów zdarzają się wyjątkowo rzadko. Dużo łatwiej jest trafić na pomnikowych rozmiarów dęby, buki sosny, brzozy czy inne drzewa niż na przedstawicieli czarnego bzu przekraczających jeden metr obwodu w pierśnicy. Ten niezwykły okaz posiada trzy główne pięknie omszone konary z których dwa przekraczają metr obwodu, trzeciemu zaś niewiele brakuje. Wielkość oraz wiek rośliny sprawiają, że tekstura jej kory jest nadzwyczajnie silnie bruzdowata przez co porastają ją nie tylko porosty oraz mech ale i niekiedy rośliny zielne takie jak np. pokrzywa. Drzewo ma też pięknie uformowaną rozłożystą koronę i jest ewidentnie nietknięte ręką ludzką (nieprzycinane). W jego pobliżu rosną inne nieco mniejsze stare bzy. Niewątpliwie jest to jeden z najbardziej imponujących bzów czarnych w Trójmieście.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/006a Bez czarny 105 113 92 125 cm_thumb.webp",
+          "image": "web_body_1200/006a Bez czarny 105 113 92 125 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/006b Bez czarny 105 113 92 125 cm_thumb.webp",
+          "image": "web_body_1200/006b Bez czarny 105 113 92 125 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/006c Bez czarny 105 113 92 125 cm_thumb.webp",
+          "image": "web_body_1200/006c Bez czarny 105 113 92 125 cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/006d Bez czarny 105 113 92 125 cm_thumb.webp",
+          "image": "web_body_1200/006d Bez czarny 105 113 92 125 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": {
+        "values": [
+          0.92,
+          1.05,
+          1.25,
+          1.13
+        ],
+        "note": "pomiar trójkonarowego pojedynczego osobnika; wartości dotyczą różnych konarów/wysokości"
+      }
+    },
+    {
+      "id": "007",
+      "name": "Sosna Zwyczajna 3.14m",
+      "coordinates": {
+        "lat": 54.4555642,
+        "lng": 18.5192991
+      },
+      "description": "Masywna sosna zwyczajna (Pinus sylvestris) wysoko rozwidlona na dwa duże konary. Zimą 2025-26 straciła nieco gałęzi na skutek obciążenia zamarzniętym śniegiem. Większość jej sporej korony jednak pozostała nieuszkodzona.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/007a Sosna zwyczajna 314 cm_thumb.webp",
+          "image": "web_body_1200/007a Sosna zwyczajna 314 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/007b Sosna zwyczajna 314 cm_thumb.webp",
+          "image": "web_body_1200/007b Sosna zwyczajna 314 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.14
+    },
+    {
+      "id": "008",
+      "name": "Sosna Zwyczajna 3.19m",
+      "coordinates": {
+        "lat": 54.4521499,
+        "lng": 18.5154119
+      },
+      "description": "Najgrubsza niepomnikowa sosna zwyczajna (Pinus sylvestris) w okolicy. Niestety w zimie 2025-26 straciła wiele dużych gałęzi na skutek obciążenia zamarzniętym śniegiem.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/008a Sosna zwyczajna 319 cm_thumb.webp",
+          "image": "web_body_1200/008a Sosna zwyczajna 319 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/008b Sosna zwyczajna 319 cm_thumb.webp",
+          "image": "web_body_1200/008b Sosna zwyczajna 319 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/008c Sosna zwyczajna 319 cm_thumb.webp",
+          "image": "web_body_1200/008c Sosna zwyczajna 319 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.19
+    },
+    {
+      "id": "009",
+      "name": "Modrzew 2.74m",
+      "coordinates": {
+        "lat": 54.4487085,
+        "lng": 18.5048141
+      },
+      "description": "Jeden z kilku dużych modrzewi europejskich (Larix decidua) w okolicy. Sąsiaduje z nieco grubszym pomnikowym okazem ma jednak od niego bujniejszą koronę o ciekawym nieregularnym kształcie.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/009a Modrzew europejski 274 cm_thumb.webp",
+          "image": "web_body_1200/009a Modrzew europejski 274 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/009b Modrzew europejski 274 cm_thumb.webp",
+          "image": "web_body_1200/009b Modrzew europejski 274 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/009c Modrzew europejski 274 cm_thumb.webp",
+          "image": "web_body_1200/009c Modrzew europejski 274 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.74
+    },
+    {
+      "id": "010",
+      "name": "Sosna Zwyczajna 3.04m",
+      "coordinates": {
+        "lat": 54.4458865,
+        "lng": 18.5172881
+      },
+      "description": "Duża sosna z silnie rozbudowaną koroną. Główny pień rozwidla na dwa konary. Korona drzewa szeroka jednak podobnie jak u wielu innych sosen w TPK doznała w zimę 2025-26 pewnych (niedużych) uszkodzeń wynikających z obciążenia zamarzniętym śniegiem.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/010a Sosna zwyczajna 304 cm_thumb.webp",
+          "image": "web_body_1200/010a Sosna zwyczajna 304 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/010b Sosna zwyczajna 304 cm_thumb.webp",
+          "image": "web_body_1200/010b Sosna zwyczajna 304 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.04
+    },
+    {
+      "id": "011",
+      "name": "Trzy Buki: Buk 3.59m",
+      "measurements_m": [
+        3.59,
+        3.0,
+        3.59
+      ],
+      "coordinates": {
+        "lat": 54.433876,
+        "lng": 18.5030905
+      },
+      "description": "Trzy buki zwyczajne (Fagus sylvatica) o ponad 300 cm obwodzie w pierśnicy. Dwa z nich to prawdopodobnie zroślaki. Drzewa znajdują się przy drodze, niedaleko parkingu co może zwiększać ich wartość edukacyjną i estetyczną.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/011a 3 Buki 300 359 359 cm_thumb.webp",
+          "image": "web_body_1200/011a 3 Buki 300 359 359 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/011b 3 Buki 300 359 359 cm_thumb.webp",
+          "image": "web_body_1200/011b 3 Buki 300 359 359 cm_body.webp"
+        }
+      ],
+      "group": true
+    },
+    {
+      "id": "012",
+      "name": "Daglezja Podwójna 4.10m",
+      "measurements_m": [
+        4.1,
+        3.54
+      ],
+      "coordinates": {
+        "lat": 54.4312914,
+        "lng": 18.5055598
+      },
+      "description": "Dwie daglezje zielone (Pseudotsuga menziesii). Jedne ze starszych i większych przedstawicieli swojego gatunku w TPK. Osobnik rosnący bliżej leśnej drogi to bardzo nietypowy zroślak (inoskulacja dwóch drzew). Jest to największy znany nam osobnik tego typu rosnący w trójmiejskich lasach. Jego obwód pnia przekracza 400 cm. Przewyższa to większość drzew tego gatunku będących pomnikami przyrody. Siostrzana pojedyncza daglezja jest również imponujących rozmiarów o ponad 350 cm obwodzie pnia.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/012a 2 Daglezje zielone podwójna 404 i 354 cm_thumb.webp",
+          "image": "web_body_1200/012a 2 Daglezje zielone podwójna 404 i 354 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/012b 2 Daglezje zielone podwójna 404 i 354 cm_thumb.webp",
+          "image": "web_body_1200/012b 2 Daglezje zielone podwójna 404 i 354 cm_body.webp"
+        }
+      ],
+      "group": true
+    },
+    {
+      "id": "013",
+      "name": "Sosna Zwyczajna 3.49m",
+      "coordinates": {
+        "lat": 54.4264559,
+        "lng": 18.5300963
+      },
+      "description": "Sosna zwyczajna (Pinus sylvestris) rosnąca blisko stacji naprawy rowerów BigFoot. Ma blisko 350 cm obwodu i dobrze rozbudowaną koronę. Przy tej samej drodze w rośnie inna nieco mniejsza sosna będąca pomnikiem przyrody. Zarówno lokalizacja jak i rozmiar drzewa stanowią silny argument na miano pomnika przyrody.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/013a Sosna zwyczajna 349 cm_thumb.webp",
+          "image": "web_body_1200/013a Sosna zwyczajna 349 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/013b Sosna zwyczajna 349 cm_thumb.webp",
+          "image": "web_body_1200/013b Sosna zwyczajna 349 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.49
+    },
+    {
+      "id": "014",
+      "name": "Sosna Zwyczajna 2.80m",
+      "coordinates": {
+        "lat": 54.4234956,
+        "lng": 18.5369678
+      },
+      "description": "Sosna zwyczajna (Pinus sylvestris) jest jedną z największych przedstawicielek swojego gatunku rosnących na szlaku pomiędzy Gdańskiem Oliwą – wieżą widokową na wzgórzu Pachołek a Leśną polaną – Leśniczówką Sopot. Pojedynczy pień drzewa rozwidla się blisko szczytu na dwa duże konary stanowiące podstawę dla dobrze rozbudowanej korony.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/014a Sosna zwyczajna 280 cm_thumb.webp",
+          "image": "web_body_1200/014a Sosna zwyczajna 280 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/014b Sosna zwyczajna 280 cm_thumb.webp",
+          "image": "web_body_1200/014b Sosna zwyczajna 280 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/014c Sosna zwyczajna 280 cm_thumb.webp",
+          "image": "web_body_1200/014c Sosna zwyczajna 280 cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/014d Sosna zwyczajna 280 cm_thumb.webp",
+          "image": "web_body_1200/014d Sosna zwyczajna 280 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.8
+    },
+    {
+      "id": "015",
+      "name": "Buk 3.18m",
+      "coordinates": {
+        "lat": 54.4121232,
+        "lng": 18.553174
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Drzewo rośnie w niewielkim fragmencie lasu o starszym drzewostanie. Jest jednym z największych okolicznych buków. Sąsiaduje z bukiem 016.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/015a Buk 318 cm_thumb.webp",
+          "image": "web_body_1200/015a Buk 318 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.18
+    },
+    {
+      "id": "016",
+      "name": "Buk 3.37m",
+      "coordinates": {
+        "lat": 54.4118104,
+        "lng": 18.5537685
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Drzewo rośnie w niewielkim fragmencie lasu o starszym drzewostanie. Jest jednym z największych okolicznych buków. Sąsiaduje z bukiem 015. Dość nisko rozwidla się na dwa duże konary, z których do jednego przybita jest budka dla ptaków.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/016a Buk 337 cm_thumb.webp",
+          "image": "web_body_1200/016a Buk 337 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/016b Buk 337 cm_thumb.webp",
+          "image": "web_body_1200/016b Buk 337 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.37
+    },
+    {
+      "id": "017",
+      "name": "Buk 3.73m",
+      "coordinates": {
+        "lat": 54.4113256,
+        "lng": 18.5551116
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Drzewo rośnie w niewielkim fragmencie lasu o starszym drzewostanie. Jest największym z okolicznych buków. Bardzo nisko (na 2-3m) rozgałęzia się początkowo na 3 a ostatecznie na 6 dużych konarów. Krój tego drzewa jest bardzo nietypowy i piękny przypomina nieco kształtem dłoń. Buki o takich rozmiarach (w szczególności osobniki pojedyńcze) jest w trójmiejskich lasach naprawdę ciężko spotkać. Jedno z najbardziej godnych uwagi drzew w tej części TPK.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/017a Buk 373 cm_thumb.webp",
+          "image": "web_body_1200/017a Buk 373 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/017b Buk 373 cm_thumb.webp",
+          "image": "web_body_1200/017b Buk 373 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/017c Buk 373 cm_thumb.webp",
+          "image": "web_body_1200/017c Buk 373 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.73
+    },
+    {
+      "id": "018",
+      "name": "Jesion Wyniosły 4.27m",
+      "coordinates": {
+        "lat": 54.409186,
+        "lng": 18.540867
+      },
+      "description": "Jesion wyniosły (Fraxinus excelsior). Rosnący przy ulicy Kościerskiej jesion to jeden z bardziej okazałych i wiekowych przedstawicieli tego gatunku w Gdańsku. Drzewo zdaje się być bardzo zdrowe, bez widocznych dziupli czy martwych fragmętów pnia. Kora porośnięta mchami i porostami – głównie Mąklik otrębiasty (Pseudevernia furfuracea). Bardzo rozłożysta korona. Co ciekawe jesion ten rożnie na małym wzniesieniu prawdopodobnie będącym pozostałością po poziomie gruntu sprzed wielu lat gdy było ono młode.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/018a Jesion wyniosły 427 cm_thumb.webp",
+          "image": "web_body_1200/018a Jesion wyniosły 427 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/018b Jesion wyniosły 427 cm_thumb.webp",
+          "image": "web_body_1200/018b Jesion wyniosły 427 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/018c Jesion wyniosły 427 cm_thumb.webp",
+          "image": "web_body_1200/018c Jesion wyniosły 427 cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/018d Jesion wyniosły 427 cm_thumb.webp",
+          "image": "web_body_1200/018d Jesion wyniosły 427 cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/018e Jesion wyniosły 427 cm_thumb.webp",
+          "image": "web_body_1200/018e Jesion wyniosły 427 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 4.27
+    },
+    {
+      "id": "019",
+      "name": "Dąb Szypułkowy 3.98m",
+      "coordinates": {
+        "lat": 54.4000819,
+        "lng": 18.5395065
+      },
+      "description": "Dąb szypułkowy (Quercus robur). Jeden z najdostojniejszych okolicznych dębów. Mierzy niemal 4m w pierśnicy. Ze względu na jego umiejscowienie na dnie dolinki gdzie musiał konkurować o światło jest on bardzo strzelisty. Brak zewnętrznych uszkodzeń oraz oznak próchnienia, dziupli czy ran.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/019a Dąb 398 cm_thumb.webp",
+          "image": "web_body_1200/019a Dąb 398 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/019b Dąb 398 cm_thumb.webp",
+          "image": "web_body_1200/019b Dąb 398 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.98
+    },
+    {
+      "id": "020",
+      "name": "Lipa 5.00m",
+      "coordinates": {
+        "lat": 54.3965386,
+        "lng": 18.5227434
+      },
+      "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Najgrubsza lipa w okolicy a zarazem najgrubsze drzewo przy ul. Bytowskiej. Prawdopodobnie była w młodości silnie przycinana (wskazywałby na to jej krój – gruby pień dość nisko rozgałęziający się na wiele mniejszych konarów).",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/020a Lipa 500 cm_thumb.webp",
+          "image": "web_body_1200/020a Lipa 500 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/020b Lipa 500 cm_thumb.webp",
+          "image": "web_body_1200/020b Lipa 500 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/020c Lipa 500 cm_thumb.webp",
+          "image": "web_body_1200/020c Lipa 500 cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/020d Lipa 500 cm_thumb.webp",
+          "image": "web_body_1200/020d Lipa 500 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 5.0
+    },
+    {
+      "id": "021",
+      "name": "Lipa 3.72m",
+      "coordinates": null,
+      "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Duże drzewo przy strumieniu w Dolinie Radości. Zdrowsza z dwóch rosnących obok siebie dużych lip. Spory odłamany konar sąsiadki przewieszony jest przez jej gałęzie. Drzewo nie ma widocznych uszkodzeń.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/021a Lipa 373 cm_thumb.webp",
+          "image": "web_body_1200/021a Lipa 373 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/021b Lipa 373 cm_thumb.webp",
+          "image": "web_body_1200/021b Lipa 373 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/021c Lipa 373 cm.JPG_thumb.webp",
+          "image": "web_body_1200/021c Lipa 373 cm.JPG_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/021d Lipa 373 cm.JPG_thumb.webp",
+          "image": "web_body_1200/021d Lipa 373 cm.JPG_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.72
+    },
+    {
+      "id": "022",
+      "name": "Lipa 4.00m",
+      "coordinates": null,
+      "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Stare omszone drzewo o ponad 400cm obwodzie pnia. Ma bardzo dużo dziupli i zakamarków wypełnionych pruchniejącym drewnem. Prawdopodobnie przycinana wiele lat wcześniej - stąd krój drzewa gdzie ze starego grubego pnia wyrasta wiele młodszych konarów. Drzewo niezwykle cenne biocenotycznie. Potencjalnie może pełnić rolę matecznika występującego na tym terenie chronionego chrząszcza - pachnicy dębowej (Osmoderma eremita), którego larwy wymagają pruchna do życia. Jedno z najstarszych i najcenniejszych drzew w Dolinie Radości.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/022a Lipa 400 cm_thumb.webp",
+          "image": "web_body_1200/022a Lipa 400 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/022b Lipa 400 cm_thumb.webp",
+          "image": "web_body_1200/022b Lipa 400 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/022c Lipa 400 cm.JPG_thumb.webp",
+          "image": "web_body_1200/022c Lipa 400 cm.JPG_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/022d Lipa 400 cm_thumb.webp",
+          "image": "web_body_1200/022d Lipa 400 cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/022e Lipa 400 cm_thumb.webp",
+          "image": "web_body_1200/022e Lipa 400 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 4.0
+    },
+    {
+      "id": "023",
+      "name": "Dąb szypułkowy 3.54m",
+      "coordinates": {
+        "lat": 54.4467661,
+        "lng": 18.4721934
+      },
+      "description": "Dąb szypułkowy (Quercus robur). Największy dąb w okolicy. Rośnie niedaleko torów w dość gęstym młodym drzewostanie. Bliski sąsiad pomnikowych zrośniętych buków.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/023a Dąb szypułkowy 354 cm_thumb.webp",
+          "image": "web_body_1200/023a Dąb szypułkowy 354 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/023b Dąb szypułkowy 354 cm_thumb.webp",
+          "image": "web_body_1200/023b Dąb szypułkowy 354 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.54
+    },
+    {
+      "id": "024",
+      "name": "Świerk 2.57m",
+      "coordinates": {
+        "lat": 54.4495772,
+        "lng": 18.468262
+      },
+      "description": "Świerk pospolity (Picea abies). Bardzo ładny i unikalny przedstawiciel swojego gatunku. Drzewo rośnie przy drodze na dość odsłoniętym na słońce kawałku ziemi. Z tego powodu jego korona sięga bardzo nisko (najniższe gałęzie wiszą nieco ponad metr nad ziemią). Główny pień stosunkowo nisko rozgałęzia się na dwa równolegle i bardzo blisko siebie idące ku górze konary. Jest to dla świerków dość nietypowe. Bujna korona oraz nietypowy krój czynią z niego drzewo o wysokich walorach estetycznych. Sąsiaduje z martwym od lat świerkiem, który nachylony jest w jego stronę. (Być może warto by było go umiejętnie przyciąć aby ochronić żywe drzewo przed uszkodzeniami w razie upadku martwego.)",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/024a  Świerk 257 cm_thumb.webp",
+          "image": "web_body_1200/024a  Świerk 257 cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/024b  Świerk 257 cm_thumb.webp",
+          "image": "web_body_1200/024b  Świerk 257 cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/024c  Świerk 257 cm do wycinki_thumb.webp",
+          "image": "web_body_1200/024c  Świerk 257 cm do wycinki_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/024d  Świerk 257 cm_thumb.webp",
+          "image": "web_body_1200/024d  Świerk 257 cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.57
+    },
+    {
+      "id": "025",
+      "name": "Dąb Szypułkowy 3.35m",
+      "coordinates": {
+        "lat": 54.4093689,
+        "lng": 18.5258494
+      },
+      "description": "Dąb szypułkowy (Quercus robur). Spory dąb na samym początku aleji drzew w leśnej części ul. Kościerskiej (głównie lip) idącej od ZOO w stronę Owczarni. Drzewo zdrowe o ładnej koronie.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/025a Dąb Szypułkowy 335cm_thumb.webp",
+          "image": "web_body_1200/025a Dąb Szypułkowy 335cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/025b Dąb Szypułkowy 335cm_thumb.webp",
+          "image": "web_body_1200/025b Dąb Szypułkowy 335cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/025c Dąb Szypułkowy 335cm_thumb.webp",
+          "image": "web_body_1200/025c Dąb Szypułkowy 335cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.35
+    },
+    {
+      "id": "026",
+      "name": "Lipa 3.30m",
+      "coordinates": {
+        "lat": 54.4092134,
+        "lng": 18.5233395
+      },
+      "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Jedna z największych lip będących częścią aleji drzew w leśnej części ul. Kościerskiej. Drzewo rozwidla się na 2 duże konary około 3m nad ziemią. Ma ładnie rozwiniętą koronę i zdaje się być zdrowe, bez dziupli lub odsłoniętego martwego drewna. Warto by pomyśleć nad statusem pomnika nie tylko dla tej lipy ale dla całej aleji.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/026a Lipa 330cm_thumb.webp",
+          "image": "web_body_1200/026a Lipa 330cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/026b Lipa 330cm_thumb.webp",
+          "image": "web_body_1200/026b Lipa 330cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.3
+    },
+    {
+      "id": "027",
+      "name": "Grab 2.83m",
+      "coordinates": {
+        "lat": 54.4085554,
+        "lng": 18.525791
+      },
+      "description": "Grab pospolity (Carpinus betulus). Osobnik o naprawde imponującym jak na swój gatunek obwodzie pnia przewyższający niejednego pomnikowego graba. Sądząc po nisko rozgałęzionym kroju drzewa można przypuszczać że w młodości miało większy dostęp do światła. Umiejscowienie tego osobnika jest również dość urokliwe, rośnie on bowiem kilka metrów od źródła malutkiego potoku.",
+      "photos": [
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/027b Grab 283cm_thumb.webp",
+          "image": "web_body_1200/027b Grab 283cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.83
+    },
+    {
+      "id": "028",
+      "name": "Sosna zwyczajna 3.30m",
+      "coordinates": {
+        "lat": 54.4056552,
+        "lng": 18.5256234
+      },
+      "description": "Sosna zwyczajna (Pinus sylvestris). Duże, stare silnie rozgałęzione drzewo. Wyrasta bezpośrednio przy potoku przecinającym Dolinę Czystej Wody. W gałęziach ma resztki czegoś co mogło być myśliwską amboną lub domkiem na drzewie. Lekkie uszkodzenia po zimie 2025-26 straciła sporą gałąź na skutek obciążenia zamarzniętym śniegiem.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/028a Sosna zwyczajna 330cm_thumb.webp",
+          "image": "web_body_1200/028a Sosna zwyczajna 330cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/028b Sosna zwyczajna 330cm_thumb.webp",
+          "image": "web_body_1200/028b Sosna zwyczajna 330cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/028c Sosna zwyczajna 330cm_thumb.webp",
+          "image": "web_body_1200/028c Sosna zwyczajna 330cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/028d Sosna zwyczajna 330cm_thumb.webp",
+          "image": "web_body_1200/028d Sosna zwyczajna 330cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/028e Sosna zwyczajna 330cm_thumb.webp",
+          "image": "web_body_1200/028e Sosna zwyczajna 330cm_body.webp"
+        },
+        {
+          "id": "f",
+          "thumbnail": "web_thumbnail_400/028f Sosna zwyczajna 330cm_thumb.webp",
+          "image": "web_body_1200/028f Sosna zwyczajna 330cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.3
+    },
+    {
+      "id": "029",
+      "name": "Dąb szypułkowy 4.16m",
+      "coordinates": {
+        "lat": 54.3821126,
+        "lng": 18.5233197
+      },
+      "description": "Dąb szypułkowy (Quercus robur). Bardzo okazały strzelisty osobnik. Drzewo bez wyraźnych oznak próchnienia. Rośnie blisko czarnego szlaku.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/029a Dąb szypułkowy 416cm_thumb.webp",
+          "image": "web_body_1200/029a Dąb szypułkowy 416cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/029b Dąb szypułkowy 416cm_thumb.webp",
+          "image": "web_body_1200/029b Dąb szypułkowy 416cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 4.16
+    },
+    {
+      "id": "030",
+      "name": "Olcha 2.73m",
+      "coordinates": {
+        "lat": 54.3836729,
+        "lng": 18.5230203
+      },
+      "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Drzewo ma wyraźną ranę po ułamanym konarze. Poza tym pień wydaj się być zdrowy a korona ładnie rozwinięta.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/030a Olcha 273cm_thumb.webp",
+          "image": "web_body_1200/030a Olcha 273cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/030b Olcha 273cm_thumb.webp",
+          "image": "web_body_1200/030b Olcha 273cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.73
+    },
+    {
+      "id": "031",
+      "name": "Olcha 3.00m",
+      "coordinates": null,
+      "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Osobnik o największym obwodzie pnia spośród okolicznych olsz. Z nasady jej pnia wyrasta gęsto wiele małych gałązek. Stosunkowo nisko pień rozdziela się na dwa spore konary. Drzewo posiada wykształconą koronę.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/031a Olcha 300cm_thumb.webp",
+          "image": "web_body_1200/031a Olcha 300cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/031b Olcha 300cm_thumb.webp",
+          "image": "web_body_1200/031b Olcha 300cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.0
+    },
+    {
+      "id": "032",
+      "name": "Olcha 2.72m",
+      "coordinates": null,
+      "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Jedna z jej większych gałęzi obumarła i ma w sobie kilka dziupli. Pozostałe konary są żywe i zdają się być w dobrej kondycji. Rozgałęziają się w dobrze uformowaną koronę.",
+      "photos": [
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/032b Olcha 272m_thumb.webp",
+          "image": "web_body_1200/032b Olcha 272m_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/032c Olcha 272m_thumb.webp",
+          "image": "web_body_1200/032c Olcha 272m_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/032e Olcha 272m_thumb.webp",
+          "image": "web_body_1200/032e Olcha 272m_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.72
+    },
+    {
+      "id": "033",
+      "name": "Sosna 2.53m",
+      "coordinates": {
+        "lat": 54.3812045,
+        "lng": 18.520895
+      },
+      "description": "Sosna zwyczajna (Pinus sylvestris). Drzewo o wyjątkowo bujnej i pięknej jak na sosny koronie, zbudowanej z wielu warstw gałęzi. Prawdziwa ozdoba żółtego szlaku. Choć nie należy do największych sosen jej rozmiary są i tak ponad przeciętne. Wizualnie jedna z piękniejszych przedstawicielek swojego gatunku. Co ciekawe mimo tak gęstej korony nie ucierpiała ona w najmniejszym stopniu w zimę 2025-26 z powodu zamarzniętego śniegu, który uszkodził bardzo wiele sosen na terenie Trójmiasta.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/033a Sosna 253cm_thumb.webp",
+          "image": "web_body_1200/033a Sosna 253cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/033c Sosna 253cm_thumb.webp",
+          "image": "web_body_1200/033c Sosna 253cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/033e Sosna 253cm_thumb.webp",
+          "image": "web_body_1200/033e Sosna 253cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.53
+    },
+    {
+      "id": "034",
+      "name": "Daglezja 3.65m",
+      "coordinates": {
+        "lat": 54.3827037,
+        "lng": 18.5166796
+      },
+      "description": "Daglezja zielona (Pseudotsuga menziesii). Jedna z najbardziej dostojnych daglezji w TPK. Drzewo ma dla siebie sporo przestrzeni przez zadziwia nie tylko grubym nieco łukowatym pniem, ale i szeroką piękną koroną. Osobnik, do którego pasuje określenie monumentalny.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/034a Daglezja 365cm_thumb.webp",
+          "image": "web_body_1200/034a Daglezja 365cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.65
+    },
+    {
+      "id": "035",
+      "name": "Grab 2.2m",
+      "coordinates": {
+        "lat": 54.378697,
+        "lng": 18.5506095
+      },
+      "description": "Grab pospolity (Carpinus betulus). Duży, rosnący przy samej drodze osobnik o pochylonym pniu. Jego korona rozgałęzia się przypominając nieco wachlarz lub świecznik. Jest to największy grab przy tym szlaku. Sąsiaduje z wieloma ponad przeciętnymi jeśli chodzi o rozmiary bukami rosnącymi wzdłuż tej samej drogi.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/035a Grab 220cm _thumb.webp",
+          "image": "web_body_1200/035a Grab 220cm _body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/035b Grab 220cm _thumb.webp",
+          "image": "web_body_1200/035b Grab 220cm _body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/035c Grab 220cm _thumb.webp",
+          "image": "web_body_1200/035c Grab 220cm _body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/035d Grab 220cm _thumb.webp",
+          "image": "web_body_1200/035d Grab 220cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.2
+    },
+    {
+      "id": "036",
+      "name": "Sosna zwyczajna 3.19m",
+      "coordinates": {
+        "lat": 54.397657,
+        "lng": 18.546223
+      },
+      "description": "Sosna zwyczajna (Pinus sylvestris). Najgrubsza w okolicy sosna. Posiada bardzo dobrze rozwiniętą koronę. Rośnie przy samej drodze na zakręcie nieopodal punktu widokowego na Zatokę Gdańską.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/036a Sosna zwyczajna 319cm_thumb.webp",
+          "image": "web_body_1200/036a Sosna zwyczajna 319cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/036b Sosna zwyczajna 319cm_thumb.webp",
+          "image": "web_body_1200/036b Sosna zwyczajna 319cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/036c Sosna zwyczajna 319cm_thumb.webp",
+          "image": "web_body_1200/036c Sosna zwyczajna 319cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.19
+    },
+    {
+      "id": "037",
+      "name": "Świerk 2.84m",
+      "coordinates": {
+        "lat": 54.4455211,
+        "lng": 18.4869352
+      },
+      "description": "Świerk pospolity (Picea abies). Największy przedstawiciel swojego gatunku w okolicy. Sąsiaduje z innym nieco mniejszym świerkiem. Ze względu na to, że wyrósł w dolince gdzie miał cięższy dostęp do światła jest wysoki i prosty.",
+      "photos": [
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/037b Świerk 284cm_thumb.webp",
+          "image": "web_body_1200/037b Świerk 284cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.84
+    },
+    {
+      "id": "038",
+      "name": "Dąb ~Bezszypułkowy 3.53m",
+      "coordinates": {
+        "lat": 54.4459877,
+        "lng": 18.4804875
+      },
+      "description": "Dąb bezszypułkowy (Quercus petraea). Jeden z grubszych i starszych osobników swojego gatunku w okolicy. Pień porastają grzyby najprawdopodobniej z rodzaju Phellinus. Korona zbudowana z bardzo ładnie poskręcanych konarów. Drzewo o dużej wartości biocenotycznej.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/038a Dąb Bezszypułkowy 353cm_thumb.webp",
+          "image": "web_body_1200/038a Dąb Bezszypułkowy 353cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/038b Dąb Bezszypułkowy 353cm_thumb.webp",
+          "image": "web_body_1200/038b Dąb Bezszypułkowy 353cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/038c Dąb Bezszypułkowy 353cm_thumb.webp",
+          "image": "web_body_1200/038c Dąb Bezszypułkowy 353cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/038d Dąb Bezszypułkowy 353cm_thumb.webp",
+          "image": "web_body_1200/038d Dąb Bezszypułkowy 353cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.53
+    },
+    {
+      "id": "039",
+      "name": "Lipa 3.54m",
+      "coordinates": {
+        "lat": 54.4087031,
+        "lng": 18.5335513
+      },
+      "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Duża ładnie rozgałęziona lipa o pięknie rozwinietej koronie. Rośnie przy ul. Kościerskiej blisko tylnej bramy Gdańskiego Ogrodu Zoologicznego. Krój korony wskazuje, że w przeciwieństwie do wielu innych okolicznych lip nie była przycinana.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/039a Lipa 354cm_thumb.webp",
+          "image": "web_body_1200/039a Lipa 354cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/039b Lipa 354cm_thumb.webp",
+          "image": "web_body_1200/039b Lipa 354cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/039c Lipa 354cm_thumb.webp",
+          "image": "web_body_1200/039c Lipa 354cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/039d Lipa 354cm_thumb.webp",
+          "image": "web_body_1200/039d Lipa 354cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.54
+    },
+    {
+      "id": "040",
+      "name": "Brzoza 2.30m",
+      "coordinates": {
+        "lat": 54.4062891,
+        "lng": 18.5337434
+      },
+      "description": "Brzoza brodawkowata (Betula pendula). Najgrubsza z szeregu dużych brzóz rosnących przy bocznej odnodze ul. Kościerskiej. Prosty i gruby osobnik o bardzo bujnej koronie.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/040a Brzoza 230cm _thumb.webp",
+          "image": "web_body_1200/040a Brzoza 230cm _body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/040b Brzoza 230cm _thumb.webp",
+          "image": "web_body_1200/040b Brzoza 230cm _body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/040c Brzoza 230cm _thumb.webp",
+          "image": "web_body_1200/040c Brzoza 230cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.3
+    },
+    {
+      "id": "041",
+      "name": "Modrzew 2.75m",
+      "coordinates": {
+        "lat": 54.389097,
+        "lng": 18.5153991
+      },
+      "description": "Modrzew europejski (Larix decidua). Jeden z największych okolicznych modrzewi. Wyróżnia się szczególnie szeroką koroną. Rośnie przy jednym z leśnych szlaków wychodzących z Doliny Radości.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/041a Modrzew 275cm_thumb.webp",
+          "image": "web_body_1200/041a Modrzew 275cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/041c Modrzew 275cm_thumb.webp",
+          "image": "web_body_1200/041c Modrzew 275cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.75
+    },
+    {
+      "id": "042",
+      "name": "Grupa: Dąb Szypułkowy 3.35m",
+      "measurements_m": [
+        3.35,
+        3.1,
+        3.55,
+        3.8,
+        3.75
+      ],
+      "coordinates": {
+        "lat": 54.370359,
+        "lng": 18.537405
+      },
+      "description": "Grupa około 230-250 letnich dębów niedaleko Sanktuarium Matki Boskiej Brzemiennej w Matemblewie. Większość drzew jest w dobrym stanie. Jeden osobnik dziuplasty z porastającym go czyreniem dębowym – może stanowić matecznik wielu gatunków zwierząt (zwłaszcza chrząszczy). Najgrubszy (mierzący 380 cm w pierśnicy) ma ślad będący najprawdopodobniej pozostałością po uderzeniu pioruna. Dęby te są bardzo dobrym kandydatem na pomnik zbiorowy. Wiek oszacowany na podstawie słojów obumarłego i pociętego osobnika.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/042a Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042a Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/042b Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042b Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/042c Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042c Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/042d Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042d Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/042e Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042e Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "g",
+          "thumbnail": "web_thumbnail_400/042g Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042g Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "h",
+          "thumbnail": "web_thumbnail_400/042h Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042h Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "j",
+          "thumbnail": "web_thumbnail_400/042j Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042j Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "k",
+          "thumbnail": "web_thumbnail_400/042k Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042k Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "l",
+          "thumbnail": "web_thumbnail_400/042l Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042l Grupa Dęby Matemblewo_body.webp"
+        },
+        {
+          "id": "m",
+          "thumbnail": "web_thumbnail_400/042m Grupa Dęby Matemblewo_thumb.webp",
+          "image": "web_body_1200/042m Grupa Dęby Matemblewo_body.webp"
+        }
+      ],
+      "group": true
+    },
+    {
+      "id": "043",
+      "name": "Buk 3.15m",
+      "coordinates": {
+        "lat": 54.3646127,
+        "lng": 18.5450426
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie kilkadziesiąt metrów od drogi z Sanktuarium w Matemblewie do rezerwatu Doliny Strzyży. Drzewo leśne – strzeliste, wysoko rozgałęzione. Otoczone znacznie młodszym drzewostanem.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/043a Buk 315cm_thumb.webp",
+          "image": "web_body_1200/043a Buk 315cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/043c Buk 315cm_thumb.webp",
+          "image": "web_body_1200/043c Buk 315cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.15
+    },
+    {
+      "id": "044",
+      "name": "Modrzew 3.08m potencjalny piorun Modrzew 3.18m",
+      "measurements_m": [
+        3.08,
+        3.18
+      ],
+      "coordinates": {
+        "lat": 54.4005382,
+        "lng": 18.491212
+      },
+      "description": "Dwa modrzewie europejskie (Larix decidua). Duże drzewa o ponad 300 cm obwodzie w pierśnicy. Jedno z nich nosi bliznę najprawdopodobniej po uderzeniu pioruna. Rosną zaraz obok leśnego zadaszenia turystycznego, co jest dodatkowym (edukacyjnym) argumentem na nadanie im statusu pomników przyrody.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/044a Modrzew 308cm i 318cm_thumb.webp",
+          "image": "web_body_1200/044a Modrzew 308cm i 318cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/044b Modrzew 308cm i 318cm_thumb.webp",
+          "image": "web_body_1200/044b Modrzew 308cm i 318cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/044c Modrzew 308cm i 318cm_thumb.webp",
+          "image": "web_body_1200/044c Modrzew 308cm i 318cm_body.webp"
+        }
+      ],
+      "group": true
+    },
+    {
+      "id": "045",
+      "name": "Modrzew 3.34m",
+      "coordinates": {
+        "lat": 54.4002146,
+        "lng": 18.4910242
+      },
+      "description": "Modrzew europejski (Larix decidua). Najgrubszy osobnik tego gatunku w okolicznym lesie. Drzewo jest naprawde imponujących rozmiarów zarówno pod wzgldem grubości pnia, wysokości jak i rozłożystości korony. Prawdziwie monumentalny modrzew.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/045a Modrzew 334cm_thumb.webp",
+          "image": "web_body_1200/045a Modrzew 334cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/045b Modrzew 334cm_thumb.webp",
+          "image": "web_body_1200/045b Modrzew 334cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/045c Modrzew 334cm_thumb.webp",
+          "image": "web_body_1200/045c Modrzew 334cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/045d Modrzew 334cm_thumb.webp",
+          "image": "web_body_1200/045d Modrzew 334cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.34
+    },
+    {
+      "id": "046",
+      "name": "Daglezja 3.63m",
+      "coordinates": {
+        "lat": 54.4260311,
+        "lng": 18.5110459
+      },
+      "description": "Daglezja zielona (Pseudotsuga menziesii). Jedna z bardziej okazałych w okolicy. Drzewo rośnie dość daleko od drogi. Ma wokoło sporo przestrzeni dzięki czemu jego korona jest dość bujna.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/046a Daglezja 363cm_thumb.webp",
+          "image": "web_body_1200/046a Daglezja 363cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/046b Daglezja 363cm_thumb.webp",
+          "image": "web_body_1200/046b Daglezja 363cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/046c Daglezja 363cm_thumb.webp",
+          "image": "web_body_1200/046c Daglezja 363cm_body.webp"
+        },
+        {
+          "id": "f",
+          "thumbnail": "web_thumbnail_400/046f Daglezja 363cm_thumb.webp",
+          "image": "web_body_1200/046f Daglezja 363cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.63
+    },
+    {
+      "id": "047",
+      "name": "Buk 3.50m",
+      "coordinates": {
+        "lat": 54.4406815,
+        "lng": 18.5333297
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Najokazalszy z szeregu rosnących wzdłuż tego szlaku buk. Pień palowy, wysoko rozgałęziający się na mniejsze gałęzie. Ma ładnie wykształconą koronę dzięki dodatkowemu światłu i przestrzeni wynikających z bliskości drogi.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/047a Buk 350cm_thumb.webp",
+          "image": "web_body_1200/047a Buk 350cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/047b Buk 350cm_thumb.webp",
+          "image": "web_body_1200/047b Buk 350cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/047c Buk 350cm_thumb.webp",
+          "image": "web_body_1200/047c Buk 350cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/047d Buk 350cm_thumb.webp",
+          "image": "web_body_1200/047d Buk 350cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/047e Buk 350cm_thumb.webp",
+          "image": "web_body_1200/047e Buk 350cm_body.webp"
+        },
+        {
+          "id": "f",
+          "thumbnail": "web_thumbnail_400/047f Buk 350cm_thumb.webp",
+          "image": "web_body_1200/047f Buk 350cm_body.webp"
+        },
+        {
+          "id": "g",
+          "thumbnail": "web_thumbnail_400/047g Buk 350cm_thumb.webp",
+          "image": "web_body_1200/047g Buk 350cm_body.webp"
+        },
+        {
+          "id": "h",
+          "thumbnail": "web_thumbnail_400/047h Buk 350cm_thumb.webp",
+          "image": "web_body_1200/047h Buk 350cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.5
+    },
+    {
+      "id": "048",
+      "name": "Dąb 3.14m",
+      "coordinates": {
+        "lat": 54.4666333,
+        "lng": 18.5248858
+      },
+      "description": "Dąb szypułkowy (Quercus robur) lub bezszypułkowy (Quercus petraea). Drzewo o ponad przeciętych rozmiarach. Rośnie przy szlaku na rozstaju dróg.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/048a Dąb 314cm _thumb.webp",
+          "image": "web_body_1200/048a Dąb 314cm _body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/048b Dąb 314cm _thumb.webp",
+          "image": "web_body_1200/048b Dąb 314cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.14
+    },
+    {
+      "id": "049",
+      "name": "Buk 3.70m",
+      "coordinates": {
+        "lat": 54.3996519,
+        "lng": 18.5260542
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Jeden z najokazalszych przedstawicieli swojego gatunku w TPK. Na wysokości około 3,5m główny pień rozdziela się na 3 większe konary stanowiące fundament rozłożystej korony. Możliwe, że drzewo jest wynikiem zrośnięcia się (inoskulacji) dwóch dużych buków. Jednak z zewnątrz nie jest to jednoznacznie widoczne.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/049a Buk 370cm _thumb.webp",
+          "image": "web_body_1200/049a Buk 370cm _body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/049b Buk 370cm _thumb.webp",
+          "image": "web_body_1200/049b Buk 370cm _body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/049c Buk 370cm _thumb.webp",
+          "image": "web_body_1200/049c Buk 370cm _body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/049d Buk 370cm _thumb.webp",
+          "image": "web_body_1200/049d Buk 370cm _body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/049e Buk 370cm _thumb.webp",
+          "image": "web_body_1200/049e Buk 370cm _body.webp"
+        },
+        {
+          "id": "g",
+          "thumbnail": "web_thumbnail_400/049g Buk 370cm _thumb.webp",
+          "image": "web_body_1200/049g Buk 370cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.7
+    },
+    {
+      "id": "050",
+      "name": "Buk 4.18m",
+      "coordinates": {
+        "lat": 54.4053592,
+        "lng": 18.5176418
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Najdostojniejsze drzewo okolicznych lasów. Ponad 400 cm w pierśnicy umieszcza go w kategorii najgrubszych trójmiejskich buków. Niewykluczone że drzewo to jest wynikiem zrośnięcia się (inoskulacji) dwóch starych buków. Po obu stronach pnia przebiega głęboka pionowa bruzda. Powyżej jednak kora staje się ciągła a zrośnięcie całkowite. Ma ogromną koronę zbudowaną z wielu pięknie poskręcanych gałęzi. U podstawy pnia wyrastają trzy spore odrosty stanowiące część drzewa.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/050a Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050a Buk 418cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/050b Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050b Buk 418cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/050c Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050c Buk 418cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/050d Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050d Buk 418cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/050e Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050e Buk 418cm_body.webp"
+        },
+        {
+          "id": "f",
+          "thumbnail": "web_thumbnail_400/050f Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050f Buk 418cm_body.webp"
+        },
+        {
+          "id": "g",
+          "thumbnail": "web_thumbnail_400/050g Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050g Buk 418cm_body.webp"
+        },
+        {
+          "id": "h",
+          "thumbnail": "web_thumbnail_400/050h Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050h Buk 418cm_body.webp"
+        },
+        {
+          "id": "i",
+          "thumbnail": "web_thumbnail_400/050i Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050i Buk 418cm_body.webp"
+        },
+        {
+          "id": "j",
+          "thumbnail": "web_thumbnail_400/050j Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050j Buk 418cm_body.webp"
+        },
+        {
+          "id": "k",
+          "thumbnail": "web_thumbnail_400/050k Buk 418cm_thumb.webp",
+          "image": "web_body_1200/050k Buk 418cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 4.18
+    },
+    {
+      "id": "051",
+      "name": "Świerk 2.68m",
+      "coordinates": {
+        "lat": 54.4841641,
+        "lng": 18.4997213
+      },
+      "description": "Świerk pospolity (Picea abies). Spore drzewo na skraju drogi. Dobry dostęp do światła sprawił, że ma dość dobrze rozwiniętą koronę. Główny pień rozwidla się na dwa pionowo pnące się ku górze konary. Nadaje to temu świerkowi dość nietypowy charakter.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/051a Świerk 268cm _thumb.webp",
+          "image": "web_body_1200/051a Świerk 268cm _body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/051b Świerk 268cm _thumb.webp",
+          "image": "web_body_1200/051b Świerk 268cm _body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/051c Świerk 268cm _thumb.webp",
+          "image": "web_body_1200/051c Świerk 268cm _body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/051d Świerk 268cm _thumb.webp",
+          "image": "web_body_1200/051d Świerk 268cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.68
+    },
+    {
+      "id": "052",
+      "name": "",
+      "measurements_m": [
+        3.41,
+        3.23,
+        3.14
+      ],
+      "coordinates": {
+        "lat": 54.37104349045309,
+        "lng": 18.600328777265403
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie przy wejściu w lesie po wschodniej stronie ul. Jaśkowej Doliny. Jeden z największych buków w okolicy. Pień nieco powyginany z kilkoma naroślami. Dobrze rozwinięta korona. Sąsiaduje z dwoma innymi nieco mniejszymi bukami o obwodach ponad 300 cm.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/052a Buk 341cm_thumb.webp",
+          "image": "web_body_1200/052a Buk 341cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/052b Buk 341cm_thumb.webp",
+          "image": "web_body_1200/052b Buk 341cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/052c Buk 341cm_thumb.webp",
+          "image": "web_body_1200/052c Buk 341cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/052d Buk 341cm_thumb.webp",
+          "image": "web_body_1200/052d Buk 341cm_body.webp"
+        }
+      ],
+      "group": true
+    },
+    {
+      "id": "053",
+      "name": "Buk 3.2m",
+      "coordinates": {
+        "lat": 54.4872254,
+        "lng": 18.4948735
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Jeden z szeregu dużych buków rosnących wzdłuż Szlaku Zagórskiej Strugi – czarnego. Drzewo rośnie na stromej skarpie. Sąsiaduje z innym sporym bukiem obrośniętym bluszczem.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/053a Buk 320cm _thumb.webp",
+          "image": "web_body_1200/053a Buk 320cm _body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/053b Buk 320cm _thumb.webp",
+          "image": "web_body_1200/053b Buk 320cm _body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/053c Buk 320cm _thumb.webp",
+          "image": "web_body_1200/053c Buk 320cm _body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/053d Buk 320cm _thumb.webp",
+          "image": "web_body_1200/053d Buk 320cm _body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/053e z bluszczem obok Buka 320cm _thumb.webp",
+          "image": "web_body_1200/053e z bluszczem obok Buka 320cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.2
+    },
+    {
+      "id": "054",
+      "name": "Dąb Bezszypułkowy 3.06m",
+      "coordinates": {
+        "lat": 54.4792232,
+        "lng": 18.4587298
+      },
+      "description": "Dąb bezszypułkowy (Quercus petraea). Jeden z szeregu dużych buków rosnących wzdłuż Szlaku Zagórskiej Strugi – czarnego. Spory stosunkowo prosty dąb. Pień wydaje się być w dobrym stanie – bez obdrapań i dziupli.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/054a Dąb Bezszypułkowy 306cm_thumb.webp",
+          "image": "web_body_1200/054a Dąb Bezszypułkowy 306cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/054b Dąb Bezszypułkowy 306cm_thumb.webp",
+          "image": "web_body_1200/054b Dąb Bezszypułkowy 306cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/054c Dąb Bezszypułkowy 306cm_thumb.webp",
+          "image": "web_body_1200/054c Dąb Bezszypułkowy 306cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/054d Dąb Bezszypułkowy 306cm_thumb.webp",
+          "image": "web_body_1200/054d Dąb Bezszypułkowy 306cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.06
+    },
+    {
+      "id": "055",
+      "name": "Modrzew 2.78m",
+      "coordinates": {
+        "lat": 54.4846352,
+        "lng": 18.4599817
+      },
+      "description": "Modrzew europejski (Larix decidua). Obszar leśny, na którym rośnie ten osobnik ma ponadprzeciętną liczbę starszych modrzewi.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/055a Modrzew 278cm_thumb.webp",
+          "image": "web_body_1200/055a Modrzew 278cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.78
+    },
+    {
+      "id": "056",
+      "name": "Buk 3.45m",
+      "coordinates": {
+        "lat": 54.4861698,
+        "lng": 18.4579305
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Spory, nisko rozgałęziony osobnik. U nasady dwóch głównych konarów dochodzi do ich zrastania przez co pień ma specyficzne wybrzuszenia z tym związane. Drzewo zdrowe o dość nietypowym dla lasów podwójnym kroju.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/056a Buk 345cm _thumb.webp",
+          "image": "web_body_1200/056a Buk 345cm _body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/056b Buk 345cm _thumb.webp",
+          "image": "web_body_1200/056b Buk 345cm _body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/056c Buk 345cm _thumb.webp",
+          "image": "web_body_1200/056c Buk 345cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.45
+    },
+    {
+      "id": "057",
+      "name": "Buk 2.99m",
+      "coordinates": {
+        "lat": 54.4862066,
+        "lng": 18.4580589
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Spory, wysoko rozgałęziony osobnik. Niestety odsłonięte części korzenia zostały uszkodzone przez prace leśne co niewątpliwie osłaby tego osobnika.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/057a Buk 299cm_thumb.webp",
+          "image": "web_body_1200/057a Buk 299cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/057b Buk 299cm_thumb.webp",
+          "image": "web_body_1200/057b Buk 299cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/057c Buk 299cm_thumb.webp",
+          "image": "web_body_1200/057c Buk 299cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/057d Buk 299cm_thumb.webp",
+          "image": "web_body_1200/057d Buk 299cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/057e Buk 299cm_thumb.webp",
+          "image": "web_body_1200/057e Buk 299cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.99
+    },
+    {
+      "id": "058",
+      "name": "Modrzew 2.58m",
+      "coordinates": {
+        "lat": 54.4885088,
+        "lng": 18.4609493
+      },
+      "description": "Modrzew europejski (Larix decidua). Obszar leśny, na którym rośnie ten osobnik ma ponadprzeciętną liczbę starszych modrzewi.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/058a Modrzew 258cm_thumb.webp",
+          "image": "web_body_1200/058a Modrzew 258cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/058b Modrzew 258cm_thumb.webp",
+          "image": "web_body_1200/058b Modrzew 258cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.58
+    },
+    {
+      "id": "059",
+      "name": "Dąb szypułkowy 3.20m",
+      "coordinates": {
+        "lat": 54.4905046,
+        "lng": 18.4686697
+      },
+      "description": "Dąb szypułkowy (Quercus robur). Niewysoki, nisko rozgałęziony osobnik. Biorąc pod uwagę eliptyczny kształt pnia bardzo możliwe, że są to dwa zrośnięte osobniki. Rośnie nieopodal przydrożnej ławeczki.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/059a Dab szypulkowy 320cm _thumb.webp",
+          "image": "web_body_1200/059a Dab szypulkowy 320cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.2
+    },
+    {
+      "id": "060",
+      "name": "Jabłoń 1.64m",
+      "coordinates": {
+        "lat": 54.4875378,
+        "lng": 18.4873808
+      },
+      "description": "Jabłoń domowa (Malus domestica). Spora, stara, wielokonarowa jabłoń. Krój drzewa wskazywałby raczej na samosiejkę aniżeli stare drzewo sadowe. Ze względu na spore zacienienie i zagłuszenie nie wydaje się być w najlepszym zdrowiu.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/060a Jablon 164cm_thumb.webp",
+          "image": "web_body_1200/060a Jablon 164cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 1.64
+    },
+    {
+      "id": "061",
+      "name": "Lipa 3.00m",
+      "coordinates": {
+        "lat": 54.4873354,
+        "lng": 18.4894913
+      },
+      "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Spore drzewo, mocno zaatakowane przez jemiołę. Rośnie na skraju lasu niedaleko rozstaju dróg. Z tego powodu jest stosunkowo nisko i bujnie rozgałęzione. Z nasady pnia wyrasta dużo różnej wielkości odrostów.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/061a Lipa 300cm_thumb.webp",
+          "image": "web_body_1200/061a Lipa 300cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/061b Lipa 300cm_thumb.webp",
+          "image": "web_body_1200/061b Lipa 300cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/061c Lipa 300cm_thumb.webp",
+          "image": "web_body_1200/061c Lipa 300cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.0
+    },
+    {
+      "id": "062",
+      "name": "Brzoza 1.85m",
+      "coordinates": {
+        "lat": 54.4872361,
+        "lng": 18.4892151
+      },
+      "description": "Brzoza brodawkowata (Betula pendula). Spora brzoza o dość ciekawym kroju. U samej nasadu pnia wyrasta z niej mniejsze drzewko.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/062a Brzoza 185cm_thumb.webp",
+          "image": "web_body_1200/062a Brzoza 185cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/062b Brzoza 185cm_thumb.webp",
+          "image": "web_body_1200/062b Brzoza 185cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/062c Brzoza 185cm_thumb.webp",
+          "image": "web_body_1200/062c Brzoza 185cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 1.85
+    },
+    {
+      "id": "063",
+      "name": "Podwójny Buk 3.27m inoskulacja",
+      "measurement_m": 3.27,
+      "coordinates": null,
+      "description": "Buk zwyczajny (Fagus sylvatica). Dwa ściśle przylegające do siebie i zrastające się buki. Stanowią już praktycznie jedno duże drzewo. Rozgałęzia się ono już dość nisko na wiele konarów tworzących podstawę rozłożystej korony.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/063a Podwójny Buk 327cm_thumb.webp",
+          "image": "web_body_1200/063a Podwójny Buk 327cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/063b Podwójny Buk 327cm_thumb.webp",
+          "image": "web_body_1200/063b Podwójny Buk 327cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/063c Podwójny Buk 327cm_thumb.webp",
+          "image": "web_body_1200/063c Podwójny Buk 327cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/063d Podwójny Buk 327cm_thumb.webp",
+          "image": "web_body_1200/063d Podwójny Buk 327cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/063e Podwójny Buk 327cm_thumb.webp",
+          "image": "web_body_1200/063e Podwójny Buk 327cm_body.webp"
+        },
+        {
+          "id": "f",
+          "thumbnail": "web_thumbnail_400/063f Podwójny Buk 327cm_thumb.webp",
+          "image": "web_body_1200/063f Podwójny Buk 327cm_body.webp"
+        },
+        {
+          "id": "g",
+          "thumbnail": "web_thumbnail_400/063g Podwójny Buk 327cm_thumb.webp",
+          "image": "web_body_1200/063g Podwójny Buk 327cm_body.webp"
+        },
+        {
+          "id": "h",
+          "thumbnail": "web_thumbnail_400/063h Podwójny Buk 327cm_thumb.webp",
+          "image": "web_body_1200/063h Podwójny Buk 327cm_body.webp"
+        }
+      ],
+      "group": false
+    },
+    {
+      "id": "064",
+      "name": "Buk 3.40m",
+      "coordinates": {
+        "lat": 54.4022564,
+        "lng": 18.560411
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Duże pojedyńcze drzewo rosnące przy dróżce na skraju lasu. Ma u swojej podstawy sporą dziuplę. Korona zwłaszcza od strony krawędzi lasu bardzo bujna, zbudowana z wielu poskręcanych gałęzi.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/064a Buk 340cm_thumb.webp",
+          "image": "web_body_1200/064a Buk 340cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/064b Buk 340cm_thumb.webp",
+          "image": "web_body_1200/064b Buk 340cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/064c Buk 340cm_thumb.webp",
+          "image": "web_body_1200/064c Buk 340cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/064d Buk 340cm_thumb.webp",
+          "image": "web_body_1200/064d Buk 340cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.4
+    },
+    {
+      "id": "065",
+      "name": "Buk 3.59m",
+      "coordinates": {
+        "lat": 54.4011395,
+        "lng": 18.5600613
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Bardzo duży osobnik rosnący na dnie dolinki przy jednym ze szlaków. Zdecydowanie wyróżnia się spośród otaczających go drzew. Jest to buk o pojedynczym pniu oraz bujnej koronie. Jeden z najdostojniejszych okazów w okolicznych lasach.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/065a Buk 359cm_thumb.webp",
+          "image": "web_body_1200/065a Buk 359cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/065b Buk 359cm_thumb.webp",
+          "image": "web_body_1200/065b Buk 359cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/065c Buk 359cm_thumb.webp",
+          "image": "web_body_1200/065c Buk 359cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.59
+    },
+    {
+      "id": "066",
+      "name": "Buk 4.55m",
+      "coordinates": {
+        "lat": 54.3976424,
+        "lng": 18.5609145
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Potrójny zroślak. Niestety mocno połamany. Tylko jeden konar zachował sporą część korony. Widać u niego fenomen samozaszczepiania (inoskulacji) nie tyko u podstawy ale także wśród gałęzi. Wyraźne ślady bytowania na nim wielu gatunków zwierząt. Bardzo dobry kandydat na drzewo świadek.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/066a Buk 455cm_thumb.webp",
+          "image": "web_body_1200/066a Buk 455cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/066b Buk 455cm_thumb.webp",
+          "image": "web_body_1200/066b Buk 455cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/066c Buk 455cm_thumb.webp",
+          "image": "web_body_1200/066c Buk 455cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/066d Buk 455cm_thumb.webp",
+          "image": "web_body_1200/066d Buk 455cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 4.55
+    },
+    {
+      "id": "067",
+      "name": "Buk 3.30m",
+      "coordinates": {
+        "lat": 54.3975871,
+        "lng": 18.5616813
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Duży osobnik rosnący na zboczu skarpy. Ma częściowo odsłonięty system korzeniowy nadający mu dodatkowych walorów estetycznych. Samo drzewo ma pojedyńczy nieco nachylony pień rozgałęziający się dość wysoko. Buk wydaje się być zupełnie zdrowy bez uszkodzeń lub dziupli.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/067a Buk 330cm_thumb.webp",
+          "image": "web_body_1200/067a Buk 330cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/067b Buk 330cm_thumb.webp",
+          "image": "web_body_1200/067b Buk 330cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/067c Buk 330cm_thumb.webp",
+          "image": "web_body_1200/067c Buk 330cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/067d Buk 330cm_thumb.webp",
+          "image": "web_body_1200/067d Buk 330cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.3
+    },
+    {
+      "id": "068",
+      "name": "Buk 3.10m",
+      "coordinates": {
+        "lat": 54.3966684,
+        "lng": 18.5626868
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Spore drzewo rosnące na skarpie przy wejściu do lasu. Osobnik mocno nietypowy gdyż ma silnie odsłoniętą sporą część korzenia. Pień rozwidla się na wysokości około trzech metrów.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/068a  Buk 310cm_thumb.webp",
+          "image": "web_body_1200/068a  Buk 310cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/068b  Buk 310cm_thumb.webp",
+          "image": "web_body_1200/068b  Buk 310cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/068c  Buk 310cm_thumb.webp",
+          "image": "web_body_1200/068c  Buk 310cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/068d Buk 310cm_thumb.webp",
+          "image": "web_body_1200/068d Buk 310cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.1
+    },
+    {
+      "id": "069",
+      "name": "Dąb Bezszypułkowy 4.02m",
+      "coordinates": {
+        "lat": 54.3967192,
+        "lng": 18.5625359
+      },
+      "description": "Dąb bezszypułkowy (Quercus petraea). Jeden z największych osobników tego gatunku w okolicznych lasach. Drzewo straciło przez lata dużą część konarów tworzących jego koronę. W dobrym stanie pozostał tylko jeden. Dąb ten ma dużą wartość zarówno obecnie jak i potencjalną w przyszłości jako drzewo biocenotyczne.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/069a Dąb Bezszypułkowy 402cm_thumb.webp",
+          "image": "web_body_1200/069a Dąb Bezszypułkowy 402cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/069b Dąb Bezszypułkowy 402cm_thumb.webp",
+          "image": "web_body_1200/069b Dąb Bezszypułkowy 402cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/069c Dąb Bezszypułkowy 402cm_thumb.webp",
+          "image": "web_body_1200/069c Dąb Bezszypułkowy 402cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 4.02
+    },
+    {
+      "id": "070",
+      "name": "Buk 2.9m",
+      "coordinates": {
+        "lat": 54.3957475,
+        "lng": 18.5599379
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Sporych rozmiarów drzewo rosnące na skraju lasu. Stan ogólny wydaje się być bardzo dobry - brak dziupli oraz widocznych uszkodzeń.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/070a  Buk 290cm_thumb.webp",
+          "image": "web_body_1200/070a  Buk 290cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/070b  Buk 290cm_thumb.webp",
+          "image": "web_body_1200/070b  Buk 290cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.9
+    },
+    {
+      "id": "071",
+      "name": "Klon Pospolity 2.76m",
+      "coordinates": {
+        "lat": 54.3951885,
+        "lng": 18.5586819
+      },
+      "description": "Klon zwyczajny (Acer platanoides). Drzewo utworzone ze zrośnięcia dwóch klonów. Dolne część pnia zupełnie scalona szybko rozgałęzia się na dwa konary.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/071a Klon Pospolity 276cm_thumb.webp",
+          "image": "web_body_1200/071a Klon Pospolity 276cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/071b Klon Pospolity 276cm_thumb.webp",
+          "image": "web_body_1200/071b Klon Pospolity 276cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/071c Klon Pospolity 276cm_thumb.webp",
+          "image": "web_body_1200/071c Klon Pospolity 276cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.76
+    },
+    {
+      "id": "072",
+      "name": "Kasztanowiec 3.00m",
+      "coordinates": {
+        "lat": 54.3953794,
+        "lng": 18.5564011
+      },
+      "description": "Kasztanowiec pospolity (Aesculus hippocastanum). Spore drzewo rosnące obok ruin domku Lecha ogrodnika w Zajęczej Dolinie. Jak u większości kasztanowców zaatakowany Szrotówkiem kasztanowcowiaczkiem (szczególnie w dolnych partiach korony). Osobnik o znaczeniu historycznym.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/072a Kasztanowiec 300cm_thumb.webp",
+          "image": "web_body_1200/072a Kasztanowiec 300cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/072b Kasztanowiec 300cm_thumb.webp",
+          "image": "web_body_1200/072b Kasztanowiec 300cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/072c Kasztanowiec 300cm_thumb.webp",
+          "image": "web_body_1200/072c Kasztanowiec 300cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/072d Kasztanowiec 300cm_thumb.webp",
+          "image": "web_body_1200/072d Kasztanowiec 300cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/072e Kasztanowiec 300cm_thumb.webp",
+          "image": "web_body_1200/072e Kasztanowiec 300cm_body.webp"
+        },
+        {
+          "id": "f",
+          "thumbnail": "web_thumbnail_400/072f Kasztanowiec 300cm_thumb.webp",
+          "image": "web_body_1200/072f Kasztanowiec 300cm_body.webp"
+        },
+        {
+          "id": "g",
+          "thumbnail": "web_thumbnail_400/072g Kasztanowiec 300cm_thumb.webp",
+          "image": "web_body_1200/072g Kasztanowiec 300cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.0
+    },
+    {
+      "id": "073",
+      "name": "Brzoza Brodawkowata 2.10m",
+      "coordinates": {
+        "lat": 54.3948611,
+        "lng": 18.5567367
+      },
+      "description": "Brzoza brodawkowata (Betula pendula). Spore drzewo o strzelistej budowie. Ma dość nietypowy nieco trójkątny kształt pnia z lekko wklęsłym bokiem.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/073a Brzoza Brodawkowata 210cm_thumb.webp",
+          "image": "web_body_1200/073a Brzoza Brodawkowata 210cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/073b Brzoza Brodawkowata 210cm_thumb.webp",
+          "image": "web_body_1200/073b Brzoza Brodawkowata 210cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/073c Brzoza Brodawkowata 210cm_thumb.webp",
+          "image": "web_body_1200/073c Brzoza Brodawkowata 210cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.1
+    },
+    {
+      "id": "074",
+      "name": "Buk 4.05m",
+      "coordinates": {
+        "lat": 54.3929056,
+        "lng": 18.5601391
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Bardzo duży buk będący najprawdopodobniej potrójnym zroślakiem. Ma silnie rozbudowaną koronę. Na głównym pniu widać wgłębienia w miejscach gdzie zrost nie jest jeszcze zupełny. Osobnik ten jest jednym z najgrubszych okolicznych buków.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/074a Buk 405cm_thumb.webp",
+          "image": "web_body_1200/074a Buk 405cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/074b Buk 405cm_thumb.webp",
+          "image": "web_body_1200/074b Buk 405cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/074c Buk 405cm_thumb.webp",
+          "image": "web_body_1200/074c Buk 405cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/074d Buk 405cm_thumb.webp",
+          "image": "web_body_1200/074d Buk 405cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/074e Buk 405cm_thumb.webp",
+          "image": "web_body_1200/074e Buk 405cm_body.webp"
+        },
+        {
+          "id": "f",
+          "thumbnail": "web_thumbnail_400/074f Buk 405cm_thumb.webp",
+          "image": "web_body_1200/074f Buk 405cm_body.webp"
+        },
+        {
+          "id": "g",
+          "thumbnail": "web_thumbnail_400/074g Buk 405cm_thumb.webp",
+          "image": "web_body_1200/074g Buk 405cm_body.webp"
+        },
+        {
+          "id": "h",
+          "thumbnail": "web_thumbnail_400/074h Buk 405cm_thumb.webp",
+          "image": "web_body_1200/074h Buk 405cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 4.05
+    },
+    {
+      "id": "075",
+      "name": "Buk 3.33m",
+      "coordinates": {
+        "lat": 54.3928103,
+        "lng": 18.5605025
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Duże pojedyńcze drzewo. Ma dość nietypowy pień o skręconej budowie. Osobnik posiada także wielką wypruchniałą dziuplę będącą pozostałością po odłamanym konarze.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/075a Buk 333cm_thumb.webp",
+          "image": "web_body_1200/075a Buk 333cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/075b Buk 333cm_thumb.webp",
+          "image": "web_body_1200/075b Buk 333cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/075c Buk 333cm_thumb.webp",
+          "image": "web_body_1200/075c Buk 333cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/075d Buk 333cm_thumb.webp",
+          "image": "web_body_1200/075d Buk 333cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/075e Buk 333cm_thumb.webp",
+          "image": "web_body_1200/075e Buk 333cm_body.webp"
+        },
+        {
+          "id": "f",
+          "thumbnail": "web_thumbnail_400/075f Buk 333cm_thumb.webp",
+          "image": "web_body_1200/075f Buk 333cm_body.webp"
+        },
+        {
+          "id": "g",
+          "thumbnail": "web_thumbnail_400/075g Buk 333cm_thumb.webp",
+          "image": "web_body_1200/075g Buk 333cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.33
+    },
+    {
+      "id": "076",
+      "name": "Buk 3.20m",
+      "coordinates": {
+        "lat": 54.3892912,
+        "lng": 18.5629363
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Spory osobnik na skraju lasu Doliny Zielonej. Rośnie w miejscu gdzie ma dobry dostęp do światła przez co jest nisko i bujnie rozgałęziony.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/076a Buk 320cm_thumb.webp",
+          "image": "web_body_1200/076a Buk 320cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/076b Buk 320cm_thumb.webp",
+          "image": "web_body_1200/076b Buk 320cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/076c Buk 320cm_thumb.webp",
+          "image": "web_body_1200/076c Buk 320cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/076d Buk 320cm_thumb.webp",
+          "image": "web_body_1200/076d Buk 320cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.2
+    },
+    {
+      "id": "077",
+      "name": "Buk 3.10m",
+      "coordinates": {
+        "lat": 54.3893468,
+        "lng": 18.5628813
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Jeden z szeregu większych buków rosnących przy szlaku w Dolinie Zielonej. Drzewo pojedyńcze o kolumnowym pniu, zdrowe bez wyraźnych uszkodzeń oraz bujnej koronie.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/077a Buk 310cm_thumb.webp",
+          "image": "web_body_1200/077a Buk 310cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/077b Buk 310cm_thumb.webp",
+          "image": "web_body_1200/077b Buk 310cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/077c Buk 310cm_thumb.webp",
+          "image": "web_body_1200/077c Buk 310cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/077d Buk 310cm_thumb.webp",
+          "image": "web_body_1200/077d Buk 310cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.1
+    },
+    {
+      "id": "078",
+      "name": "Buk 3.08m",
+      "coordinates": {
+        "lat": 54.3898134,
+        "lng": 18.562151
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Jeden z szeregu większych buków rosnących przy szlaku w Dolinie Zielonej. Osobnik ten rośnie nieco głębiej w lesie, przez co jego budowa jest bardzo strzelista. Pień w dużej części jednolity zaczyna się rozgałęziać dość wysoko.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/078a Buk 308cm_thumb.webp",
+          "image": "web_body_1200/078a Buk 308cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/078b Buk 308cm_thumb.webp",
+          "image": "web_body_1200/078b Buk 308cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/078c Buk 308cm_thumb.webp",
+          "image": "web_body_1200/078c Buk 308cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.08
+    },
+    {
+      "id": "079",
+      "name": "Buk 3.28m",
+      "coordinates": {
+        "lat": 54.3898892,
+        "lng": 18.5615368
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Jeden z szeregu większych buków rosnących przy szlaku w Dolinie Zielonej. Osobnik ten szybko rozwidla się na dwa główne, równolegle idące ku górze konary. W kilku punktach zaobserwować można ich ponowne zrastanie. Możliwe, że drzewo to jest osobnikiem powstałym w wyniku zrośnięcia się (inoskulacji) dwóch buków. Osobnik ten mimo tego że rośnie w lesie ma sporo przestrzeni przez co jego korona jest dość silnie rozwinięta.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/079a Buk 328cm_thumb.webp",
+          "image": "web_body_1200/079a Buk 328cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/079b Buk 328cm_thumb.webp",
+          "image": "web_body_1200/079b Buk 328cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/079c Buk 328cm_thumb.webp",
+          "image": "web_body_1200/079c Buk 328cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.28
+    },
+    {
+      "id": "080",
+      "name": "Brzoza 2.10m",
+      "coordinates": {
+        "lat": 54.3887717,
+        "lng": 18.5625027
+      },
+      "description": "Brzoza brodawkowata (Betula pendula). Drzewo o kroju typowo leśnym – wusoka o palowym pniu bez rozgałęzień. Jest to dość duży osobnij zwłaszcza jak na brzozę rosnącą w środku lasu.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/080a Brzoza 210cm _thumb.webp",
+          "image": "web_body_1200/080a Brzoza 210cm _body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/080b Brzoza 210cm _thumb.webp",
+          "image": "web_body_1200/080b Brzoza 210cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.1
+    },
+    {
+      "id": "081",
+      "name": "Sosna zwyczajna 3.00m",
+      "coordinates": {
+        "lat": 54.3856679,
+        "lng": 18.5526892
+      },
+      "description": "Sosna zwyczajna (Pinus sylvestris). Duże i ciekawe drzewo. Nosi wyraźne ślady próby ścięcia go siekierką sprzed wielu lat. Niektóre już prawie zarosły, jednak główna rana pomimo powolnego zabliźniania jest nadal silnie odsłonięta. Mimo to drzewo zdaje się radzić sobie dobrze. Ma ono też dość ciekawy jak na sosnę kształt. Dość nisko rozwidla się na dwa konary, z których każdy tworzy osobną część niemałej korony.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/081a Sosna zwyczajna 300cm_thumb.webp",
+          "image": "web_body_1200/081a Sosna zwyczajna 300cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/081b Sosna zwyczajna 300cm_thumb.webp",
+          "image": "web_body_1200/081b Sosna zwyczajna 300cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/081c Sosna zwyczajna 300cm_thumb.webp",
+          "image": "web_body_1200/081c Sosna zwyczajna 300cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/081d Sosna zwyczajna 300cm_thumb.webp",
+          "image": "web_body_1200/081d Sosna zwyczajna 300cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/081e Sosna zwyczajna 300cm_thumb.webp",
+          "image": "web_body_1200/081e Sosna zwyczajna 300cm_body.webp"
+        },
+        {
+          "id": "f",
+          "thumbnail": "web_thumbnail_400/081f Sosna zwyczajna 300cm_thumb.webp",
+          "image": "web_body_1200/081f Sosna zwyczajna 300cm_body.webp"
+        },
+        {
+          "id": "g",
+          "thumbnail": "web_thumbnail_400/081g Sosna zwyczajna 300cm_thumb.webp",
+          "image": "web_body_1200/081g Sosna zwyczajna 300cm_body.webp"
+        },
+        {
+          "id": "h",
+          "thumbnail": "web_thumbnail_400/081h Sosna zwyczajna 300cm_thumb.webp",
+          "image": "web_body_1200/081h Sosna zwyczajna 300cm_body.webp"
+        },
+        {
+          "id": "i",
+          "thumbnail": "web_thumbnail_400/081i Sosna zwyczajna 300cm_thumb.webp",
+          "image": "web_body_1200/081i Sosna zwyczajna 300cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.0
+    },
+    {
+      "id": "082",
+      "name": "Sosna zwyczajna 3.05m",
+      "coordinates": {
+        "lat": 54.3854537,
+        "lng": 18.5520046
+      },
+      "description": "Sosna zwyczajna (Pinus sylvestris). Duże drzewo o typowo leśnym kroju - prosty nierozgałęziony nisko pień i wysoko usytuowana korona. Jest to jedna z sosen, która nie straciła istotnych gałęzi na skutek obciążenia zamarzniętym śniegiem w zimę 2025-26.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/082a Sosna zwyczajna 305cm_thumb.webp",
+          "image": "web_body_1200/082a Sosna zwyczajna 305cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/082b Sosna zwyczajna 305cm_thumb.webp",
+          "image": "web_body_1200/082b Sosna zwyczajna 305cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.05
+    },
+    {
+      "id": "083",
+      "name": "Buk 3.93m",
+      "coordinates": {
+        "lat": 54.3837434,
+        "lng": 18.549947
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Imponujących rozmiarów osobnik powstały na skutek ścisłego zrośnięcia się pni dwóch drzew (inoskulacja). Widoczna na nim już dość mocno wytarta litera “E” wskazująca na drzewo biocenotyczne. Główny pień na wysokości 2-3 metrów rozdziela się na dwa konary rozgałęziające się dalej w rozłożystą koronę. 084 Buk zwyczajny (Fagus sylvatica). Rośnie w Dolinie Świemirowskiej na skraju lasu obok ogródków działkowych. Jest pojedynczym dużym bukiem. Sąsiaduje z nim podobnych rozmiarów rozdwojony osobnik. Korona wystawiona na dużo słońca zbudowana jest z wielu pięter gałęzi.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/083a Buk 393cm_thumb.webp",
+          "image": "web_body_1200/083a Buk 393cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/083b Buk 393cm _thumb.webp",
+          "image": "web_body_1200/083b Buk 393cm _body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/083c Buk 393cm_thumb.webp",
+          "image": "web_body_1200/083c Buk 393cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/083d Buk 393cm_thumb.webp",
+          "image": "web_body_1200/083d Buk 393cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/083e Buk 393cm_thumb.webp",
+          "image": "web_body_1200/083e Buk 393cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.93
+    },
+    {
+      "id": "084",
+      "name": "Buk 3.15m",
+      "coordinates": {
+        "lat": 54.434754,
+        "lng": 18.534415
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w Dolinie Świemirowskiej na skraju lasu, obok ogródków działkowych. Jest pojedynczym dużym bukiem. Sąsiaduje z nim podobnych rozmiarów, rozdwojony osobnik. Korona wystawiona na dużo słońca, zbudowana jest z wielu pięter gałęzi.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/84a Buk 315cm_thumb.webp",
+          "image": "web_body_1200/84a Buk 315cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/84b Buk 315cm_thumb.webp",
+          "image": "web_body_1200/84b Buk 315cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/84c Buk 315cm_thumb.webp",
+          "image": "web_body_1200/84c Buk 315cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/84d Buk 315cm_thumb.webp",
+          "image": "web_body_1200/84d Buk 315cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.15
+    },
+    {
+      "id": "085",
+      "name": "Modrzew europejski 3.37m",
+      "coordinates": {
+        "lat": 54.37101,
+        "lng": 18.5410997
+      },
+      "description": "Modrzew europejski (Larix decidua). Drugi pod względem wielkości z grupy dużuch modrzewi rosnących na stosunkowo niewielkim obszarze. Jego największy sąsiad jest pomnikiem przyrody. W okolicy znajduje się jeszcze kilka drzew tego gatunku przekraczających 300 cm obwodu oraz kilka nieco mniejszych - między 250-300 cm. Ten osobnik jest spośród nich najlepszym kandydatem na kolejny pomnik, choć uznanie tych drzew jako pomnika grupowego mogło by być najlepszym rozwiązaniem.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/085a Modrzew europejski 337cm _thumb.webp",
+          "image": "web_body_1200/085a Modrzew europejski 337cm _body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/085b Modrzew europejski 337cm _thumb.webp",
+          "image": "web_body_1200/085b Modrzew europejski 337cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.37
+    },
+    {
+      "id": "086",
+      "name": "Wierzba",
+      "coordinates": {
+        "lat": 54.4816933,
+        "lng": 18.5329408
+      },
+      "description": "Wierzba (Salix sp.). Najprawdopodobniej wierzba biała (Salix alba) – wymaga dokładniejszego oznaczenia. Wielkie stare powykręcane drzewo rosnące przy ul. Wielkopolskiej. Ze względu na nietypowy kształt trudno dokonać jednoznacznego pomiaru obwodu pnia w pierśnicy. Jest on jednak bardzo imponujący niezależnie jak do niego podejść. Drzewo o wartości biocenotycznej jak i estetycznej. Jedna z najstarszych i najbardziej imponujących wierzb w Trójmieście. 087 Topola biała (Populus alba). Nieco grubsze z dwóch rosnących blisko siebie ogromnych przedstawicieli tego gatunku. Pod względem grubości pnia, oraz rozłożystości korony jest to jedno z najbardziej imponujących drzew Gdyni.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/086a Wierzba  820cm_thumb.webp",
+          "image": "web_body_1200/086a Wierzba  820cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/086b Wierzba  820cm_thumb.webp",
+          "image": "web_body_1200/086b Wierzba  820cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/086c Wierzba  820cm_thumb.webp",
+          "image": "web_body_1200/086c Wierzba  820cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 8.2
+    },
+    {
+      "id": "087",
+      "name": "Topola Biała 5.13m",
+      "coordinates": {
+        "lat": 54.4837925,
+        "lng": 18.5420476
+      },
+      "description": "Topola biała (Populus alba). Nieco grubsza z dwóch rosnących blisko siebie ogromnych przedstawicieli tego gatunku. Pod względem grubości pnia oraz rozłożystości korony jest to jedno z najbardziej imponujących drzew Gdyni.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/087a Topola Biała 513cm_thumb.webp",
+          "image": "web_body_1200/087a Topola Biała 513cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/087c Topola Biała 513cm_thumb.webp",
+          "image": "web_body_1200/087c Topola Biała 513cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 5.13
+    },
+    {
+      "id": "088",
+      "name": "Topola Biała 5.04m",
+      "coordinates": {
+        "lat": 54.4836176,
+        "lng": 18.5417542
+      },
+      "description": "Topola biała (Populus alba). Nieco mniejsze z dwóch rosnących blisko siebie ogromnych przedstawicieli tego gatunku. Podobnie jak jej sąsiadka jest jednak drzewem o bardzo imponujących rozmiarach. Do jej pnia przybitych jest kilka desek będących być może pozostałością po jakiegoś rodzaju konstrukcji.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/088a Topola Biała 504cm_thumb.webp",
+          "image": "web_body_1200/088a Topola Biała 504cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/088b Topola Biała 504cm_thumb.webp",
+          "image": "web_body_1200/088b Topola Biała 504cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 5.04
+    },
+    {
+      "id": "089",
+      "name": "Sosna Zwyczajna 2.62m",
+      "coordinates": {
+        "lat": 54.5178779,
+        "lng": 18.4258704
+      },
+      "description": "Sosna zwyczajna (Pinus sylvestris). Jest sporą przedstawicielką swojego gatunku o dość ładnie rozwiniętej koronie. Rośnie bezpośrednio obok tablicy edukacyjnej.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/089a Sosna Zwyczajna 262cm_thumb.webp",
+          "image": "web_body_1200/089a Sosna Zwyczajna 262cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/089b Sosna Zwyczajna 262cm_thumb.webp",
+          "image": "web_body_1200/089b Sosna Zwyczajna 262cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.62
+    },
+    {
+      "id": "090",
+      "name": "Buk 2.93m",
+      "coordinates": {
+        "lat": 54.520399,
+        "lng": 18.4112647
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w lesie obfitującym w dość młode drzewa, na tle których się dość mocno wyróżnia. Ma też dość ładny pokrój – stosunkowo nisko rozgałęziony o dość bujnej koronie.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/090a Buk 293cm_thumb.webp",
+          "image": "web_body_1200/090a Buk 293cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.93
+    },
+    {
+      "id": "091",
+      "name": "Topola",
+      "coordinates": {
+        "lat": 54.5329645,
+        "lng": 18.4876061
+      },
+      "description": "Topola (Populus sp.). Najprawdopodobniej topola czarna (Populus nigra) – wymaga dokładniejszego oznaczenia. Duże, nisko rozgałęziając się drzewo o bujnej koronie. Rośnie na wzniesieniu przy chodniku ul Morskiej. Osobnik o wysokich walorach estetycznych.",
+      "photos": [
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/091b Topola 380cm _thumb.webp",
+          "image": "web_body_1200/091b Topola 380cm _body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/091c Topola 380cm _thumb.webp",
+          "image": "web_body_1200/091c Topola 380cm _body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/091d Topola 380cm _thumb.webp",
+          "image": "web_body_1200/091d Topola 380cm _body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/091e Topola 380cm _thumb.webp",
+          "image": "web_body_1200/091e Topola 380cm _body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.8
+    },
+    {
+      "id": "092",
+      "name": "Topola",
+      "coordinates": {
+        "lat": 54.5326672,
+        "lng": 18.487707
+      },
+      "description": "Topola (Populus sp.). Wymaga dokładniejszego oznaczenia. Duże drzewo o imponującym obwodzie. Główny pień pojedyńczy rozgałęziający się wysoko. Jego korona jest dość mocno przycięta.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/092a Topola 423cm_thumb.webp",
+          "image": "web_body_1200/092a Topola 423cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/092b Topola 423cm_thumb.webp",
+          "image": "web_body_1200/092b Topola 423cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/092c Topola 423cm_thumb.webp",
+          "image": "web_body_1200/092c Topola 423cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/092d Topola 423cm_thumb.webp",
+          "image": "web_body_1200/092d Topola 423cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 4.23
+    },
+    {
+      "id": "093",
+      "name": "Topola 3.90m",
+      "coordinates": {
+        "lat": 54.5109048,
+        "lng": 18.5326203
+      },
+      "description": "Topola (Populus sp.). Wymaga dokładniejszego oznaczenia. Duże drzewo o imponującym obwodzie oraz bardzo ładnej szerokiej koronie.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/093a Topola 390cm_thumb.webp",
+          "image": "web_body_1200/093a Topola 390cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/093b Topola 390cm_thumb.webp",
+          "image": "web_body_1200/093b Topola 390cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/093c Topola 390cm_thumb.webp",
+          "image": "web_body_1200/093c Topola 390cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.9
+    },
+    {
+      "id": "094",
+      "name": "Wiąz 3.05m",
+      "coordinates": {
+        "lat": 54.4860837,
+        "lng": 18.5449185
+      },
+      "description": "Wiąz (Ulmus sp.). Wymaga dokładniejszego oznaczenia. Duże drzewo rosnące przy Aleji Zwycięstwa. Jeden z nielicznych naprawdę imponujących wiązów w Gdyni. Główny pień stosunkowo nisko (3-4m) rozgałęzia się na trzy duże konary tworzące podstawę dla ładnie rozwiniętej korony.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/094a Wiąz 305cm_thumb.webp",
+          "image": "web_body_1200/094a Wiąz 305cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/094b Wiąz 305cm_thumb.webp",
+          "image": "web_body_1200/094b Wiąz 305cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/094c Wiąz 305cm_thumb.webp",
+          "image": "web_body_1200/094c Wiąz 305cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/094d Wiąz 305cm_thumb.webp",
+          "image": "web_body_1200/094d Wiąz 305cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.05
+    },
+    {
+      "id": "095",
+      "name": "Buk 3.30m",
+      "coordinates": null,
+      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w dolince, blisko potoku Źródła Marii przy jednym ze szlaków łączących rezerwat Kacze Łęgi z Wielkim Kackiem. Jest największym bukiem przy tym szlaku. Drzewo ma budowę przypominającą wielką kolumnę uwieńczoną bujną i wyjątkowo foremnie ułożoną koroną.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/095a Buk 330cm_thumb.webp",
+          "image": "web_body_1200/095a Buk 330cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/095c Buk 330cm_thumb.webp",
+          "image": "web_body_1200/095c Buk 330cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/095d Buk 330cm_thumb.webp",
+          "image": "web_body_1200/095d Buk 330cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/095e Buk 330cm_thumb.webp",
+          "image": "web_body_1200/095e Buk 330cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.3
+    },
+    {
+      "id": "096",
+      "name": "Sosna 2.87m",
+      "coordinates": {
+        "lat": 54.4050015,
+        "lng": 18.5340345
+      },
+      "description": "Sosna zwyczajna (Pinus sylvestris). Rośnie przy drodze prowadzącej do Doliny Czystej Wody. Jest dużym drzewem o ciekawym pokroju. Nisko się rozwidla na dwa duże konary osobno tworzące dwie części korony. Jest to najgrubsza sosna rosnąca bezpośrednio przy tym żółtym szlaku.",
+      "photos": [
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/096b Sosna 287cm_thumb.webp",
+          "image": "web_body_1200/096b Sosna 287cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/096c Sosna 287cm_thumb.webp",
+          "image": "web_body_1200/096c Sosna 287cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/096d Sosna 287cm_thumb.webp",
+          "image": "web_body_1200/096d Sosna 287cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/096e Sosna 287cm_thumb.webp",
+          "image": "web_body_1200/096e Sosna 287cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.87
+    },
+    {
+      "id": "097",
+      "name": "Klon 2.37m",
+      "coordinates": {
+        "lat": 54.4636115,
+        "lng": 18.5450811
+      },
+      "description": "Klon zwyczajny (Acer platanoides). Drzewo to posiada bardzo ciekawą przypominającą stojącą falę teksturę pnia. Poza tym jest sporym klonem ale dupy nie urywa imo. Do wycinki :P",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/097a Klon 237cm_thumb.webp",
+          "image": "web_body_1200/097a Klon 237cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/097b Klon 237cm_thumb.webp",
+          "image": "web_body_1200/097b Klon 237cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/097c Klon 237cm_thumb.webp",
+          "image": "web_body_1200/097c Klon 237cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 2.37
+    },
+    {
+      "id": "098",
+      "name": "Buk 3.14m",
+      "coordinates": {
+        "lat": 54.457375,
+        "lng": 18.484042
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie blisko kapliczki z figurką Matki Bożej przy Źródle Marii. Jest największym bukiem okolicznego lasu. Wysoki, prosty, zdrowy w kwiecie wieku. Przy tym ma bujną rozłożystą koronę.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/098a Buk 314cm_thumb.webp",
+          "image": "web_body_1200/098a Buk 314cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/098b Buk 314cm_thumb.webp",
+          "image": "web_body_1200/098b Buk 314cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/098c Buk 314cm_thumb.webp",
+          "image": "web_body_1200/098c Buk 314cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.14
+    },
+    {
+      "id": "099",
+      "name": "Buk 3.54m",
+      "coordinates": {
+        "lat": 54.435659,
+        "lng": 18.537087
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie blisko zadaszenia turystycznego w Dolinie Świemirowskiej. Bardzo duży osobnik. Jest jednym z niewielu buków przekraczających 350 cm w całym TPK. Pień początkowo prosty, mniej więcej w połowie wysokości rozszczepia się na 5-6 sporych konarów, te zaś tworzą podstawę rozłożystej i wysokiej koronie.",
+      "photos": [
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/099b Buk 354cm_thumb.webp",
+          "image": "web_body_1200/099b Buk 354cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/099c Buk 354cm_thumb.webp",
+          "image": "web_body_1200/099c Buk 354cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/099d Buk 354cm_thumb.webp",
+          "image": "web_body_1200/099d Buk 354cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.54
+    },
+    {
+      "id": "100",
+      "name": "Buk 3.42m",
+      "coordinates": {
+        "lat": 54.434754,
+        "lng": 18.538369
+      },
+      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w Dolinie Świemirowskiej na wąskim pasie zieleni między ogródkami działkowymi a ulicą Mikołaja Reja. Duży osobnik pokrojem nieco przypominający zroślaka jednak najprawdopodobniej nim nie będący. Drzewo nisko się rozwidla z głównego pnia na dwa duże konary. Ma dość dobry dostęp do światła co powoduje tworzenie się gałęzi na niższych partiach konarów. Największy buk przy ulicy w Dolinie Świemirowskiej, która ma już kilka przyulicznych, pomnikowych dębów.",
+      "photos": [
+        {
+          "id": "a",
+          "thumbnail": "web_thumbnail_400/100a Buk 342cm_thumb.webp",
+          "image": "web_body_1200/100a Buk 342cm_body.webp"
+        },
+        {
+          "id": "b",
+          "thumbnail": "web_thumbnail_400/100b Buk 342cm_thumb.webp",
+          "image": "web_body_1200/100b Buk 342cm_body.webp"
+        },
+        {
+          "id": "c",
+          "thumbnail": "web_thumbnail_400/100c Buk 342cm_thumb.webp",
+          "image": "web_body_1200/100c Buk 342cm_body.webp"
+        },
+        {
+          "id": "d",
+          "thumbnail": "web_thumbnail_400/100d Buk 342cm_thumb.webp",
+          "image": "web_body_1200/100d Buk 342cm_body.webp"
+        },
+        {
+          "id": "e",
+          "thumbnail": "web_thumbnail_400/100e Buk 342cm_thumb.webp",
+          "image": "web_body_1200/100e Buk 342cm_body.webp"
+        }
+      ],
+      "group": false,
+      "measurement_m": 3.42
+    }
+  ],
+  "data_quality": {
+    "missing_coordinates": [
+      "021",
+      "022",
+      "031",
+      "032",
+      "063",
+      "095"
+    ],
+    "missing_descriptions": [],
+    "issues": [
+      {
+        "id": "086",
+        "issue": "Gatunek pozostawiony jako niepewny: wierzba (Salix sp.), prawdopodobnie Salix alba."
+      },
+      {
+        "id": "003",
+        "issue": "Grupa dwóch zrośniętych buków; źródło podaje dwa pomiary 2.61 m i 3.24 m."
+      },
+      {
+        "id": "005",
+        "issue": "Grupa dwóch zrośniętych dębów; źródło podaje jeden wspólny pomiar 3.81 m."
+      },
+      {
+        "id": "063",
+        "issue": "Grupa dwóch zrośniętych buków (inoskulacja); źródło podaje jeden wspólny pomiar 3.27 m."
+      },
+      {
+        "id": "052",
+        "issue": "Rekord obejmuje głównego buka oraz dwa sąsiednie buki, dla których źródło podaje dodatkowe pomiary."
+      }
+    ],
+    "group_rule": "group=true oznacza, że jeden numer reprezentuje więcej niż jedno drzewo; wtedy measurements_m jest listą pomiarów przypisanych do grupy. group=false oznacza pojedyncze drzewo, a pomiar jest zapisany jako measurement_m.",
+    "map_rule": "Rekordy z coordinates:null należy pominąć przy tworzeniu punktów na mapie, ale pozostawić dostępne na liście.",
+    "photo_note": "Ścieżki zdjęć pochodzą z lista_plików.txt; fizyczna obecność plików nie była możliwa do zweryfikowania bez folderów ze zdjęciami."
+  }
+}
