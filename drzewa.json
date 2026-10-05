@@ -576,7 +576,10 @@
     {
       "id": "021",
       "name": "Lipa 3.72m",
-      "coordinates": null,
+      "coordinates": {
+		"lat": 54.395189595405974, 
+		"lng": 18.517282420900756
+	},
       "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Duże drzewo przy strumieniu w Dolinie Radości. Zdrowsza z dwóch rosnących obok siebie dużych lip. Spory odłamany konar sąsiadki przewieszony jest przez jej gałęzie. Drzewo nie ma widocznych uszkodzeń.",
       "photos": [
         {
@@ -606,7 +609,10 @@
     {
       "id": "022",
       "name": "Lipa 4.00m",
-      "coordinates": null,
+      "coordinates": {
+		"lat": 54.395448002011754, 
+		"lng": 18.516908603059697
+	},
       "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Stare omszone drzewo o ponad 400cm obwodzie pnia. Ma bardzo dużo dziupli i zakamarków wypełnionych pruchniejącym drewnem. Prawdopodobnie przycinana wiele lat wcześniej - stąd krój drzewa gdzie ze starego grubego pnia wyrasta wiele młodszych konarów. Drzewo niezwykle cenne biocenotycznie. Potencjalnie może pełnić rolę matecznika występującego na tym terenie chronionego chrząszcza - pachnicy dębowej (Osmoderma eremita), którego larwy wymagają pruchna do życia. Jedno z najstarszych i najcenniejszych drzew w Dolinie Radości.",
       "photos": [
         {
@@ -855,8 +861,11 @@
     {
       "id": "031",
       "name": "Olcha 3.00m",
-      "coordinates": null,
-      "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Osobnik o największym obwodzie pnia spośród okolicznych olsz. Z nasady jej pnia wyrasta gęsto wiele małych gałązek. Stosunkowo nisko pień rozdziela się na dwa spore konary. Drzewo posiada wykształconą koronę.",
+      "coordinates": {
+        "lat": 54.383641,
+        "lng": 18.523020
+      },      
+"description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Osobnik o największym obwodzie pnia spośród okolicznych olsz. Z nasady jej pnia wyrasta gęsto wiele małych gałązek. Stosunkowo nisko pień rozdziela się na dwa spore konary. Drzewo posiada wykształconą koronę.",
       "photos": [
         {
           "id": "a",
@@ -875,13 +884,16 @@
     {
       "id": "032",
       "name": "Olcha 2.72m",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 54.383576, 
+        "lng": 18.522983
+      },  
       "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Jedna z jej większych gałęzi obumarła i ma w sobie kilka dziupli. Pozostałe konary są żywe i zdają się być w dobrej kondycji. Rozgałęziają się w dobrze uformowaną koronę.",
       "photos": [
         {
           "id": "b",
           "thumbnail": "web_thumbnail_400/032a Olcha 272cm_thumb.webp",
-          "image": "web_body_1200/032a Olcha 272m_body.webp"
+          "image": "web_body_1200/032a Olcha 272cm_body.webp"
         },
         {
           "id": "c",
@@ -1864,7 +1876,10 @@
       "id": "063",
       "name": "Podwójny Buk 3.27m inoskulacja",
       "measurement_m": 3.27,
-      "coordinates": null,
+      "coordinates": {
+        "lat": 54.44640990503461,
+        "lng": 18.465849444674923
+      },
       "description": "Buk zwyczajny (Fagus sylvatica). Dwa ściśle przylegające do siebie i zrastające się buki. Stanowią już praktycznie jedno duże drzewo. Rozgałęzia się ono już dość nisko na wiele konarów tworzących podstawę rozłożystej korony.",
       "photos": [
         {
@@ -2630,7 +2645,7 @@
         "lat": 54.37101,
         "lng": 18.5410997
       },
-      "description": "Modrzew europejski (Larix decidua). Drugi pod względem wielkości z grupy dużuch modrzewi rosnących na stosunkowo niewielkim obszarze. Jego największy sąsiad jest pomnikiem przyrody. W okolicy znajduje się jeszcze kilka drzew tego gatunku przekraczających 300 cm obwodu oraz kilka nieco mniejszych - między 250-300 cm. Ten osobnik jest spośród nich najlepszym kandydatem na kolejny pomnik, choć uznanie tych drzew jako pomnika grupowego mogło by być najlepszym rozwiązaniem.",
+      "description": "Modrzew europejski (Larix decidua). Drugi pod względem wielkości z grupy dużych modrzewi rosnących na stosunkowo niewielkim obszarze. Jego największy sąsiad jest pomnikiem przyrody. W okolicy znajduje się jeszcze kilka drzew tego gatunku przekraczających 300 cm obwodu oraz kilka nieco mniejszych - między 250-300 cm. Ten osobnik jest spośród nich najlepszym kandydatem na kolejny pomnik, choć uznanie tych drzew jako pomnika grupowego mogło by być najlepszym rozwiązaniem.",
       "photos": [
         {
           "id": "a",
@@ -2891,7 +2906,10 @@
     {
       "id": "095",
       "name": "Buk 3.30m",
-      "coordinates": null,
+      "coordinates": {
+        "lat": 54.48075570111463,
+        "lng": 18.49243513845023
+      },
       "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w dolince, blisko potoku Źródła Marii przy jednym ze szlaków łączących rezerwat Kacze Łęgi z Wielkim Kackiem. Jest największym bukiem przy tym szlaku. Drzewo ma budowę przypominającą wielką kolumnę uwieńczoną bujną i wyjątkowo foremnie ułożoną koroną.",
       "photos": [
         {
@@ -3075,14 +3093,7 @@
     }
   ],
   "data_quality": {
-    "missing_coordinates": [
-      "021",
-      "022",
-      "031",
-      "032",
-      "063",
-      "095"
-    ],
+    "missing_coordinates": [],
     "missing_descriptions": [],
     "issues": [
       {
