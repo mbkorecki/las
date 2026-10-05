@@ -4,7 +4,7 @@
   "records": [
     {
       "id": "001",
-      "name": "Buk 3.55m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4698013,
         "lng": 18.5371928
@@ -33,11 +33,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.55
+      "measurement_m": 3.55,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "002",
-      "name": "Dąb bezszypułkowy 3.95-4.04m",
+      "name": "Dąb Bezszypułkowy (Quercus petraea)",
       "coordinates": {
         "lat": 54.4708177,
         "lng": 18.5389972
@@ -64,11 +65,12 @@
       "measurement_m": {
         "min": 3.95,
         "max": 4.04
-      }
+      },
+      "title": "Dąb Bezszypułkowy (Quercus petraea)"
     },
     {
       "id": "003",
-      "name": "Podwójny Buk",
+      "name": "Buk Zwyczajny (Fagus sylvatica) Podwójny",
       "measurement_m": {
         "min": 2.61,
         "max": 3.24
@@ -93,18 +95,14 @@
           "id": "c",
           "thumbnail": "web_thumbnail_400/003c Buki 261 324 cm_thumb.webp",
           "image": "web_body_1200/003c Buki 261 324 cm_body.webp"
-        },
-        {
-          "id": "d",
-          "thumbnail": "web_thumbnail_400/003d Buki 261 324 cm_thumb.webp",
-          "image": "web_body_1200/003d Buki 261 324 cm_body.webp"
         }
       ],
-      "group": false
+      "group": false,
+      "title": "Buk Zwyczajny (Fagus sylvatica) Podwójny"
     },
     {
       "id": "004",
-      "name": "Dąb 3.25m",
+      "name": "Dąb Bezszypułkowy (Quercus petraea)",
       "coordinates": {
         "lat": 54.4731913,
         "lng": 18.5437829
@@ -123,11 +121,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.25
+      "measurement_m": 3.25,
+      "title": "Dąb Bezszypułkowy (Quercus petraea)"
     },
     {
       "id": "005",
-      "name": "Dąb 3.81",
+      "name": "Dąb Bezszypułkowy (Quercus petraea) Podwójny",
       "measurement_m": 3.81,
       "coordinates": {
         "lat": 54.4733778,
@@ -156,11 +155,12 @@
           "image": "web_body_1200/005d Dęby bezszypułkowe 381 cm_body.webp"
         }
       ],
-      "group": false
+      "group": false,
+      "title": "Dąb Bezszypułkowy (Quercus petraea) Podwójny"
     },
     {
       "id": "006",
-      "name": "Czarny bez trójkonarowy 0.92-1.05m, niżej 1.25-1.13m",
+      "name": "Bez Czarny (Sambucus nigra) Trójkonarowy",
       "coordinates": {
         "lat": 54.4633773,
         "lng": 18.541197
@@ -197,11 +197,12 @@
           1.13
         ],
         "note": "pomiar trójkonarowego pojedynczego osobnika; wartości dotyczą różnych konarów/wysokości"
-      }
+      },
+      "title": "Bez Czarny (Sambucus nigra) Trójkonarowy"
     },
     {
       "id": "007",
-      "name": "Sosna Zwyczajna 3.14m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.4555642,
         "lng": 18.5192991
@@ -220,11 +221,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.14
+      "measurement_m": 3.14,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "008",
-      "name": "Sosna Zwyczajna 3.19m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.4521499,
         "lng": 18.5154119
@@ -248,11 +250,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.19
+      "measurement_m": 3.19,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "009",
-      "name": "Modrzew 2.74m",
+      "name": "Modrzew Europejski (Larix decidua)",
       "coordinates": {
         "lat": 54.4487085,
         "lng": 18.5048141
@@ -276,11 +279,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.74
+      "measurement_m": 2.74,
+      "title": "Modrzew Europejski (Larix decidua)"
     },
     {
       "id": "010",
-      "name": "Sosna Zwyczajna 3.04m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.4458865,
         "lng": 18.5172881
@@ -299,11 +303,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.04
+      "measurement_m": 3.04,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "011",
-      "name": "Trzy Buki: Buk 3.59m",
+      "name": "Buk Zwyczajny (Fagus sylvatica) Grupa",
       "measurements_m": [
         3.59,
         3.0,
@@ -326,15 +331,12 @@
           "image": "web_body_1200/011b 3 Buki 300 359 359 cm_body.webp"
         }
       ],
-      "group": true
+      "group": true,
+      "title": "Buk Zwyczajny (Fagus sylvatica) Grupa"
     },
     {
       "id": "012",
-      "name": "Daglezja Podwójna 4.10m",
-      "measurements_m": [
-        4.1,
-        3.54
-      ],
+      "name": "Daglezja Zielona (Pseudotsuga menziesii) Podwójna",
       "coordinates": {
         "lat": 54.4312914,
         "lng": 18.5055598
@@ -352,11 +354,17 @@
           "image": "web_body_1200/012b 2 Daglezje zielone podwójna 404 i 354 cm_body.webp"
         }
       ],
-      "group": true
+      "group": false,
+      "title": "Daglezja Zielona (Pseudotsuga menziesii) Podwójna",
+      "measurement_m": {
+        "primary_m": 4.1,
+        "secondary_tree_m": 3.54,
+        "note": "główny zroślak oraz sąsiadująca pojedyncza daglezja; rekord nie jest traktowany jako grupa"
+      }
     },
     {
       "id": "013",
-      "name": "Sosna Zwyczajna 3.49m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.4264559,
         "lng": 18.5300963
@@ -375,11 +383,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.49
+      "measurement_m": 3.49,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "014",
-      "name": "Sosna Zwyczajna 2.80m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.4234956,
         "lng": 18.5369678
@@ -408,11 +417,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.8
+      "measurement_m": 2.8,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "015",
-      "name": "Buk 3.18m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4121232,
         "lng": 18.553174
@@ -426,11 +436,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.18
+      "measurement_m": 3.18,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "016",
-      "name": "Buk 3.37m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4118104,
         "lng": 18.5537685
@@ -449,11 +460,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.37
+      "measurement_m": 3.37,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "017",
-      "name": "Buk 3.73m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4113256,
         "lng": 18.5551116
@@ -477,11 +489,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.73
+      "measurement_m": 3.73,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "018",
-      "name": "Jesion Wyniosły 4.27m",
+      "name": "Jesion Wyniosły (Fraxinus excelsior)",
       "coordinates": {
         "lat": 54.409186,
         "lng": 18.540867
@@ -515,11 +528,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 4.27
+      "measurement_m": 4.27,
+      "title": "Jesion Wyniosły (Fraxinus excelsior)"
     },
     {
       "id": "019",
-      "name": "Dąb Szypułkowy 3.98m",
+      "name": "Dąb Szypułkowy (Quercus robur)",
       "coordinates": {
         "lat": 54.4000819,
         "lng": 18.5395065
@@ -538,11 +552,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.98
+      "measurement_m": 3.98,
+      "title": "Dąb Szypułkowy (Quercus robur)"
     },
     {
       "id": "020",
-      "name": "Lipa 5.00m",
+      "name": "Lipa (Tilia sp.)",
       "coordinates": {
         "lat": 54.3965386,
         "lng": 18.5227434
@@ -571,15 +586,16 @@
         }
       ],
       "group": false,
-      "measurement_m": 5.0
+      "measurement_m": 5.0,
+      "title": "Lipa (Tilia sp.)"
     },
     {
       "id": "021",
-      "name": "Lipa 3.72m",
+      "name": "Lipa (Tilia sp.)",
       "coordinates": {
-		"lat": 54.395189595405974, 
-		"lng": 18.517282420900756
-	},
+        "lat": 54.395189595405974,
+        "lng": 18.517282420900756
+      },
       "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Duże drzewo przy strumieniu w Dolinie Radości. Zdrowsza z dwóch rosnących obok siebie dużych lip. Spory odłamany konar sąsiadki przewieszony jest przez jej gałęzie. Drzewo nie ma widocznych uszkodzeń.",
       "photos": [
         {
@@ -604,15 +620,16 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.72
+      "measurement_m": 3.72,
+      "title": "Lipa (Tilia sp.)"
     },
     {
       "id": "022",
-      "name": "Lipa 4.00m",
+      "name": "Lipa (Tilia sp.)",
       "coordinates": {
-		"lat": 54.395448002011754, 
-		"lng": 18.516908603059697
-	},
+        "lat": 54.395448002011754,
+        "lng": 18.516908603059697
+      },
       "description": "Lipa (Tilia sp.) (Tilia cordata lub T.ilia platyphyllos). Stare omszone drzewo o ponad 400cm obwodzie pnia. Ma bardzo dużo dziupli i zakamarków wypełnionych pruchniejącym drewnem. Prawdopodobnie przycinana wiele lat wcześniej - stąd krój drzewa gdzie ze starego grubego pnia wyrasta wiele młodszych konarów. Drzewo niezwykle cenne biocenotycznie. Potencjalnie może pełnić rolę matecznika występującego na tym terenie chronionego chrząszcza - pachnicy dębowej (Osmoderma eremita), którego larwy wymagają pruchna do życia. Jedno z najstarszych i najcenniejszych drzew w Dolinie Radości.",
       "photos": [
         {
@@ -642,11 +659,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 4.0
+      "measurement_m": 4.0,
+      "title": "Lipa (Tilia sp.)"
     },
     {
       "id": "023",
-      "name": "Dąb szypułkowy 3.54m",
+      "name": "Dąb Szypułkowy (Quercus robur)",
       "coordinates": {
         "lat": 54.4467661,
         "lng": 18.4721934
@@ -665,11 +683,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.54
+      "measurement_m": 3.54,
+      "title": "Dąb Szypułkowy (Quercus robur)"
     },
     {
       "id": "024",
-      "name": "Świerk 2.57m",
+      "name": "Świerk Pospolity (Picea abies)",
       "coordinates": {
         "lat": 54.4495772,
         "lng": 18.468262
@@ -698,11 +717,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.57
+      "measurement_m": 2.57,
+      "title": "Świerk Pospolity (Picea abies)"
     },
     {
       "id": "025",
-      "name": "Dąb Szypułkowy 3.35m",
+      "name": "Dąb Szypułkowy (Quercus robur)",
       "coordinates": {
         "lat": 54.4093689,
         "lng": 18.5258494
@@ -726,11 +746,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.35
+      "measurement_m": 3.35,
+      "title": "Dąb Szypułkowy (Quercus robur)"
     },
     {
       "id": "026",
-      "name": "Lipa 3.30m",
+      "name": "Lipa (Tilia sp.)",
       "coordinates": {
         "lat": 54.4092134,
         "lng": 18.5233395
@@ -749,11 +770,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.3
+      "measurement_m": 3.3,
+      "title": "Lipa (Tilia sp.)"
     },
     {
       "id": "027",
-      "name": "Grab 2.83m",
+      "name": "Grab Pospolity (Carpinus betulus)",
       "coordinates": {
         "lat": 54.4085554,
         "lng": 18.525791
@@ -767,11 +789,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.83
+      "measurement_m": 2.83,
+      "title": "Grab Pospolity (Carpinus betulus)"
     },
     {
       "id": "028",
-      "name": "Sosna zwyczajna 3.30m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.4056552,
         "lng": 18.5256234
@@ -810,11 +833,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.3
+      "measurement_m": 3.3,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "029",
-      "name": "Dąb szypułkowy 4.16m",
+      "name": "Dąb Szypułkowy (Quercus robur)",
       "coordinates": {
         "lat": 54.3821126,
         "lng": 18.5233197
@@ -833,11 +857,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 4.16
+      "measurement_m": 4.16,
+      "title": "Dąb Szypułkowy (Quercus robur)"
     },
     {
       "id": "030",
-      "name": "Olcha 2.73m",
+      "name": "Olsza Czarna (Alnus glutinosa)",
       "coordinates": {
         "lat": 54.3836729,
         "lng": 18.5230203
@@ -856,16 +881,17 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.73
+      "measurement_m": 2.73,
+      "title": "Olsza Czarna (Alnus glutinosa)"
     },
     {
       "id": "031",
-      "name": "Olcha 3.00m",
+      "name": "Olsza Czarna (Alnus glutinosa)",
       "coordinates": {
         "lat": 54.383641,
-        "lng": 18.523020
-      },      
-"description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Osobnik o największym obwodzie pnia spośród okolicznych olsz. Z nasady jej pnia wyrasta gęsto wiele małych gałązek. Stosunkowo nisko pień rozdziela się na dwa spore konary. Drzewo posiada wykształconą koronę.",
+        "lng": 18.52302
+      },
+      "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Osobnik o największym obwodzie pnia spośród okolicznych olsz. Z nasady jej pnia wyrasta gęsto wiele małych gałązek. Stosunkowo nisko pień rozdziela się na dwa spore konary. Drzewo posiada wykształconą koronę.",
       "photos": [
         {
           "id": "a",
@@ -879,15 +905,16 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.0
+      "measurement_m": 3.0,
+      "title": "Olsza Czarna (Alnus glutinosa)"
     },
     {
       "id": "032",
-      "name": "Olcha 2.72m",
+      "name": "Olsza Czarna (Alnus glutinosa)",
       "coordinates": {
-        "lat": 54.383576, 
+        "lat": 54.383576,
         "lng": 18.522983
-      },  
+      },
       "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Jedna z jej większych gałęzi obumarła i ma w sobie kilka dziupli. Pozostałe konary są żywe i zdają się być w dobrej kondycji. Rozgałęziają się w dobrze uformowaną koronę.",
       "photos": [
         {
@@ -907,11 +934,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.72
+      "measurement_m": 2.72,
+      "title": "Olsza Czarna (Alnus glutinosa)"
     },
     {
       "id": "033",
-      "name": "Sosna 2.53m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.3812045,
         "lng": 18.520895
@@ -935,11 +963,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.53
+      "measurement_m": 2.53,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "034",
-      "name": "Daglezja 3.65m",
+      "name": "Daglezja Zielona (Pseudotsuga menziesii)",
       "coordinates": {
         "lat": 54.3827037,
         "lng": 18.5166796
@@ -953,11 +982,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.65
+      "measurement_m": 3.65,
+      "title": "Daglezja Zielona (Pseudotsuga menziesii)"
     },
     {
       "id": "035",
-      "name": "Grab 2.2m",
+      "name": "Grab Pospolity (Carpinus betulus)",
       "coordinates": {
         "lat": 54.378697,
         "lng": 18.5506095
@@ -986,11 +1016,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.2
+      "measurement_m": 2.2,
+      "title": "Grab Pospolity (Carpinus betulus)"
     },
     {
       "id": "036",
-      "name": "Sosna zwyczajna 3.19m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.397657,
         "lng": 18.546223
@@ -1014,11 +1045,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.19
+      "measurement_m": 3.19,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "037",
-      "name": "Świerk 2.84m",
+      "name": "Świerk Pospolity (Picea abies)",
       "coordinates": {
         "lat": 54.4455211,
         "lng": 18.4869352
@@ -1032,11 +1064,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.84
+      "measurement_m": 2.84,
+      "title": "Świerk Pospolity (Picea abies)"
     },
     {
       "id": "038",
-      "name": "Dąb ~Bezszypułkowy 3.53m",
+      "name": "Dąb Bezszypułkowy (Quercus petraea)",
       "coordinates": {
         "lat": 54.4459877,
         "lng": 18.4804875
@@ -1065,11 +1098,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.53
+      "measurement_m": 3.53,
+      "title": "Dąb Bezszypułkowy (Quercus petraea)"
     },
     {
       "id": "039",
-      "name": "Lipa 3.54m",
+      "name": "Lipa (Tilia sp.)",
       "coordinates": {
         "lat": 54.4087031,
         "lng": 18.5335513
@@ -1098,11 +1132,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.54
+      "measurement_m": 3.54,
+      "title": "Lipa (Tilia sp.)"
     },
     {
       "id": "040",
-      "name": "Brzoza 2.30m",
+      "name": "Brzoza Brodawkowata (Betula pendula)",
       "coordinates": {
         "lat": 54.4062891,
         "lng": 18.5337434
@@ -1126,11 +1161,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.3
+      "measurement_m": 2.3,
+      "title": "Brzoza Brodawkowata (Betula pendula)"
     },
     {
       "id": "041",
-      "name": "Modrzew 2.75m",
+      "name": "Modrzew Europejski (Larix decidua)",
       "coordinates": {
         "lat": 54.389097,
         "lng": 18.5153991
@@ -1149,11 +1185,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.75
+      "measurement_m": 2.75,
+      "title": "Modrzew Europejski (Larix decidua)"
     },
     {
       "id": "042",
-      "name": "Grupa: Dąb Szypułkowy 3.35m",
+      "name": "Dąb Szypułkowy (Quercus robur) Grupa",
       "measurements_m": [
         3.35,
         3.1,
@@ -1223,11 +1260,12 @@
           "image": "web_body_1200/042m Grupa Dęby Matemblewo_body.webp"
         }
       ],
-      "group": true
+      "group": true,
+      "title": "Dąb Szypułkowy (Quercus robur) Grupa"
     },
     {
       "id": "043",
-      "name": "Buk 3.15m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3646127,
         "lng": 18.5450426
@@ -1246,11 +1284,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.15
+      "measurement_m": 3.15,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "044",
-      "name": "Modrzew 3.08m potencjalny piorun Modrzew 3.18m",
+      "name": "Modrzew Europejski (Larix decidua) Podwójny",
       "measurements_m": [
         3.08,
         3.18
@@ -1277,11 +1316,12 @@
           "image": "web_body_1200/044c Modrzew 308cm i 318cm_body.webp"
         }
       ],
-      "group": true
+      "group": true,
+      "title": "Modrzew Europejski (Larix decidua) Podwójny"
     },
     {
       "id": "045",
-      "name": "Modrzew 3.34m",
+      "name": "Modrzew Europejski (Larix decidua)",
       "coordinates": {
         "lat": 54.4002146,
         "lng": 18.4910242
@@ -1310,11 +1350,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.34
+      "measurement_m": 3.34,
+      "title": "Modrzew Europejski (Larix decidua)"
     },
     {
       "id": "046",
-      "name": "Daglezja 3.63m",
+      "name": "Daglezja Zielona (Pseudotsuga menziesii)",
       "coordinates": {
         "lat": 54.4260311,
         "lng": 18.5110459
@@ -1343,11 +1384,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.63
+      "measurement_m": 3.63,
+      "title": "Daglezja Zielona (Pseudotsuga menziesii)"
     },
     {
       "id": "047",
-      "name": "Buk 3.50m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4406815,
         "lng": 18.5333297
@@ -1396,11 +1438,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.5
+      "measurement_m": 3.5,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "048",
-      "name": "Dąb 3.14m",
+      "name": "Dąb (Quercus sp.)",
       "coordinates": {
         "lat": 54.4666333,
         "lng": 18.5248858
@@ -1419,11 +1462,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.14
+      "measurement_m": 3.14,
+      "title": "Dąb (Quercus sp.)"
     },
     {
       "id": "049",
-      "name": "Buk 3.70m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3996519,
         "lng": 18.5260542
@@ -1462,11 +1506,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.7
+      "measurement_m": 3.7,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "050",
-      "name": "Buk 4.18m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4053592,
         "lng": 18.5176418
@@ -1530,11 +1575,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 4.18
+      "measurement_m": 4.18,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "051",
-      "name": "Świerk 2.68m",
+      "name": "Świerk Pospolity (Picea abies)",
       "coordinates": {
         "lat": 54.4841641,
         "lng": 18.4997213
@@ -1563,11 +1609,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.68
+      "measurement_m": 2.68,
+      "title": "Świerk Pospolity (Picea abies)"
     },
     {
       "id": "052",
-      "name": "",
+      "name": "Buk Zwyczajny (Fagus sylvatica) Grupa",
       "measurements_m": [
         3.41,
         3.23,
@@ -1600,11 +1647,12 @@
           "image": "web_body_1200/052d Buk 341cm_body.webp"
         }
       ],
-      "group": true
+      "group": true,
+      "title": "Buk Zwyczajny (Fagus sylvatica) Grupa"
     },
     {
       "id": "053",
-      "name": "Buk 3.2m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4872254,
         "lng": 18.4948735
@@ -1638,11 +1686,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.2
+      "measurement_m": 3.2,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "054",
-      "name": "Dąb Bezszypułkowy 3.06m",
+      "name": "Dąb Bezszypułkowy (Quercus petraea)",
       "coordinates": {
         "lat": 54.4792232,
         "lng": 18.4587298
@@ -1671,11 +1720,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.06
+      "measurement_m": 3.06,
+      "title": "Dąb Bezszypułkowy (Quercus petraea)"
     },
     {
       "id": "055",
-      "name": "Modrzew 2.78m",
+      "name": "Modrzew Europejski (Larix decidua)",
       "coordinates": {
         "lat": 54.4846352,
         "lng": 18.4599817
@@ -1689,11 +1739,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.78
+      "measurement_m": 2.78,
+      "title": "Modrzew Europejski (Larix decidua)"
     },
     {
       "id": "056",
-      "name": "Buk 3.45m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4861698,
         "lng": 18.4579305
@@ -1717,11 +1768,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.45
+      "measurement_m": 3.45,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "057",
-      "name": "Buk 2.99m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4862066,
         "lng": 18.4580589
@@ -1755,11 +1807,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.99
+      "measurement_m": 2.99,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "058",
-      "name": "Modrzew 2.58m",
+      "name": "Modrzew Europejski (Larix decidua)",
       "coordinates": {
         "lat": 54.4885088,
         "lng": 18.4609493
@@ -1778,11 +1831,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.58
+      "measurement_m": 2.58,
+      "title": "Modrzew Europejski (Larix decidua)"
     },
     {
       "id": "059",
-      "name": "Dąb szypułkowy 3.20m",
+      "name": "Dąb Szypułkowy (Quercus robur)",
       "coordinates": {
         "lat": 54.4905046,
         "lng": 18.4686697
@@ -1796,11 +1850,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.2
+      "measurement_m": 3.2,
+      "title": "Dąb Szypułkowy (Quercus robur)"
     },
     {
       "id": "060",
-      "name": "Jabłoń 1.64m",
+      "name": "Jabłoń Domowa (Malus domestica)",
       "coordinates": {
         "lat": 54.4875378,
         "lng": 18.4873808
@@ -1814,11 +1869,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 1.64
+      "measurement_m": 1.64,
+      "title": "Jabłoń Domowa (Malus domestica)"
     },
     {
       "id": "061",
-      "name": "Lipa 3.00m",
+      "name": "Lipa (Tilia sp.)",
       "coordinates": {
         "lat": 54.4873354,
         "lng": 18.4894913
@@ -1842,11 +1898,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.0
+      "measurement_m": 3.0,
+      "title": "Lipa (Tilia sp.)"
     },
     {
       "id": "062",
-      "name": "Brzoza 1.85m",
+      "name": "Brzoza Brodawkowata (Betula pendula)",
       "coordinates": {
         "lat": 54.4872361,
         "lng": 18.4892151
@@ -1870,11 +1927,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 1.85
+      "measurement_m": 1.85,
+      "title": "Brzoza Brodawkowata (Betula pendula)"
     },
     {
       "id": "063",
-      "name": "Podwójny Buk 3.27m inoskulacja",
+      "name": "Buk Zwyczajny (Fagus sylvatica) Podwójny",
       "measurement_m": 3.27,
       "coordinates": {
         "lat": 54.44640990503461,
@@ -1923,11 +1981,12 @@
           "image": "web_body_1200/063h Podwójny Buk 327cm_body.webp"
         }
       ],
-      "group": false
+      "group": false,
+      "title": "Buk Zwyczajny (Fagus sylvatica) Podwójny"
     },
     {
       "id": "064",
-      "name": "Buk 3.40m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4022564,
         "lng": 18.560411
@@ -1956,11 +2015,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.4
+      "measurement_m": 3.4,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "065",
-      "name": "Buk 3.59m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.4011395,
         "lng": 18.5600613
@@ -1984,11 +2044,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.59
+      "measurement_m": 3.59,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "066",
-      "name": "Buk 4.55m",
+      "name": "Buk Zwyczajny (Fagus sylvatica) Potrójny",
       "coordinates": {
         "lat": 54.3976424,
         "lng": 18.5609145
@@ -2017,11 +2078,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 4.55
+      "measurement_m": 4.55,
+      "title": "Buk Zwyczajny (Fagus sylvatica) Potrójny"
     },
     {
       "id": "067",
-      "name": "Buk 3.30m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3975871,
         "lng": 18.5616813
@@ -2050,11 +2112,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.3
+      "measurement_m": 3.3,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "068",
-      "name": "Buk 3.10m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3966684,
         "lng": 18.5626868
@@ -2083,11 +2146,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.1
+      "measurement_m": 3.1,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "069",
-      "name": "Dąb Bezszypułkowy 4.02m",
+      "name": "Dąb Bezszypułkowy (Quercus petraea)",
       "coordinates": {
         "lat": 54.3967192,
         "lng": 18.5625359
@@ -2111,11 +2175,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 4.02
+      "measurement_m": 4.02,
+      "title": "Dąb Bezszypułkowy (Quercus petraea)"
     },
     {
       "id": "070",
-      "name": "Buk 2.9m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3957475,
         "lng": 18.5599379
@@ -2134,11 +2199,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.9
+      "measurement_m": 2.9,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "071",
-      "name": "Klon Pospolity 2.76m",
+      "name": "Klon Zwyczajny (Acer platanoides) Podwójny",
       "coordinates": {
         "lat": 54.3951885,
         "lng": 18.5586819
@@ -2162,11 +2228,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.76
+      "measurement_m": 2.76,
+      "title": "Klon Zwyczajny (Acer platanoides) Podwójny"
     },
     {
       "id": "072",
-      "name": "Kasztanowiec 3.00m",
+      "name": "Kasztanowiec Pospolity (Aesculus hippocastanum)",
       "coordinates": {
         "lat": 54.3953794,
         "lng": 18.5564011
@@ -2210,11 +2277,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.0
+      "measurement_m": 3.0,
+      "title": "Kasztanowiec Pospolity (Aesculus hippocastanum)"
     },
     {
       "id": "073",
-      "name": "Brzoza Brodawkowata 2.10m",
+      "name": "Brzoza Brodawkowata (Betula pendula)",
       "coordinates": {
         "lat": 54.3948611,
         "lng": 18.5567367
@@ -2238,11 +2306,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.1
+      "measurement_m": 2.1,
+      "title": "Brzoza Brodawkowata (Betula pendula)"
     },
     {
       "id": "074",
-      "name": "Buk 4.05m",
+      "name": "Buk Zwyczajny (Fagus sylvatica) Potrójny",
       "coordinates": {
         "lat": 54.3929056,
         "lng": 18.5601391
@@ -2291,11 +2360,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 4.05
+      "measurement_m": 4.05,
+      "title": "Buk Zwyczajny (Fagus sylvatica) Potrójny"
     },
     {
       "id": "075",
-      "name": "Buk 3.33m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3928103,
         "lng": 18.5605025
@@ -2339,11 +2409,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.33
+      "measurement_m": 3.33,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "076",
-      "name": "Buk 3.20m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3892912,
         "lng": 18.5629363
@@ -2372,11 +2443,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.2
+      "measurement_m": 3.2,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "077",
-      "name": "Buk 3.10m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3893468,
         "lng": 18.5628813
@@ -2405,11 +2477,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.1
+      "measurement_m": 3.1,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "078",
-      "name": "Buk 3.08m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3898134,
         "lng": 18.562151
@@ -2433,11 +2506,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.08
+      "measurement_m": 3.08,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "079",
-      "name": "Buk 3.28m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.3898892,
         "lng": 18.5615368
@@ -2461,11 +2535,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.28
+      "measurement_m": 3.28,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "080",
-      "name": "Brzoza 2.10m",
+      "name": "Brzoza Brodawkowata (Betula pendula)",
       "coordinates": {
         "lat": 54.3887717,
         "lng": 18.5625027
@@ -2484,11 +2559,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.1
+      "measurement_m": 2.1,
+      "title": "Brzoza Brodawkowata (Betula pendula)"
     },
     {
       "id": "081",
-      "name": "Sosna zwyczajna 3.00m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.3856679,
         "lng": 18.5526892
@@ -2542,11 +2618,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.0
+      "measurement_m": 3.0,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "082",
-      "name": "Sosna zwyczajna 3.05m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.3854537,
         "lng": 18.5520046
@@ -2565,11 +2642,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.05
+      "measurement_m": 3.05,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "083",
-      "name": "Buk 3.93m",
+      "name": "Buk Zwyczajny (Fagus sylvatica) Podwójny",
       "coordinates": {
         "lat": 54.3837434,
         "lng": 18.549947
@@ -2603,11 +2681,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.93
+      "measurement_m": 3.93,
+      "title": "Buk Zwyczajny (Fagus sylvatica) Podwójny"
     },
     {
       "id": "084",
-      "name": "Buk 3.15m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.434754,
         "lng": 18.534415
@@ -2636,11 +2715,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.15
+      "measurement_m": 3.15,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "085",
-      "name": "Modrzew europejski 3.37m",
+      "name": "Modrzew Europejski (Larix decidua)",
       "coordinates": {
         "lat": 54.37101,
         "lng": 18.5410997
@@ -2659,11 +2739,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.37
+      "measurement_m": 3.37,
+      "title": "Modrzew Europejski (Larix decidua)"
     },
     {
       "id": "086",
-      "name": "Wierzba",
+      "name": "Wierzba (Salix sp.)",
       "coordinates": {
         "lat": 54.4816933,
         "lng": 18.5329408
@@ -2687,11 +2768,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 8.2
+      "measurement_m": 8.2,
+      "title": "Wierzba (Salix sp.)"
     },
     {
       "id": "087",
-      "name": "Topola Biała 5.13m",
+      "name": "Topola Biała (Populus alba)",
       "coordinates": {
         "lat": 54.4837925,
         "lng": 18.5420476
@@ -2710,11 +2792,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 5.13
+      "measurement_m": 5.13,
+      "title": "Topola Biała (Populus alba)"
     },
     {
       "id": "088",
-      "name": "Topola Biała 5.04m",
+      "name": "Topola Biała (Populus alba)",
       "coordinates": {
         "lat": 54.4836176,
         "lng": 18.5417542
@@ -2733,11 +2816,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 5.04
+      "measurement_m": 5.04,
+      "title": "Topola Biała (Populus alba)"
     },
     {
       "id": "089",
-      "name": "Sosna Zwyczajna 2.62m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.5178779,
         "lng": 18.4258704
@@ -2756,11 +2840,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.62
+      "measurement_m": 2.62,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "090",
-      "name": "Buk 2.93m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.520399,
         "lng": 18.4112647
@@ -2774,11 +2859,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.93
+      "measurement_m": 2.93,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "091",
-      "name": "Topola",
+      "name": "Topola (Populus sp.)",
       "coordinates": {
         "lat": 54.5329645,
         "lng": 18.4876061
@@ -2807,11 +2893,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.8
+      "measurement_m": 3.8,
+      "title": "Topola (Populus sp.)"
     },
     {
       "id": "092",
-      "name": "Topola",
+      "name": "Topola (Populus sp.)",
       "coordinates": {
         "lat": 54.5326672,
         "lng": 18.487707
@@ -2840,11 +2927,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 4.23
+      "measurement_m": 4.23,
+      "title": "Topola (Populus sp.)"
     },
     {
       "id": "093",
-      "name": "Topola 3.90m",
+      "name": "Topola (Populus sp.)",
       "coordinates": {
         "lat": 54.5109048,
         "lng": 18.5326203
@@ -2868,11 +2956,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.9
+      "measurement_m": 3.9,
+      "title": "Topola (Populus sp.)"
     },
     {
       "id": "094",
-      "name": "Wiąz 3.05m",
+      "name": "Wiąz (Ulmus sp.)",
       "coordinates": {
         "lat": 54.4860837,
         "lng": 18.5449185
@@ -2901,16 +2990,16 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.05
+      "measurement_m": 3.05,
+      "title": "Wiąz (Ulmus sp.)"
     },
     {
       "id": "095",
-      "name": "Buk 3.30m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.48075570111463,
         "lng": 18.49243513845023
-      },
-      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w dolince, blisko potoku Źródła Marii przy jednym ze szlaków łączących rezerwat Kacze Łęgi z Wielkim Kackiem. Jest największym bukiem przy tym szlaku. Drzewo ma budowę przypominającą wielką kolumnę uwieńczoną bujną i wyjątkowo foremnie ułożoną koroną.",
+      },      "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w dolince, blisko potoku Źródła Marii przy jednym ze szlaków łączących rezerwat Kacze Łęgi z Wielkim Kackiem. Jest największym bukiem przy tym szlaku. Drzewo ma budowę przypominającą wielką kolumnę uwieńczoną bujną i wyjątkowo foremnie ułożoną koroną.",
       "photos": [
         {
           "id": "a",
@@ -2934,11 +3023,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.3
+      "measurement_m": 3.3,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "096",
-      "name": "Sosna 2.87m",
+      "name": "Sosna Zwyczajna (Pinus sylvestris)",
       "coordinates": {
         "lat": 54.4050015,
         "lng": 18.5340345
@@ -2967,11 +3057,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.87
+      "measurement_m": 2.87,
+      "title": "Sosna Zwyczajna (Pinus sylvestris)"
     },
     {
       "id": "097",
-      "name": "Klon 2.37m",
+      "name": "Klon Zwyczajny (Acer platanoides)",
       "coordinates": {
         "lat": 54.4636115,
         "lng": 18.5450811
@@ -2995,11 +3086,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 2.37
+      "measurement_m": 2.37,
+      "title": "Klon Zwyczajny (Acer platanoides)"
     },
     {
       "id": "098",
-      "name": "Buk 3.14m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.457375,
         "lng": 18.484042
@@ -3023,11 +3115,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.14
+      "measurement_m": 3.14,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "099",
-      "name": "Buk 3.54m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.435659,
         "lng": 18.537087
@@ -3051,11 +3144,12 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.54
+      "measurement_m": 3.54,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     },
     {
       "id": "100",
-      "name": "Buk 3.42m",
+      "name": "Buk Zwyczajny (Fagus sylvatica)",
       "coordinates": {
         "lat": 54.434754,
         "lng": 18.538369
@@ -3089,36 +3183,93 @@
         }
       ],
       "group": false,
-      "measurement_m": 3.42
+      "measurement_m": 3.42,
+      "title": "Buk Zwyczajny (Fagus sylvatica)"
     }
   ],
   "data_quality": {
-    "missing_coordinates": [],
+    "missing_coordinates": [
+      "095"
+    ],
     "missing_descriptions": [],
     "issues": [
       {
+        "id": "048",
+        "issue": "Gatunek dębu nierozstrzygnięty w opisie: pozostawiono nazwę rodzaju jako Dąb (Quercus sp.)."
+      },
+      {
         "id": "086",
-        "issue": "Gatunek pozostawiony jako niepewny: wierzba (Salix sp.), prawdopodobnie Salix alba."
+        "issue": "Gatunek wierzby nierozstrzygnięty: Wierzba (Salix sp.); opis wskazuje jedynie prawdopodobne Salix alba."
       },
       {
-        "id": "003",
-        "issue": "Grupa dwóch zrośniętych buków; źródło podaje dwa pomiary 2.61 m i 3.24 m."
+        "id": "091",
+        "issue": "Gatunek topoli nierozstrzygnięty: Topola (Populus sp.); opis wskazuje jedynie prawdopodobne Populus nigra."
       },
       {
-        "id": "005",
-        "issue": "Grupa dwóch zrośniętych dębów; źródło podaje jeden wspólny pomiar 3.81 m."
+        "id": "092",
+        "issue": "Gatunek topoli nierozstrzygnięty: Topola (Populus sp.)."
       },
       {
-        "id": "063",
-        "issue": "Grupa dwóch zrośniętych buków (inoskulacja); źródło podaje jeden wspólny pomiar 3.27 m."
+        "id": "093",
+        "issue": "Gatunek topoli nierozstrzygnięty: Topola (Populus sp.)."
       },
       {
-        "id": "052",
-        "issue": "Rekord obejmuje głównego buka oraz dwa sąsiednie buki, dla których źródło podaje dodatkowe pomiary."
+        "id": "094",
+        "issue": "Gatunek wiązu nierozstrzygnięty: Wiąz (Ulmus sp.)."
+      },
+      {
+        "id": "012",
+        "issue": "Na życzenie rekord pozostaje group:false mimo opisu dwóch daglezji; zachowano oba pomiary w measurement_m jako primary_m i secondary_tree_m."
+      },
+      {
+        "id": "049",
+        "issue": "Opis sugeruje możliwą inoskulację dwóch buków, ale nie rozstrzyga tego; pozostawiono group:false."
+      },
+      {
+        "id": "050",
+        "issue": "Opis sugeruje możliwą inoskulację dwóch buków, ale nie rozstrzyga tego; pozostawiono group:false."
+      },
+      {
+        "id": "059",
+        "issue": "Opis sugeruje dwa zrośnięte osobniki, ale nie rozstrzyga tego; pozostawiono group:false."
+      },
+      {
+        "id": "062",
+        "issue": "U podstawy rośnie mniejsze drzewko; rekord traktowany jako pojedynczy główny osobnik, nie grupa."
+      },
+      {
+        "id": "079",
+        "issue": "Opis sugeruje możliwą inoskulację dwóch buków, ale nie rozstrzyga tego; pozostawiono group:false."
+      },
+      {
+        "id": "066",
+        "issue": "Opis mówi o potrójnym zroślaku; traktowany jako jeden rekord/drzewo katalogowe, nie grupa odrębnych drzew."
+      },
+      {
+        "id": "071",
+        "issue": "Opis mówi o zrośnięciu dwóch klonów; traktowany jako jeden rekord/drzewo katalogowe, nie grupa."
+      },
+      {
+        "id": "074",
+        "issue": "Opis mówi o prawdopodobnym potrójnym zroślaku; traktowany jako jeden rekord/drzewo katalogowe, nie grupa."
+      },
+      {
+        "id": "083",
+        "issue": "Opis mówi o ścisłym zrośnięciu dwóch drzew; traktowany jako jeden rekord/drzewo katalogowe, nie grupa."
+      },
+      {
+        "id": "032",
+        "issue": "Identyfikatory zdjęć w rekordzie są nietypowe: b, c, e, podczas gdy nazwy plików wskazują odpowiednio 032a, 032c, 032b; wymaga sprawdzenia względem rzeczywistych plików."
       }
     ],
-    "group_rule": "group=true oznacza, że jeden numer reprezentuje więcej niż jedno drzewo; wtedy measurements_m jest listą pomiarów przypisanych do grupy. group=false oznacza pojedyncze drzewo, a pomiar jest zapisany jako measurement_m.",
+    "group_rule": "group=true oznacza kilka odrębnych drzew ujętych pod jednym numerem. Zrośnięte osobniki (zroślaki/inoskulacja) są traktowane jako jeden rekord katalogowy i pozostają group=false, chyba że rekord opisuje osobne drzewa jako grupę. Dla group=true measurements_m jest listą pomiarów; dla group=false używane jest measurement_m.",
     "map_rule": "Rekordy z coordinates:null należy pominąć przy tworzeniu punktów na mapie, ale pozostawić dostępne na liście.",
-    "photo_note": "Ścieżki zdjęć pochodzą z lista_plików.txt; fizyczna obecność plików nie była możliwa do zweryfikowania bez folderów ze zdjęciami."
+    "photo_note": "Ścieżki zdjęć pochodzą z lista_plików.txt; fizyczna obecność plików nie była możliwa do zweryfikowania bez folderów ze zdjęciami.",
+    "group_ids": [
+      "011",
+      "042",
+      "044",
+      "052"
+    ]
   }
 }
