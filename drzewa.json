@@ -103,11 +103,6 @@
      "id": "b",
      "thumbnail": "web_thumbnail_400/003b Buki 261 324 cm_thumb.webp",
      "image": "web_body_1200/003b Buki 261 324 cm_body.webp"
-    },
-    {
-     "id": "c",
-     "thumbnail": "web_thumbnail_400/003c Buki 261 324 cm_thumb.webp",
-     "image": "web_body_1200/003c Buki 261 324 cm_body.webp"
     }
    ],
    "group": false,
@@ -762,16 +757,6 @@
      "id": "c",
      "thumbnail": "web_thumbnail_400/022c Lipa 400 cm.JPG_thumb.webp",
      "image": "web_body_1200/022c Lipa 400 cm.JPG_body.webp"
-    },
-    {
-     "id": "d",
-     "thumbnail": "web_thumbnail_400/022d Lipa 400 cm_thumb.webp",
-     "image": "web_body_1200/022d Lipa 400 cm_body.webp"
-    },
-    {
-     "id": "e",
-     "thumbnail": "web_thumbnail_400/022e Lipa 400 cm_thumb.webp",
-     "image": "web_body_1200/022e Lipa 400 cm_body.webp"
     }
    ],
    "group": false,
@@ -867,11 +852,6 @@
      "id": "a",
      "thumbnail": "web_thumbnail_400/025a Dąb Szypułkowy 335cm_thumb.webp",
      "image": "web_body_1200/025a Dąb Szypułkowy 335cm_body.webp"
-    },
-    {
-     "id": "b",
-     "thumbnail": "web_thumbnail_400/025b Dąb Szypułkowy 335cm_thumb.webp",
-     "image": "web_body_1200/025b Dąb Szypułkowy 335cm_body.webp"
     },
     {
      "id": "c",
@@ -2333,11 +2313,6 @@
      "id": "g",
      "thumbnail": "web_thumbnail_400/063g Podwójny Buk 327cm_thumb.webp",
      "image": "web_body_1200/063g Podwójny Buk 327cm_body.webp"
-    },
-    {
-     "id": "h",
-     "thumbnail": "web_thumbnail_400/063h Podwójny Buk 327cm_thumb.webp",
-     "image": "web_body_1200/063h Podwójny Buk 327cm_body.webp"
     }
    ],
    "group": false,
