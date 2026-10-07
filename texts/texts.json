@@ -1,0 +1,16 @@
+{
+  "texts": [
+    {
+      "id": "loneliness-of-trees",
+      "author": "MBK",
+      "title": {
+        "en": "Loneliness of Trees",
+        "pl": "Samotność drzew"
+      },
+      "file": {
+        "en": "texts/loneliness-of-trees.en.md",
+        "pl": "texts/samotnosc-drzew.pl.md"
+      }
+    }
+  ]
+}
