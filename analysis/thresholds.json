@@ -1,0 +1,3272 @@
+{
+ "source": {
+  "title": "Wymiary kwalifikujące drzewa do ochrony",
+  "url": "https://kp.org.pl/pdf/poradniki/drzewa_pomnikowe.htm",
+  "unit_in_source": "cm",
+  "description_pl": "Przykładowe wymiary drzew (obwód, cm), kwalifikujące je do ochrony, według propozycji sformułowanych dla wybranych kompleksów leśnych w Polsce. Zapis „a / b” oznacza: poza lasami / w lasach. „-” oznacza brak wartości.",
+  "description_en": "Example tree dimensions (circumference, cm) qualifying trees for protection, according to proposals formulated for selected forest complexes in Poland. “a / b” means: outside forests / in forests. “-” means no value."
+ },
+ "columns": [
+  {
+   "col": 2,
+   "pl": "Kwalifikujące na pomnik przyrody - obowiązujące obecnie w lasach",
+   "en": "Qualifying as a natural monument – currently in force in forests"
+  },
+  {
+   "col": 3,
+   "pl": "Kwalifikujące na pomnik przyrody - obowiązujące w kraju do 1962 r.",
+   "en": "Qualifying as a natural monument – in force nationwide until 1962"
+  },
+  {
+   "col": 4,
+   "pl": "Kwalifikujące na pomnik przyrody - obowiązujące w kraju od 1962 do 1996 r.",
+   "en": "Qualifying as a natural monument – in force nationwide 1962–1996"
+  },
+  {
+   "col": 5,
+   "pl": "Kwalifikujące na pomnik przyrody poza lasami - propozycja P. Rucińskiego (1998)",
+   "en": "Qualifying as a natural monument outside forests – proposal by P. Ruciński (1998)"
+  },
+  {
+   "col": 6,
+   "pl": "Kwalifikujące do ochrony nadzwyczajnej w Puszczy Białowieskiej - propozycja TOPB (1996)",
+   "en": "Qualifying for extraordinary protection in the Białowieża Forest – TOPB proposal (1996)"
+  },
+  {
+   "col": 7,
+   "pl": "Kwalifikujące na pomnik przyrody poza lasami / w lasach Trójmiejskiego Parku Krajobrazowego - propozycja Zielińskiego i Garbalewskiego (1999)",
+   "en": "Qualifying as a natural monument outside forests / in forests of the Tricity Landscape Park – proposal by Zieliński and Garbalewski (1999)"
+  },
+  {
+   "col": 8,
+   "pl": "Kwalifikujące na pomnik przyrody poza lasami / w lasach Kaszubskiego Parku Krajobrazowego - propozycja Zielińskiego i Garbalewskiego (1999)",
+   "en": "Qualifying as a natural monument outside forests / in forests of the Kashubian Landscape Park – proposal by Zieliński and Garbalewski (1999)"
+  },
+  {
+   "col": 9,
+   "pl": "Kwalifikujące na pomnik przyrody poza lasami / w lasach Wdzydzkiego Parku Krajobrazowego - propozycja Zielińskiego i Garbalewskiego (1999)",
+   "en": "Qualifying as a natural monument outside forests / in forests of the Wdzydze Landscape Park – proposal by Zieliński and Garbalewski (1999)"
+  },
+  {
+   "col": 10,
+   "pl": "Kwalifikujące na pomnik przyrody w Puszczy Drawskiej - propozycja J. i P. Pawlaczyków (npbl.)",
+   "en": "Qualifying as a natural monument in the Drawa Forest – proposal by J. and P. Pawlaczyk (unpublished)"
+  },
+  {
+   "col": 11,
+   "pl": "Kwalifikujace do ochrony nadzwyczajnej w Puszczy Drawskiej - propozycja J. i P. Pawlaczyków (1998)",
+   "en": "Qualifying for extraordinary protection in the Drawa Forest – proposal by J. and P. Pawlaczyk (1998)"
+  },
+  {
+   "col": 12,
+   "pl": "Kwalifikujące na pomnik przyrody w Cedyńskim Parku Krajobrazowym - propozycja J. i P. Pawlaczyków (1999)",
+   "en": "Qualifying as a natural monument in the Cedynia Landscape Park – proposal by J. and P. Pawlaczyk (1999)"
+  },
+  {
+   "col": 13,
+   "pl": "Kwalifikujące do ochrony nadzwyczajnej w Cedyńskim Parku Krajobrazowym - propozycja J. i P. Pawlaczyków (1999)",
+   "en": "Qualifying for extraordinary protection in the Cedynia Landscape Park – proposal by J. and P. Pawlaczyk (1999)"
+  }
+ ],
+ "references": {
+  "2": "Instrukcja sporządzania programu ochrony przyrody w nadleśnictwie. Załącznik nr 11 do Instrukcji Urządzania Lasu",
+  "4-5": "Ruciński P. 1998. Motywy i kryteria uznawania tworów przyrody za pomniki. Las Polski (1998), 23: 7–10.",
+  "6": "Towarzystwo Ochrony Puszczy Białowieskiej 1996. Zasady ochrony starych drzew w Puszczy Białowieskiej – propozycja społeczna. Mscr.",
+  "7-9": "Garbalewski A., Zieliński S. 1999. O lokalnym podejściu do ochrony pomnikowej drzew i krzewów. Bociek; Biuletyn Lubuskiego Klubu Przyrodników 58: 4–6.",
+  "10-11": "Kujawa-Pawlaczyk J., Pawlaczyk P. 1998. Otulina Drawieńskiego Parku Narodowego. Inwentaryzacja przyrodnicza z programem ochrony przyrody. Mscr.",
+  "12-13": "Kujawa-Pawlaczyk J., Pawlaczyk P. 1999. Cedyński Park Krajobrazowy. Operat ochrony ekosystemów leśnych do Planu Ochrony Parku. Mscr."
+ },
+ "rows": [
+  {
+   "name": "bez czarny",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "80 / 80",
+     "outside": 80,
+     "inside": 80
+    },
+    {
+     "raw": "80 / 80",
+     "outside": 80,
+     "inside": 80
+    },
+    {
+     "raw": "70 / 70",
+     "outside": 70,
+     "inside": 70
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    }
+   ]
+  },
+  {
+   "name": "bez koralowy",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "50 / 50",
+     "outside": 50,
+     "inside": 50
+    },
+    {
+     "raw": "50 / 50",
+     "outside": 50,
+     "inside": 50
+    },
+    {
+     "raw": "50 / 50",
+     "outside": 50,
+     "inside": 50
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "bluszcz",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie kwitnące"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "20",
+     "value": 20
+    },
+    {
+     "raw": "20",
+     "value": 20
+    },
+    {
+     "raw": "15",
+     "value": 15
+    },
+    {
+     "raw": "Wszystkie kwitnące"
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "30",
+     "value": 30
+    },
+    {
+     "raw": "Wszystkie kwitnące"
+    }
+   ]
+  },
+  {
+   "name": "brzoza brodawkowata",
+   "values": [
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "160",
+     "value": 160
+    },
+    {
+     "raw": "210 / 190",
+     "outside": 210,
+     "inside": 190
+    },
+    {
+     "raw": "210 / 180",
+     "outside": 210,
+     "inside": 180
+    },
+    {
+     "raw": "210 / 190",
+     "outside": 210,
+     "inside": 190
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "200",
+     "value": 200
+    }
+   ]
+  },
+  {
+   "name": "brzoza omszona",
+   "values": [
+    {
+     "raw": "190",
+     "value": 190
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "110",
+     "value": 110
+    },
+    {
+     "raw": "200 / 180",
+     "outside": 200,
+     "inside": 180
+    },
+    {
+     "raw": "200 / 190",
+     "outside": 200,
+     "inside": 190
+    },
+    {
+     "raw": "200 / 190",
+     "outside": 200,
+     "inside": 190
+    },
+    {
+     "raw": "190",
+     "value": 190
+    },
+    {
+     "raw": "180",
+     "value": 180
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "180",
+     "value": 180
+    }
+   ]
+  },
+  {
+   "name": "buk zwyczajny",
+   "values": [
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "330 / 310",
+     "outside": 330,
+     "inside": 310
+    },
+    {
+     "raw": "320 / 300",
+     "outside": 320,
+     "inside": 300
+    },
+    {
+     "raw": "300 / 280",
+     "outside": 300,
+     "inside": 280
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "280",
+     "value": 280
+    }
+   ]
+  },
+  {
+   "name": "choina",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "cyprysiki",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "cis pospolity",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "80 / 30",
+     "outside": 80,
+     "inside": 30
+    },
+    {
+     "raw": "80 / 30",
+     "outside": 80,
+     "inside": 30
+    },
+    {
+     "raw": "80 / 30",
+     "outside": 80,
+     "inside": 30
+    },
+    {
+     "raw": "80",
+     "value": 80
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "Wszystkie"
+    }
+   ]
+  },
+  {
+   "name": "czeremcha",
+   "values": [
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "90",
+     "value": 90
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "130 / 90",
+     "outside": 130,
+     "inside": 90
+    },
+    {
+     "raw": "130 / 90",
+     "outside": 130,
+     "inside": 90
+    },
+    {
+     "raw": "130 / 90",
+     "outside": 130,
+     "inside": 90
+    },
+    {
+     "raw": "120",
+     "value": 120
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "czereśnia",
+   "values": [
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "150 / 120",
+     "outside": 150,
+     "inside": 120
+    },
+    {
+     "raw": "150 / 120",
+     "outside": 150,
+     "inside": 120
+    },
+    {
+     "raw": "150 / 120",
+     "outside": 150,
+     "inside": 120
+    },
+    {
+     "raw": "170",
+     "value": 170
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "Wszystkie w lasach"
+    }
+   ]
+  },
+  {
+   "name": "daglezja",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "260",
+     "value": 260
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "230",
+     "value": 230
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "250",
+     "value": 250
+    }
+   ]
+  },
+  {
+   "name": "dąb bezszypułkowy",
+   "values": [
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "380",
+     "value": 380
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "300 / 270",
+     "outside": 300,
+     "inside": 270
+    },
+    {
+     "raw": "300 / 270",
+     "outside": 300,
+     "inside": 270
+    },
+    {
+     "raw": "280 / 260",
+     "outside": 280,
+     "inside": 260
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "330",
+     "value": 330
+    },
+    {
+     "raw": "300",
+     "value": 300
+    }
+   ]
+  },
+  {
+   "name": "dąb czerwony",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "380",
+     "value": 380
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "260",
+     "value": 260
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "dereń",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    }
+   ]
+  },
+  {
+   "name": "dąb szypułkowy",
+   "values": [
+    {
+     "raw": "380",
+     "value": 380
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "380",
+     "value": 380
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "190",
+     "value": 190
+    },
+    {
+     "raw": "350 / 310",
+     "outside": 350,
+     "inside": 310
+    },
+    {
+     "raw": "350 / 310",
+     "outside": 350,
+     "inside": 310
+    },
+    {
+     "raw": "340 / 300",
+     "outside": 340,
+     "inside": 300
+    },
+    {
+     "raw": "360",
+     "value": 360
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "330",
+     "value": 330
+    },
+    {
+     "raw": "300",
+     "value": 300
+    }
+   ]
+  },
+  {
+   "name": "głóg",
+   "values": [
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "110 / 80",
+     "outside": 110,
+     "inside": 80
+    },
+    {
+     "raw": "100 / 80",
+     "outside": 100,
+     "inside": 80
+    },
+    {
+     "raw": "100 / 80",
+     "outside": 100,
+     "inside": 80
+    },
+    {
+     "raw": "120",
+     "value": 120
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "120",
+     "value": 120
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    }
+   ]
+  },
+  {
+   "name": "grab",
+   "values": [
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "190",
+     "value": 190
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "160",
+     "value": 160
+    },
+    {
+     "raw": "190 / 170",
+     "outside": 190,
+     "inside": 170
+    },
+    {
+     "raw": "190 / 160",
+     "outside": 190,
+     "inside": 160
+    },
+    {
+     "raw": "190 / 160",
+     "outside": 190,
+     "inside": 160
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "180",
+     "value": 180
+    },
+    {
+     "raw": "240",
+     "value": 240
+    },
+    {
+     "raw": "200",
+     "value": 200
+    }
+   ]
+  },
+  {
+   "name": "grusza",
+   "values": [
+    {
+     "raw": "160",
+     "value": 160
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "170 / 110",
+     "outside": 170,
+     "inside": 110
+    },
+    {
+     "raw": "170 / 110",
+     "outside": 170,
+     "inside": 110
+    },
+    {
+     "raw": "170 / 100",
+     "outside": 170,
+     "inside": 100
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "Wszystkie w lasach"
+    }
+   ]
+  },
+  {
+   "name": "iglicznia",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "275",
+     "value": 275
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "jabłoń",
+   "values": [
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "90",
+     "value": 90
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "150 / 80",
+     "outside": 150,
+     "inside": 80
+    },
+    {
+     "raw": "150 / 80",
+     "outside": 150,
+     "inside": 80
+    },
+    {
+     "raw": "150 / 70",
+     "outside": 150,
+     "inside": 70
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "Wszystkie w lasach"
+    }
+   ]
+  },
+  {
+   "name": "jałowiec",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "75",
+     "value": 75
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "40",
+     "value": 40
+    },
+    {
+     "raw": "40",
+     "value": 40
+    },
+    {
+     "raw": "50",
+     "value": 50
+    },
+    {
+     "raw": "75",
+     "value": 75
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "75",
+     "value": 75
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    }
+   ]
+  },
+  {
+   "name": "jarząb pospolity",
+   "values": [
+    {
+     "raw": "160",
+     "value": 160
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "140 / 110",
+     "outside": 140,
+     "inside": 110
+    },
+    {
+     "raw": "140 / 110",
+     "outside": 140,
+     "inside": 110
+    },
+    {
+     "raw": "140 / 100",
+     "outside": 140,
+     "inside": 100
+    },
+    {
+     "raw": "140",
+     "value": 140
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "160",
+     "value": 160
+    },
+    {
+     "raw": "100",
+     "value": 100
+    }
+   ]
+  },
+  {
+   "name": "jarząb szwedzki",
+   "values": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "140 / 80",
+     "outside": 140,
+     "inside": 80
+    },
+    {
+     "raw": "140 / 70",
+     "outside": 140,
+     "inside": 70
+    },
+    {
+     "raw": "140 / 70",
+     "outside": 140,
+     "inside": 70
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "jesion",
+   "values": [
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "290 / 250",
+     "outside": 290,
+     "inside": 250
+    },
+    {
+     "raw": "290 / 250",
+     "outside": 290,
+     "inside": 250
+    },
+    {
+     "raw": "280 / 240",
+     "outside": 280,
+     "inside": 240
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "200",
+     "value": 200
+    }
+   ]
+  },
+  {
+   "name": "jodła",
+   "values": [
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "180",
+     "value": 180
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "kasztanowiec",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300 / 220",
+     "outside": 300,
+     "inside": 220
+    },
+    {
+     "raw": "300 / 220",
+     "outside": 300,
+     "inside": 220
+    },
+    {
+     "raw": "280 / 200",
+     "outside": 280,
+     "inside": 200
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "klon jawor",
+   "values": [
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "270 / 200",
+     "outside": 270,
+     "inside": 200
+    },
+    {
+     "raw": "270 / 200",
+     "outside": 270,
+     "inside": 200
+    },
+    {
+     "raw": "240 / 190",
+     "outside": 240,
+     "inside": 190
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "200",
+     "value": 200
+    }
+   ]
+  },
+  {
+   "name": "klon polny",
+   "values": [
+    {
+     "raw": "160",
+     "value": 160
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "130",
+     "value": 130
+    },
+    {
+     "raw": "120",
+     "value": 120
+    },
+    {
+     "raw": "120",
+     "value": 120
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "160",
+     "value": 160
+    },
+    {
+     "raw": "100",
+     "value": 100
+    }
+   ]
+  },
+  {
+   "name": "klon zwyczajny",
+   "values": [
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "190",
+     "value": 190
+    },
+    {
+     "raw": "270 / 200",
+     "outside": 270,
+     "inside": 200
+    },
+    {
+     "raw": "270 / 200",
+     "outside": 270,
+     "inside": 200
+    },
+    {
+     "raw": "250 / 190",
+     "outside": 250,
+     "inside": 190
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "200",
+     "value": 200
+    }
+   ]
+  },
+  {
+   "name": "Klony inne",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "kruszyna",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "40",
+     "value": 40
+    },
+    {
+     "raw": "40",
+     "value": 40
+    },
+    {
+     "raw": "40",
+     "value": 40
+    },
+    {
+     "raw": "40",
+     "value": 40
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "leszczyna",
+   "values": [
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "90",
+     "value": 90
+    },
+    {
+     "raw": "90",
+     "value": 90
+    },
+    {
+     "raw": "90",
+     "value": 90
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "leszczyna turecka",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "lipy",
+   "values": [
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "320 / 210",
+     "outside": 320,
+     "inside": 210
+    },
+    {
+     "raw": "320 / 210",
+     "outside": 320,
+     "inside": 210
+    },
+    {
+     "raw": "310 / 200",
+     "outside": 310,
+     "inside": 200
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "220",
+     "value": 220
+    }
+   ]
+  },
+  {
+   "name": "magnolia",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "miłorząb",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "modrzew",
+   "values": [
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "260",
+     "value": 260
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "230",
+     "value": 230
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "250",
+     "value": 250
+    }
+   ]
+  },
+  {
+   "name": "olsza czarna",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "230",
+     "value": 230
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "230",
+     "value": 230
+    }
+   ]
+  },
+  {
+   "name": "olsza szara",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "140",
+     "value": 140
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "150",
+     "value": 150
+    }
+   ]
+  },
+  {
+   "name": "orzech",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "190",
+     "value": 190
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "perełkowiec (szupin)",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "platan",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "robinia akacjowa",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "rokitnik",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "60",
+     "value": 60
+    },
+    {
+     "raw": "60",
+     "value": 60
+    },
+    {
+     "raw": "60",
+     "value": 60
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "sosna Banksa",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "275",
+     "value": 275
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "sosna czarna",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "275",
+     "value": 275
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "240",
+     "value": 240
+    },
+    {
+     "raw": "240",
+     "value": 240
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "240",
+     "value": 240
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "sosna limba",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "sosna zwyczajna",
+   "values": [
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "140",
+     "value": 140
+    },
+    {
+     "raw": "290",
+     "value": 290
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "260",
+     "value": 260
+    },
+    {
+     "raw": "280",
+     "value": 280
+    },
+    {
+     "raw": "230",
+     "value": 230
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "230",
+     "value": 230
+    }
+   ]
+  },
+  {
+   "name": "sosna wejmutka",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "275",
+     "value": 275
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "190",
+     "value": 190
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "190",
+     "value": 190
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "szakłak",
+   "values": [
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "50",
+     "value": 50
+    },
+    {
+     "raw": "50",
+     "value": 50
+    },
+    {
+     "raw": "50",
+     "value": 50
+    },
+    {
+     "raw": "60",
+     "value": 60
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    }
+   ]
+  },
+  {
+   "name": "świerk",
+   "values": [
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "275",
+     "value": 275
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "290",
+     "value": 290
+    },
+    {
+     "raw": "260",
+     "value": 260
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "230",
+     "value": 230
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "220",
+     "value": 220
+    }
+   ]
+  },
+  {
+   "name": "topola biała",
+   "values": [
+    {
+     "raw": "380",
+     "value": 380
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "380",
+     "value": 380
+    },
+    {
+     "raw": "400",
+     "value": 400
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "350 / 320",
+     "outside": 350,
+     "inside": 320
+    },
+    {
+     "raw": "350 / 320",
+     "outside": 350,
+     "inside": 320
+    },
+    {
+     "raw": "340 / 310",
+     "outside": 340,
+     "inside": 310
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "250",
+     "value": 250
+    }
+   ]
+  },
+  {
+   "name": "topola czarna i podobne",
+   "values": [
+    {
+     "raw": "380",
+     "value": 380
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "380",
+     "value": 380
+    },
+    {
+     "raw": "400",
+     "value": 400
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "360 / 330",
+     "outside": 360,
+     "inside": 330
+    },
+    {
+     "raw": "360 / 330",
+     "outside": 360,
+     "inside": 330
+    },
+    {
+     "raw": "350 / 320",
+     "outside": 350,
+     "inside": 320
+    },
+    {
+     "raw": "380",
+     "value": 380
+    },
+    {
+     "raw": "350",
+     "value": 350
+    },
+    {
+     "raw": "350",
+     "value": 350
+    },
+    {
+     "raw": "300",
+     "value": 300
+    }
+   ]
+  },
+  {
+   "name": "topola osika",
+   "values": [
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "200 / 180",
+     "outside": 200,
+     "inside": 180
+    },
+    {
+     "raw": "200 / 180",
+     "outside": 200,
+     "inside": 180
+    },
+    {
+     "raw": "200 / 170",
+     "outside": 200,
+     "inside": 170
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "180",
+     "value": 180
+    },
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "180",
+     "value": 180
+    }
+   ]
+  },
+  {
+   "name": "trzmielina",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "50",
+     "value": 50
+    },
+    {
+     "raw": "50",
+     "value": 50
+    },
+    {
+     "raw": "50",
+     "value": 50
+    },
+    {
+     "raw": "40",
+     "value": 40
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    }
+   ]
+  },
+  {
+   "name": "tulipanowiec",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "wierzba biała i krucha",
+   "values": [
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "330 / 300",
+     "outside": 330,
+     "inside": 300
+    },
+    {
+     "raw": "330 / 300",
+     "outside": 330,
+     "inside": 300
+    },
+    {
+     "raw": "330 / 300",
+     "outside": 330,
+     "inside": 300
+    },
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "330",
+     "value": 330
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  },
+  {
+   "name": "wierzba iwa",
+   "values": [
+    {
+     "raw": "310",
+     "value": 310
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "80",
+     "value": 80
+    },
+    {
+     "raw": "200 / 150",
+     "outside": 200,
+     "inside": 150
+    },
+    {
+     "raw": "200 / 150",
+     "outside": 200,
+     "inside": 150
+    },
+    {
+     "raw": "200 / 140",
+     "outside": 200,
+     "inside": 140
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "150",
+     "value": 150
+    },
+    {
+     "raw": "110",
+     "value": 110
+    }
+   ]
+  },
+  {
+   "name": "wierzba pięciopręcikowa",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "Wszystkie drzewiaste"
+    }
+   ]
+  },
+  {
+   "name": "wiąz górski",
+   "values": [
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "210 / 180",
+     "outside": 210,
+     "inside": 180
+    },
+    {
+     "raw": "210 / 180",
+     "outside": 210,
+     "inside": 180
+    },
+    {
+     "raw": "200 / 170",
+     "outside": 200,
+     "inside": 170
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "230",
+     "value": 230
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "250",
+     "value": 250
+    }
+   ]
+  },
+  {
+   "name": "wiąz szypułkowy",
+   "values": [
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "210 / 180",
+     "outside": 210,
+     "inside": 180
+    },
+    {
+     "raw": "210 / 180",
+     "outside": 210,
+     "inside": 180
+    },
+    {
+     "raw": "200 / 170",
+     "outside": 200,
+     "inside": 170
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "230",
+     "value": 230
+    },
+    {
+     "raw": "300",
+     "value": 300
+    },
+    {
+     "raw": "250",
+     "value": 250
+    }
+   ]
+  },
+  {
+   "name": "wiąz polny",
+   "values": [
+    {
+     "raw": "220",
+     "value": 220
+    },
+    {
+     "raw": "250",
+     "value": 250
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "225",
+     "value": 225
+    },
+    {
+     "raw": "Wszystkie"
+    },
+    {
+     "raw": "210 / 180",
+     "outside": 210,
+     "inside": 180
+    },
+    {
+     "raw": "210 / 180",
+     "outside": 210,
+     "inside": 180
+    },
+    {
+     "raw": "200 / 170",
+     "outside": 200,
+     "inside": 170
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "230",
+     "value": 230
+    },
+    {
+     "raw": "200",
+     "value": 200
+    },
+    {
+     "raw": "120",
+     "value": 120
+    }
+   ]
+  },
+  {
+   "name": "żywotniki",
+   "values": [
+    {
+     "raw": "-"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "100",
+     "value": 100
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    },
+    {
+     "raw": "-"
+    }
+   ]
+  }
+ ],
+ "map": {
+  "Fagus sylvatica": "buk zwyczajny",
+  "Quercus robur": "dąb szypułkowy",
+  "Quercus petraea": "dąb bezszypułkowy",
+  "Pinus sylvestris": "sosna zwyczajna",
+  "Larix decidua": "modrzew",
+  "Pseudotsuga menziesii": "daglezja",
+  "Picea abies": "świerk",
+  "Tilia sp.": "lipy",
+  "Alnus glutinosa": "olsza czarna",
+  "Carpinus betulus": "grab",
+  "Betula pendula": "brzoza brodawkowata",
+  "Acer platanoides": "klon zwyczajny",
+  "Aesculus hippocastanum": "kasztanowiec",
+  "Malus domestica": "jabłoń",
+  "Salix sp.": "wierzba biała i krucha",
+  "Populus alba": "topola biała",
+  "Populus sp.": "topola czarna i podobne",
+  "Ulmus sp.": "wiąz szypułkowy",
+  "Fraxinus excelsior": "jesion",
+  "Sambucus nigra": "bez czarny"
+ },
+ "map_notes": {
+  "Salix sp.": {
+   "pl": "Przyjęto wierzbę białą (zgodnie z opisem drzewa 086).",
+   "en": "White willow assumed (as in the description of tree 086)."
+  },
+  "Populus sp.": {
+   "pl": "Przyjęto kategorię „topola czarna i podobne”.",
+   "en": "The category “black poplar and similar” was assumed."
+  },
+  "Ulmus sp.": {
+   "pl": "We wszystkich trzech wierszach wiązów wartości w kolumnach 2 i 7 są takie same.",
+   "en": "The values in columns 2 and 7 are identical for all three elm rows."
+  }
+ },
+ "not_compared": {
+  "Quercus sp.": {
+   "pl": "Nieoznaczony gatunek dębu.",
+   "en": "Oak species not determined."
+  }
+ }
+}

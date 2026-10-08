@@ -1,0 +1,171 @@
+{
+ "unit": "m",
+ "note": "Values exactly as supplied in tabela_pomiarów.txt (rounded to 3 decimals); \"bold\" marks values printed in bold in the supplied table.",
+ "rows": [
+  {
+   "genus_pl": "Buk",
+   "latin": "Fagus",
+   "n_trees": 38,
+   "n_measurements": 39,
+   "mean": 3.368,
+   "sd": 0.369,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Beech"
+  },
+  {
+   "genus_pl": "Dąb",
+   "latin": "Quercus",
+   "n_trees": 17,
+   "n_measurements": 18,
+   "mean": 3.588,
+   "sd": 0.362,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Oak"
+  },
+  {
+   "genus_pl": "Sosna",
+   "latin": "Pinus",
+   "n_trees": 12,
+   "n_measurements": 12,
+   "mean": 3.018,
+   "sd": 0.277,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Pine"
+  },
+  {
+   "genus_pl": "Modrzew",
+   "latin": "Larix",
+   "n_trees": 8,
+   "n_measurements": 8,
+   "mean": 2.978,
+   "sd": 0.303,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Larch"
+  },
+  {
+   "genus_pl": "Lipa",
+   "latin": "Tilia",
+   "n_trees": 6,
+   "n_measurements": 6,
+   "mean": 3.76,
+   "sd": 0.698,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Linden"
+  },
+  {
+   "genus_pl": "Topola",
+   "latin": "Populus",
+   "n_trees": 5,
+   "n_measurements": 5,
+   "mean": 4.42,
+   "sd": 0.628,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Poplar"
+  },
+  {
+   "genus_pl": "Daglezja",
+   "latin": "Pseudotsuga",
+   "n_trees": 4,
+   "n_measurements": 4,
+   "mean": 3.73,
+   "sd": 0.251,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Douglas fir"
+  },
+  {
+   "genus_pl": "Brzoza",
+   "latin": "Betula",
+   "n_trees": 4,
+   "n_measurements": 4,
+   "mean": 2.088,
+   "sd": 0.184,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Birch"
+  },
+  {
+   "genus_pl": "Bez",
+   "latin": "Sambucus",
+   "n_trees": 1,
+   "n_measurements": 4,
+   "mean": 1.088,
+   "sd": 0.139,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Elder"
+  },
+  {
+   "genus_pl": "Olcha",
+   "latin": "Alnus",
+   "n_trees": 3,
+   "n_measurements": 3,
+   "mean": 2.817,
+   "sd": 0.159,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Alder"
+  },
+  {
+   "genus_pl": "Świerk",
+   "latin": "Picea",
+   "n_trees": 3,
+   "n_measurements": 3,
+   "mean": 2.697,
+   "sd": 0.136,
+   "bold": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "genus_en": "Spruce"
+  }
+ ]
+}

@@ -179,6 +179,37 @@
   @keyframes flash{0%,45%{background:color-mix(in srgb,var(--leaf-a) 20%,transparent)}100%{background:transparent}}
   @media (max-width:820px){.tree{grid-template-columns:1fr}.lgallery{height:300px}}
 
+
+  /* ---- analysis ---- */
+  #view-analysis{max-width:1180px;margin:0 auto}
+  #analysis-body{max-width:1120px;margin:0 auto}
+  #analysis-body h3{margin:2.2em 0 .65em;font-size:1.45rem;color:var(--leaf-a);font-weight:500;letter-spacing:.1em;text-transform:uppercase}
+  #analysis-body>p{max-width:850px;margin:0 0 1.15em;text-align:justify;hyphens:auto}
+  .analysis-figure{margin:1.8rem 0 3.2rem;padding:1.1rem 0 0;border-top:1px solid color-mix(in srgb,var(--bark) 28%,transparent)}
+  .analysis-figure svg{display:block;width:100%;height:auto;overflow:visible}
+  .analysis-caption{margin:.65rem 0 0;font-size:.88rem;line-height:1.4;opacity:.72;max-width:850px}
+  .analysis-table-wrap{overflow-x:auto;margin:1.4rem 0 3rem;border-top:1px solid color-mix(in srgb,var(--bark) 28%,transparent);border-bottom:1px solid color-mix(in srgb,var(--bark) 28%,transparent)}
+  .analysis-table{width:100%;border-collapse:collapse;font-size:.88rem;line-height:1.35}
+  .analysis-table th,.analysis-table td{padding:.48em .55em;border-bottom:1px solid color-mix(in srgb,var(--bark) 17%,transparent);text-align:right;vertical-align:middle}
+  .analysis-table th:first-child,.analysis-table td:first-child{text-align:left}
+  .analysis-table th{font-weight:600;color:var(--bark)}
+  .analysis-table .latin{font-style:italic}
+  .analysis-table tr:last-child td{border-bottom:0}
+  .analysis-stat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin:1.5rem 0 2.5rem}
+  .analysis-stat{border-top:2px solid var(--leaf-a);padding:.7rem .15rem .4rem}
+  .analysis-stat .n{display:block;font-size:2.2rem;line-height:1.05;color:var(--bark);font-variant-numeric:tabular-nums}
+  .analysis-stat .l{display:block;margin-top:.25rem;font-size:.83rem;letter-spacing:.1em;text-transform:uppercase;opacity:.7}
+  .analysis-note{font-size:.9rem;opacity:.7;margin:.4rem 0 2rem}
+  @media(max-width:820px){
+    #view-analysis{max-width:none}
+    .analysis-stat-grid{grid-template-columns:1fr 1fr}
+    #analysis-body>p{font-size:.96rem}
+  }
+  @media(max-width:520px){
+    .analysis-stat-grid{grid-template-columns:1fr}
+    .analysis-figure{margin-bottom:2.2rem}
+  }
+
 </style>
 <style>/* required styles */
 
@@ -865,7 +896,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       <div id="list-tools"><input id="list-filter" type="search" data-i18n-placeholder="list.search" data-i18n-aria="list.searchLabel"><span id="list-count"></span></div>
       <div id="tree-list"></div>
     </div>
-    <div class="view col" id="view-analysis" hidden><h2 data-i18n="nav.analysis">Analysis</h2><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p></div>
+    <div class="view" id="view-analysis" hidden><h2 data-i18n="nav.analysis">Analysis</h2><div id="analysis-body"></div></div>
     <div class="view col" id="view-text" hidden><h2 data-i18n="nav.text">Texts</h2><div id="text-list"></div></div>
   </main>
   <div class="roots" aria-hidden="true"><div class="m back"></div><div class="m bark"></div></div>
@@ -944,6 +975,7 @@ function setLang(l){
   }
   if(typeof renderTexts==='function') renderTexts();
   if(typeof renderHome==='function') renderHome();
+  if(location.hash.slice(1).split('/')[0]==='analysis' && typeof renderAnalysis==='function') renderAnalysis();
 }
 document.querySelectorAll('.langs button').forEach(b=>b.addEventListener('click',()=>setLang(b.dataset.lang)));
 applyStatic();
@@ -1213,6 +1245,126 @@ document.addEventListener('click',e=>{
   if(a){ e.preventDefault(); const el=byId(a.getAttribute('href').slice(1)); if(el){ el.scrollIntoView({block:'center'}); const f=el.matches('li')?el:el.querySelector('a')||el; f.classList.remove('flash'); void f.offsetWidth; f.classList.add('flash'); } }
 });
 
+
+/* ---------- analiza z plików analysis/ ---------- */
+let ANALYSIS_CACHE={};
+
+async function fetchAnalysisFile(name){
+  const path='analysis/'+name;
+  if(ANALYSIS_CACHE[path]===undefined){
+    const r=await fetch(path,{cache:'no-cache'});
+    if(!r.ok) throw new Error(path+': '+r.status);
+    ANALYSIS_CACHE[path]=await r.text();
+  }
+  return ANALYSIS_CACHE[path];
+}
+async function analysisJSON(name){
+  const path='analysis/'+name;
+  if(ANALYSIS_CACHE[path]===undefined) ANALYSIS_CACHE[path]=JSON.parse(await fetchAnalysisFile(name));
+  else if(typeof ANALYSIS_CACHE[path]==='string') ANALYSIS_CACHE[path]=JSON.parse(ANALYSIS_CACHE[path]);
+  return ANALYSIS_CACHE[path];
+}
+const AESC=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const ANUM=(x,d=2)=>Number(x).toFixed(d).replace('.',LANG==='pl'?',':'.');
+const AVAL=(o,k)=>o[k]===null||o[k]===undefined?'—':ANUM(o[k]);
+function analysisLabel(o){return LANG==='en'?(o.en||o.genus_en||o.name): (o.pl||o.genus_pl||o.name);}
+function svgText(x,y,s,attrs=''){return '<text x="'+x+'" y="'+y+'" '+attrs+'>'+AESC(s)+'</text>';}
+
+function speciesFigure(data){
+  const rows=[...data.species].sort((a,b)=>a.mean-b.mean);
+  const W=1100,H=Math.max(560,rows.length*32+90),L=250,R=88,T=35,B=55;
+  const max=Math.max(8.5,...rows.map(r=>r.mean+(r.sd||0)));
+  const X=v=>L+(v/max)*(W-L-R);
+  let s='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="'+AESC(LANG==='en'?'Species circumference means and standard deviations':'Średnie obwody gatunków i odchylenia standardowe')+'">';
+  [0,2,4,6,8].forEach(v=>{s+=svgText(X(v),H-B+28,v+' m','text-anchor="middle" fill="var(--bark)" opacity=".58" font-size="14"');s+='<line x1="'+X(v)+'" y1="'+T+'" x2="'+X(v)+'" y2="'+(H-B)+'" stroke="var(--bark)" stroke-opacity=".12"/>';});
+  rows.forEach((r,i)=>{
+    const y=T+25+i*32, x=X(r.mean), sd=r.sd||0;
+    s+=svgText(L-12,y+5,analysisLabel(r),'text-anchor="end" fill="var(--text)" font-size="15"');
+    s+='<line x1="'+L+'" y1="'+y+'" x2="'+(W-R)+'" y2="'+y+'" stroke="var(--bark)" stroke-opacity=".07"/>';
+    if(sd) s+='<line x1="'+X(Math.max(0,r.mean-sd))+'" y1="'+y+'" x2="'+X(Math.min(max,r.mean+sd))+'" y2="'+y+'" stroke="var(--leaf-a)" stroke-width="3" stroke-linecap="round"/>';
+    if(sd) {s+='<line x1="'+X(r.mean-sd)+'" y1="'+(y-6)+'" x2="'+X(r.mean-sd)+'" y2="'+(y+6)+'" stroke="var(--leaf-a)" stroke-width="1"/><line x1="'+X(r.mean+sd)+'" y1="'+(y-6)+'" x2="'+X(r.mean+sd)+'" y2="'+(y+6)+'" stroke="var(--leaf-a)" stroke-width="1"/>';}
+    s+='<circle cx="'+x+'" cy="'+y+'" r="4.5" fill="var(--bark)"/>';
+    s+=svgText(W-R+10,y+5,String(r.n_measurements),'fill="var(--bark)" opacity=".65" font-size="13"');
+  });
+  s+=svgText(W-R,H-8,LANG==='en'?'measurements':'pomiary','text-anchor="end" fill="var(--bark)" opacity=".55" font-size="12"');
+  s+='</svg>';
+  return '<div class="analysis-figure">'+s+'<p class="analysis-caption">'+AESC(LANG==='en'?'Mean of all measurements by species; line = ±1 SD; right column = number of measurements.':'Średnia ze wszystkich pomiarów danego gatunku; linia = ±1 SD; po prawej liczba pomiarów.')+'</p></div>';
+}
+
+function genusTable(data){
+  const rows=[...data.rows].sort((a,b)=>a.mean-b.mean);
+  const head=LANG==='en'
+    ?['Genus','Latin','N trees','N measurements','Mean','SD']
+    :['Rodzaj','Łacińska','N drzew','N pomiarów','Średnia','SD'];
+  let h='<div class="analysis-table-wrap"><table class="analysis-table"><thead><tr>'+head.map(x=>'<th>'+AESC(x)+'</th>').join('')+'</tr></thead><tbody>';
+  rows.forEach(r=>{
+    const name=LANG==='en'?(r.genus_en||r.genus_pl):(r.genus_pl||r.genus_en);
+    const b=r.bold||[false,false,false,false];
+    const cell=(v,i,dec)=>{
+      const t=v==null||v===undefined?'—':(typeof v==='number'?ANUM(v,dec):String(v));
+      return b[i]?'<strong>'+t+'</strong>':t;
+    };
+    h+='<tr><td>'+AESC(name)+'</td><td><span class="latin">'+AESC(r.latin)+'</span></td><td>'+cell(r.n_trees,0,0)+'</td><td>'+cell(r.n_measurements,1,0)+'</td><td>'+cell(r.mean,2,3)+' m</td><td>'+cell(r.sd,3,3)+'</td></tr>';
+  });
+  h+='</tbody></table></div>';
+  h+='<p class="analysis-caption">'+AESC(LANG==='en'?
+    'Mean and sample standard deviation of all measurements grouped by genus. Values rounded to three decimal places.':
+    'Średnia i odchylenie standardowe z próby wszystkich pomiarów pogrupowanych według rodzaju. Wartości zaokrąglone do trzech miejsc po przecinku.')+'</p>';
+  return h;
+}
+
+function thresholdTable(data, speciesData){
+  const speciesByKey=new Map(speciesData.species.map(r=>[r.key,r]));
+  const rows=[];
+  Object.keys(data.map||{}).forEach(key=>{
+    const sp=speciesByKey.get(key);
+    const sourceName=data.map[key];
+    const r=data.rows.find(x=>x.name===sourceName);
+    if(!sp || !r) return;
+    const v=r.values[5];
+    const threshold=(v&&v.inside!=null)?v.inside:(v&&v.value!=null?v.value:null);
+    if(threshold==null) return;
+    rows.push({key,mean:sp.mean,threshold,label:sourceName});
+  });
+  rows.sort((a,b)=>b.threshold-a.threshold);
+  const head=LANG==='en'?['Species','TPK — in forests','Our mean']:['Gatunek','TPK — w lasach','Nasza średnia'];
+  let h='<div class="analysis-table-wrap"><table class="analysis-table"><thead><tr>'+head.map(x=>'<th>'+AESC(x)+'</th>').join('')+'</tr></thead><tbody>';
+  rows.forEach(r=>{
+    h+='<tr><td><span class="latin">'+AESC(r.key)+'</span></td><td>'+ANUM(r.threshold/100,2)+' m</td><td>'+ANUM(r.mean,3)+' m</td></tr>';
+  });
+  h+='</tbody></table></div>';
+  h+='<p class="analysis-caption">'+AESC(LANG==='en'?
+    'Comparison of the proposed Tricity Landscape Park threshold for trees in forests with the mean of our measurements. Only species represented in our dataset and covered by the source are shown.':
+    'Porównanie proponowanego wymiaru dla Trójmiejskiego Parku Krajobrazowego — w lasach — ze średnią z naszych pomiarów. Pokazano tylko gatunki obecne w naszym zbiorze, dla których źródło podaje odpowiedni próg.')+'</p>';
+  return h;
+}
+
+async function renderAnalysis(){
+  const box=byId('analysis-body'); if(!box)return;
+  try{
+    const md=await fetchAnalysisFile(LANG==='en'?'analysis.en.md':'analysis.pl.md');
+    const [species,genus,thresholds]=await Promise.all([
+      analysisJSON('species_stats.json'),analysisJSON('genus_table.json'),
+      analysisJSON('thresholds.json')
+    ]);
+    let rendered=mdRender(md,'analysis');
+    const totalMeasurements=species.species.reduce((a,r)=>a+r.n_measurements,0);
+    const stats='<div class="analysis-stat-grid">'+
+      '<div class="analysis-stat"><span class="n">'+species.species.length+'</span><span class="l">'+AESC(LANG==='en'?'species':'gatunków')+'</span></div>'+
+      '<div class="analysis-stat"><span class="n">'+totalMeasurements+'</span><span class="l">'+AESC(LANG==='en'?'measurements':'pomiarów')+'</span></div>'+
+      '<div class="analysis-stat"><span class="n">'+genus.rows.length+'</span><span class="l">'+AESC(LANG==='en'?'genera':'rodzajów')+'</span></div>'+
+      '</div>';
+    rendered=rendered.replace('<p>[[overview]]</p>',stats);
+    rendered=rendered.replace('<p>[[species-figure]]</p>',speciesFigure(species));
+    rendered=rendered.replace('<p>[[genus-table]]</p>',genusTable(genus));
+    rendered=rendered.replace('<p>[[thresholds-table]]</p>',thresholdTable(thresholds,species));
+    box.innerHTML=rendered;
+  }catch(e){
+    box.innerHTML='<p class="analysis-note">'+AESC(t('text.error'))+'</p>';
+    dataError('analysis/');
+  }
+}
+
 /* ---------- widoki: #map  #map/045  #list  #list/045 ... ---------- */
 function showView(){
   if(!TREES) return;
@@ -1224,6 +1376,7 @@ function showView(){
   });
   window.scrollTo(0,0);
   if(id==='map') initMap(param);
+  if(id==='analysis') renderAnalysis();
   if(id==='list' && param) focusTree(param);
   if(id==='text') openTextFromHash(param);
 }

@@ -1,0 +1,174 @@
+{
+ "unit": "m",
+ "statistic": "mean and sample standard deviation of all individual measurements of the species (measurements_m in drzewa.json)",
+ "species": [
+  {
+   "key": "Sambucus nigra",
+   "pl": "Bez Czarny",
+   "en": "Black Elder",
+   "n_measurements": 4,
+   "mean": 1.0875,
+   "sd": 0.13865424623862044
+  },
+  {
+   "key": "Malus domestica",
+   "pl": "Jabłoń Domowa",
+   "en": "Domestic Apple",
+   "n_measurements": 1,
+   "mean": 1.64,
+   "sd": null
+  },
+  {
+   "key": "Betula pendula",
+   "pl": "Brzoza Brodawkowata",
+   "en": "Silver Birch",
+   "n_measurements": 4,
+   "mean": 2.0875,
+   "sd": 0.18427786989579975
+  },
+  {
+   "key": "Carpinus betulus",
+   "pl": "Grab Pospolity",
+   "en": "European Hornbeam",
+   "n_measurements": 2,
+   "mean": 2.515,
+   "sd": 0.44547727214752486
+  },
+  {
+   "key": "Acer platanoides",
+   "pl": "Klon Zwyczajny",
+   "en": "Norway Maple",
+   "n_measurements": 2,
+   "mean": 2.565,
+   "sd": 0.27577164466275333
+  },
+  {
+   "key": "Picea abies",
+   "pl": "Świerk Pospolity",
+   "en": "Norway Spruce",
+   "n_measurements": 3,
+   "mean": 2.6966666666666668,
+   "sd": 0.13576941236277534
+  },
+  {
+   "key": "Alnus glutinosa",
+   "pl": "Olsza Czarna",
+   "en": "Black Alder",
+   "n_measurements": 3,
+   "mean": 2.8166666666666664,
+   "sd": 0.15885003409925136
+  },
+  {
+   "key": "Larix decidua",
+   "pl": "Modrzew Europejski",
+   "en": "European Larch",
+   "n_measurements": 8,
+   "mean": 2.9775,
+   "sd": 0.3028790423349134
+  },
+  {
+   "key": "Aesculus hippocastanum",
+   "pl": "Kasztanowiec Pospolity",
+   "en": "Horse Chestnut",
+   "n_measurements": 1,
+   "mean": 3.0,
+   "sd": null
+  },
+  {
+   "key": "Pinus sylvestris",
+   "pl": "Sosna Zwyczajna",
+   "en": "Scots Pine",
+   "n_measurements": 12,
+   "mean": 3.018333333333333,
+   "sd": 0.2770242304247487
+  },
+  {
+   "key": "Ulmus sp.",
+   "pl": "Wiąz",
+   "en": "Elm",
+   "n_measurements": 1,
+   "mean": 3.05,
+   "sd": null
+  },
+  {
+   "key": "Quercus sp.",
+   "pl": "Dąb",
+   "en": "Oak",
+   "n_measurements": 1,
+   "mean": 3.14,
+   "sd": null
+  },
+  {
+   "key": "Fagus sylvatica",
+   "pl": "Buk Zwyczajny",
+   "en": "European Beech",
+   "n_measurements": 39,
+   "mean": 3.3684615384615384,
+   "sd": 0.36862146081925046
+  },
+  {
+   "key": "Quercus robur",
+   "pl": "Dąb Szypułkowy",
+   "en": "Pedunculate Oak",
+   "n_measurements": 10,
+   "mean": 3.5780000000000003,
+   "sd": 0.3426627755939909
+  },
+  {
+   "key": "Quercus petraea",
+   "pl": "Dąb Bezszypułkowy",
+   "en": "Sessile Oak",
+   "n_measurements": 7,
+   "mean": 3.665714285714286,
+   "sd": 0.3927194563916733
+  },
+  {
+   "key": "Pseudotsuga menziesii",
+   "pl": "Daglezja Zielona",
+   "en": "Douglas Fir",
+   "n_measurements": 4,
+   "mean": 3.73,
+   "sd": 0.2512634739339032
+  },
+  {
+   "key": "Tilia sp.",
+   "pl": "Lipa",
+   "en": "Linden",
+   "n_measurements": 6,
+   "mean": 3.76,
+   "sd": 0.697767869710264
+  },
+  {
+   "key": "Populus sp.",
+   "pl": "Topola",
+   "en": "Poplar",
+   "n_measurements": 3,
+   "mean": 3.9766666666666666,
+   "sd": 0.2250185177565026
+  },
+  {
+   "key": "Fraxinus excelsior",
+   "pl": "Jesion Wyniosły",
+   "en": "European Ash",
+   "n_measurements": 1,
+   "mean": 4.27,
+   "sd": null
+  },
+  {
+   "key": "Populus alba",
+   "pl": "Topola Biała",
+   "en": "White Poplar",
+   "n_measurements": 2,
+   "mean": 5.085,
+   "sd": 0.06363961030678918
+  },
+  {
+   "key": "Salix sp.",
+   "pl": "Wierzba",
+   "en": "Willow",
+   "n_measurements": 1,
+   "mean": 8.2,
+   "sd": null
+  }
+ ]
+}
