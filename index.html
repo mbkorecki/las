@@ -185,18 +185,18 @@
   #analysis-body{max-width:1120px;margin:0 auto}
   #analysis-body h3{max-width:850px;margin:2.2em auto .65em;font-size:1.45rem;color:var(--leaf-a);font-weight:500;letter-spacing:.1em;text-transform:uppercase}
   #analysis-body>p{max-width:850px;margin:0 auto 1.15em;text-align:justify;hyphens:auto}
-  .analysis-figure{margin:1.8rem 0 3.2rem;padding:1.1rem 0 0;border-top:1px solid color-mix(in srgb,var(--bark) 28%,transparent)}
+  .analysis-figure{max-width: 850px; margin:1.8rem auto 3.2rem;padding:1.1rem 0 0;border-top:1px solid color-mix(in srgb,var(--bark) 28%,transparent)}
   .analysis-figure svg{display:block;width:100%;height:auto;overflow:visible}
   .analysis-caption{margin:.65rem 0 0;font-size:.88rem;line-height:1.4;opacity:.72;max-width:850px}
   .analysis-table-wrap{overflow-x:auto;margin:1.4rem 0 3rem;border-top:1px solid color-mix(in srgb,var(--bark) 28%,transparent);border-bottom:1px solid color-mix(in srgb,var(--bark) 28%,transparent)}
-  .analysis-table{width:100%;border-collapse:collapse;font-size:.88rem;line-height:1.35}
+  .analysis-table{max-width: 850px; margin:1.8rem auto 3.2rem; width:100%;border-collapse:collapse;font-size:.88rem;line-height:1.35}
   .analysis-table th,.analysis-table td{padding:.48em .55em;border-bottom:1px solid color-mix(in srgb,var(--bark) 17%,transparent);text-align:right;vertical-align:middle}
   .analysis-table th:first-child,.analysis-table td:first-child{text-align:left}
   .analysis-table th{font-weight:600;color:var(--bark)}
   .analysis-table .latin{font-style:italic}
   .analysis-table tr:last-child td{border-bottom:0}
   .analysis-stat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin:1.5rem 0 2.5rem}
-  .analysis-stat{border-top:2px solid var(--leaf-a);padding:.7rem .15rem .4rem}
+  .analysis-stat{max-width: 850px; margin:1.8rem auto 3.2rem; border-top:2px solid var(--leaf-a);padding:.7rem .15rem .4rem}
   .analysis-stat .n{display:block;font-size:2.2rem;line-height:1.05;color:var(--bark);font-variant-numeric:tabular-nums}
   .analysis-stat .l{display:block;margin-top:.25rem;font-size:.83rem;letter-spacing:.1em;text-transform:uppercase;opacity:.7}
   .analysis-note{font-size:.9rem;opacity:.7;margin:.4rem 0 2rem}
@@ -1391,7 +1391,6 @@ async function renderAnalysis(){
       '<div class="analysis-stat"><span class="n">'+species.species.length+'</span><span class="l">'+AESC(LANG==='en'?'species':'gatunków')+'</span></div>'+
       '<div class="analysis-stat"><span class="n">'+totalMeasurements+'</span><span class="l">'+AESC(LANG==='en'?'measurements':'pomiarów')+'</span></div>'+
       '<div class="analysis-stat"><span class="n">'+forest.rows.length+'</span><span class="l">'+AESC(LANG==='en'?'forest ranges':'leśnictw')+'</span></div>'+ 
-      '<div class="analysis-stat"><span class="n">'+genus.rows.length+'</span><span class="l">'+AESC(LANG==='en'?'genera':'rodzajów')+'</span></div>'+
       '</div>';
     rendered=rendered.replace('<p>[[overview]]</p>',stats);
     rendered=rendered.replace('<p>[[species-figure]]</p>',speciesFigure(species));
