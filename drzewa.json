@@ -263,7 +263,7 @@
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
    "title_en": "Scots Pine (Pinus sylvestris)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "008",
@@ -299,7 +299,7 @@
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
    "title_en": "Scots Pine (Pinus sylvestris)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "009",
@@ -335,7 +335,7 @@
    ],
    "title": "Modrzew Europejski (Larix decidua)",
    "title_en": "European Larch (Larix decidua)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "010",
@@ -399,7 +399,7 @@
    "group": true,
    "title": "Grupa: Buk Zwyczajny (Fagus sylvatica)",
    "title_en": "Group: European Beech (Fagus sylvatica)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "012",
@@ -432,7 +432,7 @@
     3.54
    ],
    "measurements_note": "główny zroślak oraz sąsiadująca pojedyncza daglezja; rekord nie jest traktowany jako grupa",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "013",
@@ -833,7 +833,7 @@
    ],
    "title": "Dąb Szypułkowy (Quercus robur)",
    "title_en": "Pedunculate Oak (Quercus robur)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "024",
@@ -874,7 +874,7 @@
    ],
    "title": "Świerk Pospolity (Picea abies)",
    "title_en": "Norway Spruce (Picea abies)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "025",
@@ -1312,7 +1312,7 @@
    ],
    "title": "Świerk Pospolity (Picea abies)",
    "title_en": "Norway Spruce (Picea abies)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "038",
@@ -1353,7 +1353,7 @@
    ],
    "title": "Dąb Bezszypułkowy (Quercus petraea)",
    "title_en": "Sessile Oak (Quercus petraea)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "039",
@@ -2405,7 +2405,7 @@
    "group": false,
    "title": "Buk Zwyczajny (Fagus sylvatica)",
    "title_en": "European Beech (Fagus sylvatica)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "064",
@@ -3785,7 +3785,7 @@
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
    "title_en": "European Beech (Fagus sylvatica)",
-   "forest_district": "Golebiewo"
+   "forest_district": "Gołębiewo"
   },
   {
    "id": "099",
