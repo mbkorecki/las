@@ -183,8 +183,8 @@
   /* ---- analysis ---- */
   #view-analysis{max-width:1180px;margin:0 auto}
   #analysis-body{max-width:1120px;margin:0 auto}
-  #analysis-body h3{margin:2.2em 0 .65em;font-size:1.45rem;color:var(--leaf-a);font-weight:500;letter-spacing:.1em;text-transform:uppercase}
-  #analysis-body>p{max-width:850px;margin:0 0 1.15em;text-align:justify;hyphens:auto}
+  #analysis-body h3{max-width:850px;margin:2.2em auto .65em;font-size:1.45rem;color:var(--leaf-a);font-weight:500;letter-spacing:.1em;text-transform:uppercase}
+  #analysis-body>p{max-width:850px;margin:0 auto 1.15em;text-align:justify;hyphens:auto}
   .analysis-figure{margin:1.8rem 0 3.2rem;padding:1.1rem 0 0;border-top:1px solid color-mix(in srgb,var(--bark) 28%,transparent)}
   .analysis-figure svg{display:block;width:100%;height:auto;overflow:visible}
   .analysis-caption{margin:.65rem 0 0;font-size:.88rem;line-height:1.4;opacity:.72;max-width:850px}
@@ -1354,25 +1354,50 @@ function thresholdTable(data, speciesData){
   return h;
 }
 
+
+function genusTable(data){
+  const rows=[...data.rows].sort((a,b)=>a.mean-b.mean);
+  const head=LANG==='en'
+    ?['Genus','Latin','N trees','N measurements','Mean','SD']
+    :['Rodzaj','Łacińska','N drzew','N pomiarów','Średnia','SD'];
+  let h='<div class="analysis-table-wrap"><table class="analysis-table"><thead><tr>'+head.map(x=>'<th>'+AESC(x)+'</th>').join('')+'</tr></thead><tbody>';
+  rows.forEach(r=>{
+    const name=LANG==='en'?(r.genus_en||r.genus_pl):(r.genus_pl||r.genus_en);
+    const b=r.bold||[false,false,false,false];
+    const cell=(v,i,dec)=>{
+      const t=v==null||v===undefined?'—':(typeof v==='number'?ANUM(v,dec):String(v));
+      return b[i]?'<strong>'+t+'</strong>':t;
+    };
+    h+='<tr><td>'+AESC(name)+'</td><td><span class="latin">'+AESC(r.latin)+'</span></td><td>'+cell(r.n_trees,0,0)+'</td><td>'+cell(r.n_measurements,1,0)+'</td><td>'+cell(r.mean,2,3)+' m</td><td>'+cell(r.sd,3,3)+'</td></tr>';
+  });
+  h+='</tbody></table></div>';
+  h+='<p class="analysis-caption">'+AESC(LANG==='en'?
+    'Mean and sample standard deviation of all measurements grouped by genus. Values rounded to three decimal places.':
+    'Średnia i odchylenie standardowe z próby wszystkich pomiarów pogrupowanych według rodzaju. Wartości zaokrąglone do trzech miejsc po przecinku.')+'</p>';
+  return h;
+  }
+  
 async function renderAnalysis(){
   const box=byId('analysis-body'); if(!box)return;
   try{
     const md=await fetchAnalysisFile(LANG==='en'?'analysis.en.md':'analysis.pl.md');
-    const [species,forest,thresholds]=await Promise.all([
+    const [species,forest,thresholds,genus]=await Promise.all([
       analysisJSON('species_stats.json'),analysisJSON('forest_ranges.json'),
-      analysisJSON('thresholds.json')
+      analysisJSON('thresholds.json'), analysisJSON('genus_table.json')
     ]);
     let rendered=mdRender(md,'analysis');
     const totalMeasurements=species.species.reduce((a,r)=>a+r.n_measurements,0);
     const stats='<div class="analysis-stat-grid">'+
       '<div class="analysis-stat"><span class="n">'+species.species.length+'</span><span class="l">'+AESC(LANG==='en'?'species':'gatunków')+'</span></div>'+
       '<div class="analysis-stat"><span class="n">'+totalMeasurements+'</span><span class="l">'+AESC(LANG==='en'?'measurements':'pomiarów')+'</span></div>'+
-      '<div class="analysis-stat"><span class="n">'+forest.rows.length+'</span><span class="l">'+AESC(LANG==='en'?'forest ranges':'leśnictw')+'</span></div>'+
+      '<div class="analysis-stat"><span class="n">'+forest.rows.length+'</span><span class="l">'+AESC(LANG==='en'?'forest ranges':'leśnictw')+'</span></div>'+ 
+      '<div class="analysis-stat"><span class="n">'+genus.rows.length+'</span><span class="l">'+AESC(LANG==='en'?'genera':'rodzajów')+'</span></div>'+
       '</div>';
     rendered=rendered.replace('<p>[[overview]]</p>',stats);
     rendered=rendered.replace('<p>[[species-figure]]</p>',speciesFigure(species));
     rendered=rendered.replace('<p>[[forest-ranges]]</p>',forestFigure(forest));
     rendered=rendered.replace('<p>[[thresholds-table]]</p>',thresholdTable(thresholds,species));
+    rendered=rendered.replace('<p>[[genus-table]]</p>',genusTable(genus));
     box.innerHTML=rendered;
   }catch(e){
     box.innerHTML='<p class="analysis-note">'+AESC(t('text.error'))+'</p>';
