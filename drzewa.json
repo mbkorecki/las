@@ -1,17 +1,15 @@
 {
- "schema_version": "1.3",
+ "schema_version": "1.2",
  "coordinate_order": "lat, lng",
  "records": [
   {
    "id": "001",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4698013,
     "lng": 18.5371928
    },
    "description": "Buk zwyczajny (Fagus sylvatica) o obwodzie ponad 3,5 m, rosnący przy starej brukowanej drodze. Na wysokości 2,5–3 m rozgałęzia się na dwa duże, stosunkowo równe konary. Posiada on bardzo ładnie rozbudowaną koronę. Możliwe, że w młodości było przydrożnym drzewem. Brak zewnętrznych oznak próchnienia, takich jak dziuple czy odsłonięte martwe drewno.",
-   "description_en": "European beech (Fagus sylvatica) with a circumference of over 3.5 m, growing beside an old cobbled road. At a height of 2.5–3 m it divides into two large, fairly equal limbs. It has a beautifully developed crown. It may have been a roadside tree in its youth. There are no external signs of decay, such as hollows or exposed dead wood.",
    "photos": [
     {
      "id": "a",
@@ -40,18 +38,16 @@
     3.55
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Witomino"
   },
   {
    "id": "002",
    "name": "Dąb Bezszypułkowy (Quercus petraea)",
-   "name_en": "Sessile Oak (Quercus petraea)",
    "coordinates": {
     "lat": 54.4708177,
     "lng": 18.5389972
    },
    "description": "Dąb bezszypułkowy (Quercus petraea) o obwodzie około 4 m w pierśnicy. Pień z wieloma wybrzuszeniami, bez widocznych uszkodzeń lub dziupli. Rośnie na szczycie wzgórza, przy drodze nieopodal kamienia granicznego. Drzewo jest jednym z grubszych przedstawicieli tego gatunku w TPK. Jego wiek, unikalny kształt pnia i rozbudowana korona sprawiają, że jest on wyjątkowo pięknym i cennym okazem.",
-   "description_en": "Sessile oak (Quercus petraea) with a circumference of about 4 m at breast height. The trunk has many bulges but no visible damage or hollows. It grows on a hilltop, by the road near a boundary stone. This is one of the thickest trees of its species in the Tricity Landscape Park (TPK). Its age, unique trunk shape and well-developed crown make it an exceptionally beautiful and valuable specimen.",
    "photos": [
     {
      "id": "a",
@@ -76,12 +72,11 @@
     4.04
    ],
    "title": "Dąb Bezszypułkowy (Quercus petraea)",
-   "title_en": "Sessile Oak (Quercus petraea)"
+   "forest_district": "Witomino"
   },
   {
    "id": "003",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "circumference_m": 3.24,
    "measurements_m": [
     2.61,
@@ -92,7 +87,6 @@
     "lng": 18.5436411
    },
    "description": "Dwa zrośnięte Buki zwyczajne (Fagus sylvatica) 261 cm / 324 cm. Nisko zrośnięte ze sobą osobniki o mocno ponadprzeciętnym obwodzie pnia. Ponieważ rosną niemal na samym szczycie wzgórza, stosunkowo nisko i bujnie się rozgałęziają. Wraz z wiekiem można spodziewać się silniejszego zrastania się ich pni w jeden dużo grubszy. Oba drzewa zdają się być zdrowe, bez widocznych uszkodzeń pnia. Warto nadmienić, że większe z nich przekracza już rozmiary pomnikowe.",
-   "description_en": "Two fused European beeches (Fagus sylvatica), 261 cm / 324 cm. Two individuals fused together low down, with a far above-average trunk circumference. Because they grow almost at the very top of the hill, they branch relatively low and abundantly. With age, their trunks can be expected to fuse more strongly into one much thicker trunk. Both trees appear healthy, with no visible trunk damage. It is worth noting that the larger of the two already exceeds natural-monument size.",
    "photos": [
     {
      "id": "a",
@@ -103,22 +97,25 @@
      "id": "b",
      "thumbnail": "web_thumbnail_400/003b Buki 261 324 cm_thumb.webp",
      "image": "web_body_1200/003b Buki 261 324 cm_body.webp"
+    },
+    {
+     "id": "c",
+     "thumbnail": "web_thumbnail_400/003c Buki 261 324 cm_thumb.webp",
+     "image": "web_body_1200/003c Buki 261 324 cm_body.webp"
     }
    ],
    "group": false,
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Witomino"
   },
   {
    "id": "004",
    "name": "Dąb Bezszypułkowy (Quercus petraea)",
-   "name_en": "Sessile Oak (Quercus petraea)",
    "coordinates": {
     "lat": 54.4731913,
     "lng": 18.5437829
    },
    "description": "Dąb bezszypułkowy (Quercus petraea) 325 cm. Spory przedstawiciel swojego gatunku. Jedno z szeregu dużych przydrożnych drzew rosnących na szczycie jaru. Prosty pień bez widocznych uszkodzeń oraz stosunkowo dobrze rozbudowana korona.",
-   "description_en": "Sessile oak (Quercus petraea), 325 cm. A sizeable representative of its species. One of a row of large roadside trees growing at the top of a ravine. Straight trunk with no visible damage and a relatively well-developed crown.",
    "photos": [
     {
      "id": "a",
@@ -137,12 +134,11 @@
     3.25
    ],
    "title": "Dąb Bezszypułkowy (Quercus petraea)",
-   "title_en": "Sessile Oak (Quercus petraea)"
+   "forest_district": "Witomino"
   },
   {
    "id": "005",
    "name": "Dąb Bezszypułkowy (Quercus petraea)",
-   "name_en": "Sessile Oak (Quercus petraea)",
    "circumference_m": 3.81,
    "measurements_m": [
     3.81
@@ -152,7 +148,6 @@
     "lng": 18.5436689
    },
    "description": "Dwa zrośnięte dęby bezszypułkowe (Quercus petraea) 381 cm. Drzewo / drzewa na wysokości pierśnicy zrastają się w jeden duży pień (inoskulacja), rozwidlając się nieco wyżej na dwa osobne mniejsze konary. Ciekawostką jest bardzo duża narośl znajdująca się nisko na pniu.",
-   "description_en": "Two fused sessile oaks (Quercus petraea), 381 cm. At breast height the tree (or trees) fuses into one large trunk (inosculation), then forks a little higher into two separate, smaller limbs. A curiosity is the very large burl low on the trunk.",
    "photos": [
     {
      "id": "a",
@@ -177,18 +172,16 @@
    ],
    "group": false,
    "title": "Dąb Bezszypułkowy (Quercus petraea)",
-   "title_en": "Sessile Oak (Quercus petraea)"
+   "forest_district": "Witomino"
   },
   {
    "id": "006",
    "name": "Bez Czarny (Sambucus nigra)",
-   "name_en": "Black Elder (Sambucus nigra)",
    "coordinates": {
     "lat": 54.4633773,
     "lng": 18.541197
    },
    "description": "Duży drzewiasty Bez czarny (Sambucus nigra). Największy oraz najbardziej imponujący przedstawiciel swojego gatunku w okolicy. Bzy tych rozmiarów zdarzają się wyjątkowo rzadko. Dużo łatwiej jest trafić na pomnikowych rozmiarów dęby, buki, sosny, brzozy czy inne drzewa niż na przedstawicieli czarnego bzu przekraczających jeden metr obwodu w pierśnicy. Ten niezwykły okaz posiada trzy główne pięknie omszone konary, z których dwa przekraczają metr obwodu, trzeciemu zaś niewiele brakuje. Wielkość oraz wiek rośliny sprawiają, że tekstura jej kory jest nadzwyczajnie silnie bruzdowata, przez co porastają ją nie tylko porosty oraz mech, ale i niekiedy rośliny zielne, takie jak pokrzywa. Drzewo ma też pięknie uformowaną rozłożystą koronę i jest ewidentnie nietknięte ręką ludzką (nieprzycinane). W jego pobliżu rosną inne nieco mniejsze stare bzy. Niewątpliwie jest to jeden z najbardziej imponujących bzów czarnych w Trójmieście.",
-   "description_en": "A large, tree-like black elder (Sambucus nigra). The largest and most impressive specimen of its species in the area. Elders of this size are extremely rare. It is far easier to find oaks, beeches, pines, birches or other trees of monument size than black elders exceeding one metre in circumference at breast height. This remarkable specimen has three main, beautifully moss-covered limbs, two of which exceed one metre in circumference, while the third falls only slightly short. Thanks to the size and age of the plant, its bark is extraordinarily deeply furrowed, so it is overgrown not only with lichens and moss but occasionally with herbaceous plants such as nettle. The tree also has a beautifully shaped, spreading crown and has clearly never been touched by human hands (it has not been pruned). Other, somewhat smaller old elders grow nearby. Without doubt it is one of the most impressive black elders in the Tricity.",
    "photos": [
     {
      "id": "a",
@@ -221,18 +214,16 @@
    ],
    "measurements_note": "pomiar trójkonarowego pojedynczego osobnika; wartości dotyczą różnych konarów/wysokości",
    "title": "Bez Czarny (Sambucus nigra)",
-   "title_en": "Black Elder (Sambucus nigra)"
+   "forest_district": "Sopot"
   },
   {
    "id": "007",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.4555642,
     "lng": 18.5192991
    },
    "description": "Masywna sosna zwyczajna (Pinus sylvestris) wysoko rozwidlona na dwa duże konary. Zimą 2025/26 straciła nieco gałęzi na skutek obciążenia zamarzniętym śniegiem. Większość jej sporej korony jednak pozostała nieuszkodzona. Rośnie w okolicy, w której znajduje się ponadprzeciętna liczba starych sosen: w pobliżu są dwa inne, nieco większe drzewa pomnikowe oraz szereg nieco mniejszych (250–300 cm obwodu).",
-   "description_en": "A massive Scots pine (Pinus sylvestris), forking high up into two large limbs. In winter 2025/26 it lost some branches under the weight of frozen snow, but most of its sizeable crown remained undamaged. It grows in an area with an above-average number of old pines: nearby there are two other, slightly larger natural-monument trees and a number of somewhat smaller ones (250–300 cm in circumference).",
    "photos": [
     {
      "id": "a",
@@ -251,18 +242,16 @@
     3.14
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "008",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.4521499,
     "lng": 18.5154119
    },
    "description": "Najgrubsza niepomnikowa sosna zwyczajna (Pinus sylvestris) w okolicy. Niestety zimą 2025/26 straciła wiele dużych gałęzi na skutek obciążenia zamarzniętym śniegiem. Podobnie jak sosna 007 rośnie w miejscu obfitującym w stare drzewa tego gatunku. W pobliżu stoją dwa inne, nieco większe pomnikowe okazy oraz sporo mniejszych sosen o obwodach 250–300 cm.",
-   "description_en": "The thickest Scots pine (Pinus sylvestris) in the area that is not a natural monument. Unfortunately, in winter 2025/26 it lost many large branches under the weight of frozen snow. Like pine 007, it grows in a place rich in old trees of this species. Nearby stand two other, slightly larger natural-monument specimens and quite a few smaller pines with circumferences of 250–300 cm.",
    "photos": [
     {
      "id": "a",
@@ -286,18 +275,16 @@
     3.19
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "009",
    "name": "Modrzew Europejski (Larix decidua)",
-   "name_en": "European Larch (Larix decidua)",
    "coordinates": {
     "lat": 54.4487085,
     "lng": 18.5048141
    },
    "description": "Jeden z kilku dużych modrzewi europejskich (Larix decidua) w okolicy. Sąsiaduje z nieco grubszym pomnikowym okazem, ma jednak od niego bujniejszą koronę o ciekawym, nieregularnym kształcie.",
-   "description_en": "One of several large European larches (Larix decidua) in the area. It stands next to a slightly thicker natural-monument specimen, but has a fuller crown of an interesting, irregular shape.",
    "photos": [
     {
      "id": "a",
@@ -308,6 +295,11 @@
      "id": "b",
      "thumbnail": "web_thumbnail_400/009b Modrzew europejski 274 cm_thumb.webp",
      "image": "web_body_1200/009b Modrzew europejski 274 cm_body.webp"
+    },
+    {
+     "id": "c",
+     "thumbnail": "web_thumbnail_400/009c Modrzew europejski 274 cm_thumb.webp",
+     "image": "web_body_1200/009c Modrzew europejski 274 cm_body.webp"
     }
    ],
    "group": false,
@@ -316,18 +308,16 @@
     2.74
    ],
    "title": "Modrzew Europejski (Larix decidua)",
-   "title_en": "European Larch (Larix decidua)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "010",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.4458865,
     "lng": 18.5172881
    },
    "description": "Duża sosna z silnie rozbudowaną koroną. Główny pień rozwidla się na dwa konary. Korona drzewa jest szeroka, jednak podobnie jak u wielu innych sosen w TPK doznała w zimie 2025/26 pewnych (niewielkich) uszkodzeń wynikających z obciążenia zamarzniętym śniegiem.",
-   "description_en": "A large pine with a heavily developed crown. The main trunk forks into two limbs. The crown is broad but, like those of many other pines in the Tricity Landscape Park (TPK), it suffered some (minor) damage in winter 2025/26 from the weight of frozen snow.",
    "photos": [
     {
      "id": "a",
@@ -346,12 +336,11 @@
     3.04
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Sopot"
   },
   {
    "id": "011",
    "name": "Grupa: Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "Group: European Beech (Fagus sylvatica)",
    "circumference_m": 3.59,
    "measurements_m": [
     3.59,
@@ -363,7 +352,6 @@
     "lng": 18.5030905
    },
    "description": "Trzy buki zwyczajne (Fagus sylvatica) o ponad 300 cm obwodzie w pierśnicy. Dwa z nich to prawdopodobnie zroślaki. Drzewa znajdują się przy drodze, niedaleko parkingu, co może zwiększać ich wartość edukacyjną i estetyczną.",
-   "description_en": "Three European beeches (Fagus sylvatica) with a circumference of over 300 cm at breast height. Two of them are probably fused trees. The trees stand by a road close to a car park, which may increase their educational and aesthetic value.",
    "photos": [
     {
      "id": "a",
@@ -378,18 +366,16 @@
    ],
    "group": true,
    "title": "Grupa: Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "Group: European Beech (Fagus sylvatica)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "012",
    "name": "Daglezja Zielona (Pseudotsuga menziesii)",
-   "name_en": "Douglas Fir (Pseudotsuga menziesii)",
    "coordinates": {
     "lat": 54.4312914,
     "lng": 18.5055598
    },
    "description": "Dwie daglezje zielone (Pseudotsuga menziesii). Jedne ze starszych i większych przedstawicieli swojego gatunku w TPK. Osobnik rosnący bliżej leśnej drogi to bardzo nietypowy zroślak (inoskulacja dwóch drzew). Jest to największy znany nam osobnik tego typu rosnący w trójmiejskich lasach. Jego obwód pnia przekracza 400 cm. Przewyższa to większość drzew tego gatunku będących pomnikami przyrody. Siostrzana, pojedyncza daglezja jest również imponujących rozmiarów, o obwodzie pnia ponad 350 cm.",
-   "description_en": "Two Douglas firs (Pseudotsuga menziesii). Among the older and larger specimens of their species in the Tricity Landscape Park (TPK). The tree growing closer to the forest road is a very unusual fused tree (inosculation of two trees). It is the largest known tree of this type in the Tricity forests. Its trunk circumference exceeds 400 cm, which is more than most Douglas firs that are natural monuments. Its neighbour, a single Douglas fir, is also impressively sized, with a trunk circumference of over 350 cm.",
    "photos": [
     {
      "id": "a",
@@ -404,24 +390,22 @@
    ],
    "group": false,
    "title": "Daglezja Zielona (Pseudotsuga menziesii)",
-   "title_en": "Douglas Fir (Pseudotsuga menziesii)",
    "circumference_m": 4.1,
    "measurements_m": [
     4.1,
     3.54
    ],
-   "measurements_note": "główny zroślak oraz sąsiadująca pojedyncza daglezja; rekord nie jest traktowany jako grupa"
+   "measurements_note": "główny zroślak oraz sąsiadująca pojedyncza daglezja; rekord nie jest traktowany jako grupa",
+   "forest_district": "Golebiewo"
   },
   {
    "id": "013",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.4264559,
     "lng": 18.5300963
    },
    "description": "Sosna zwyczajna (Pinus sylvestris) rosnąca blisko stacji naprawy rowerów BigFoot. Ma blisko 350 cm obwodu i dobrze rozbudowaną koronę. Przy tej samej drodze rośnie inna nieco mniejsza sosna będąca pomnikiem przyrody. Zarówno lokalizacja, jak i rozmiar drzewa stanowią silny argument na miano pomnika przyrody.",
-   "description_en": "Scots pine (Pinus sylvestris) growing close to the BigFoot bicycle repair station. It has a circumference of almost 350 cm and a well-developed crown. Along the same road grows another, slightly smaller pine that is a natural monument. Both its location and its size are a strong argument for granting it natural-monument status.",
    "photos": [
     {
      "id": "a",
@@ -440,18 +424,16 @@
     3.49
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Sopot"
   },
   {
    "id": "014",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.4234956,
     "lng": 18.5369678
    },
    "description": "Sosna zwyczajna (Pinus sylvestris) jest jedną z największych przedstawicielek swojego gatunku rosnących na szlaku pomiędzy Gdańskiem Oliwą – wieżą widokową na wzgórzu Pachołek a Leśną polaną – Leśniczówką Sopot. Pojedynczy pień drzewa rozwidla się blisko szczytu na dwa duże konary stanowiące podstawę dla dobrze rozbudowanej korony.",
-   "description_en": "Scots pine (Pinus sylvestris), one of the largest of its species growing along the trail between Gdańsk Oliwa (the Pachołek hill lookout tower) and the Leśna Polana clearing (the Leśniczówka Sopot forester's lodge). The single trunk forks near the top into two large limbs that form the base of a well-developed crown.",
    "photos": [
     {
      "id": "a",
@@ -480,18 +462,16 @@
     2.8
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Sopot"
   },
   {
    "id": "015",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4121232,
     "lng": 18.553174
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Drzewo rośnie w niewielkim fragmencie lasu o starszym drzewostanie. Jest jednym z największych okolicznych buków. Sąsiaduje z bukiem 016.",
-   "description_en": "European beech (Fagus sylvatica). The tree grows in a small patch of forest with older trees. It is one of the largest beeches in the area. Its neighbour is beech 016.",
    "photos": [
     {
      "id": "a",
@@ -505,18 +485,16 @@
     3.18
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Sopot"
   },
   {
    "id": "016",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4118104,
     "lng": 18.5537685
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Drzewo rośnie w niewielkim fragmencie lasu o starszym drzewostanie. Jest jednym z największych okolicznych buków. Sąsiaduje z bukiem 015. Dość nisko rozwidla się na dwa duże konary, z których do jednego przybita jest budka dla ptaków.",
-   "description_en": "European beech (Fagus sylvatica). The tree grows in a small patch of forest with older trees. It is one of the largest beeches in the area. Its neighbour is beech 015. It forks fairly low into two large limbs, one of which has a birdhouse nailed to it.",
    "photos": [
     {
      "id": "a",
@@ -535,18 +513,16 @@
     3.37
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Sopot"
   },
   {
    "id": "017",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4113256,
     "lng": 18.5551116
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Drzewo rośnie w niewielkim fragmencie lasu o starszym drzewostanie. Jest największym z okolicznych buków. Bardzo nisko (na 2–3 m) rozgałęzia się początkowo na 3, a ostatecznie na 6 dużych konarów. Krój tego drzewa jest bardzo nietypowy i piękny, przypomina nieco kształtem dłoń. Buki o takich rozmiarach (w szczególności osobniki pojedyncze) naprawdę ciężko spotkać w trójmiejskich lasach. Jedno z najbardziej godnych uwagi drzew w tej części TPK.",
-   "description_en": "European beech (Fagus sylvatica). The tree grows in a small patch of forest with older trees. It is the largest of the beeches in the area. Very low (at 2–3 m) it divides first into 3 and finally into 6 large limbs. The shape of this tree is very unusual and beautiful, somewhat resembling a hand. Beeches of this size (especially solitary ones) are genuinely hard to find in the Tricity forests. One of the most remarkable trees in this part of the Tricity Landscape Park (TPK).",
    "photos": [
     {
      "id": "a",
@@ -570,18 +546,16 @@
     3.73
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Sopot"
   },
   {
    "id": "018",
    "name": "Jesion Wyniosły (Fraxinus excelsior)",
-   "name_en": "European Ash (Fraxinus excelsior)",
    "coordinates": {
     "lat": 54.409186,
     "lng": 18.540867
    },
    "description": "Jesion wyniosły (Fraxinus excelsior). Rosnący przy ulicy Kościerskiej jesion to jeden z bardziej okazałych i wiekowych przedstawicieli tego gatunku w Gdańsku. Drzewo zdaje się być bardzo zdrowe, bez widocznych dziupli czy martwych fragmentów pnia. Kora porośnięta mchami i porostami – głównie mąklik otrębiasty (Pseudevernia furfuracea). Bardzo rozłożysta korona. Co ciekawe, jesion ten rośnie na małym wzniesieniu, prawdopodobnie będącym pozostałością po poziomie gruntu sprzed wielu lat, gdy było ono młode.",
-   "description_en": "European ash (Fraxinus excelsior). Growing beside Kościerska Street, this ash is one of the more magnificent and aged specimens of its species in Gdańsk. The tree appears very healthy, with no visible hollows or dead sections of trunk. The bark is covered with mosses and lichens – mainly tree moss lichen (Pseudevernia furfuracea). Very spreading crown. Interestingly, the ash grows on a small mound, probably a remnant of the ground level of many years ago, when it was young.",
    "photos": [
     {
      "id": "a",
@@ -615,18 +589,16 @@
     4.27
    ],
    "title": "Jesion Wyniosły (Fraxinus excelsior)",
-   "title_en": "European Ash (Fraxinus excelsior)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "019",
    "name": "Dąb Szypułkowy (Quercus robur)",
-   "name_en": "Pedunculate Oak (Quercus robur)",
    "coordinates": {
     "lat": 54.4000819,
     "lng": 18.5395065
    },
    "description": "Dąb szypułkowy (Quercus robur). Jeden z najdostojniejszych okolicznych dębów. Mierzy niemal 4 m w pierśnicy. Ze względu na jego umiejscowienie na dnie dolinki, gdzie musiał konkurować o światło, jest on bardzo strzelisty. Brak zewnętrznych uszkodzeń oraz oznak próchnienia, dziupli czy ran.",
-   "description_en": "Pedunculate oak (Quercus robur). One of the most majestic oaks in the area. It measures almost 4 m at breast height. Because it stands at the bottom of a small valley, where it had to compete for light, it is very tall and slender. No external damage and no signs of decay, hollows or wounds.",
    "photos": [
     {
      "id": "a",
@@ -645,18 +617,16 @@
     3.98
    ],
    "title": "Dąb Szypułkowy (Quercus robur)",
-   "title_en": "Pedunculate Oak (Quercus robur)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "020",
    "name": "Lipa (Tilia sp.)",
-   "name_en": "Linden (Tilia sp.)",
    "coordinates": {
     "lat": 54.3965386,
     "lng": 18.5227434
    },
-   "description": "Lipa (Tilia sp.) (Tilia cordata lub T. platyphyllos). Najgrubsza lipa w okolicy, a zarazem najgrubsze drzewo przy ul. Bytowskiej. Prawdopodobnie była w młodości silnie przycinana (wskazywałby na to jej krój – gruby pień dość nisko rozgałęziający się na wiele mniejszych konarów).",
-   "description_en": "Linden (Tilia sp.) (Tilia cordata or T. platyphyllos). The thickest linden in the area and at the same time the thickest tree along Bytowska Street. It was probably heavily pruned in its youth (suggested by its shape – a thick trunk branching fairly low into many smaller limbs).",
+   "description": "Lipa (Tilia sp.) (Tilia cordata lub T. platyphyllos). Najgrubsza lipa w okolicy a zarazem najgrubsze drzewo przy ul. Bytowskiej. Prawdopodobnie była w młodości silnie przycinana (wskazywałby na to jej krój – gruby pień dość nisko rozgałęziający się na wiele mniejszych konarów).",
    "photos": [
     {
      "id": "a",
@@ -685,18 +655,16 @@
     5.0
    ],
    "title": "Lipa (Tilia sp.)",
-   "title_en": "Linden (Tilia sp.)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "021",
    "name": "Lipa (Tilia sp.)",
-   "name_en": "Linden (Tilia sp.)",
    "coordinates": {
     "lat": 54.395189595405974,
     "lng": 18.517282420900756
    },
    "description": "Lipa (Tilia sp.) (Tilia cordata lub T. platyphyllos). Duże drzewo przy strumieniu w Dolinie Radości. Zdrowsza z dwóch rosnących obok siebie dużych lip. Spory odłamany konar sąsiadki przewieszony jest przez jej gałęzie. Drzewo nie ma widocznych uszkodzeń.",
-   "description_en": "Linden (Tilia sp.) (Tilia cordata or T. platyphyllos). A large tree by the stream in Dolina Radości. The healthier of two large lindens growing side by side. A sizeable broken-off limb of its neighbour hangs across its branches. The tree has no visible damage.",
    "photos": [
     {
      "id": "a",
@@ -725,18 +693,16 @@
     3.72
    ],
    "title": "Lipa (Tilia sp.)",
-   "title_en": "Linden (Tilia sp.)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "022",
    "name": "Lipa (Tilia sp.)",
-   "name_en": "Linden (Tilia sp.)",
    "coordinates": {
     "lat": 54.395448002011754,
     "lng": 18.516908603059697
    },
-   "description": "Lipa (Tilia sp.) (Tilia cordata lub T. platyphyllos). Stare, omszone drzewo o obwodzie pnia ponad 400 cm. Ma bardzo dużo dziupli i zakamarków wypełnionych próchniejącym drewnem. Prawdopodobnie przycinana wiele lat wcześniej – stąd krój drzewa, gdzie ze starego grubego pnia wyrasta wiele młodszych konarów. Drzewo niezwykle cenne biocenotycznie. Potencjalnie może pełnić rolę matecznika występującego na tym terenie chronionego chrząszcza – pachnicy dębowej (Osmoderma eremita), którego larwy wymagają próchna do życia. Jedno z najstarszych i najcenniejszych drzew w Dolinie Radości.",
-   "description_en": "Linden (Tilia sp.) (Tilia cordata or T. platyphyllos). An old, mossy tree with a trunk circumference of over 400 cm. It has a great many hollows and crevices filled with decaying wood. It was probably pruned many years ago – hence the shape of the tree, where many younger limbs grow from an old, thick trunk. An exceptionally valuable tree for biodiversity. It may potentially serve as a refuge for the protected hermit beetle (Osmoderma eremita) occurring in the area, whose larvae need rotting wood to live. One of the oldest and most valuable trees in Dolina Radości.",
+   "description": "Lipa (Tilia sp.) (Tilia cordata lub T. platyphyllos). Stare, omszone drzewo o obwodzie pnia ponad 400 cm. Ma bardzo dużo dziupli i zakamarków wypełnionych próchniejącym drewnem. Prawdopodobnie przycinana wiele lat wcześniej – stąd krój drzewa gdzie ze starego grubego pnia wyrasta wiele młodszych konarów. Drzewo niezwykle cenne biocenotycznie. Potencjalnie może pełnić rolę matecznika występującego na tym terenie chronionego chrząszcza – pachnicy dębowej (Osmoderma eremita), którego larwy wymagają próchna do życia. Jedno z najstarszych i najcenniejszych drzew w Dolinie Radości.",
    "photos": [
     {
      "id": "a",
@@ -752,6 +718,16 @@
      "id": "c",
      "thumbnail": "web_thumbnail_400/022c Lipa 400 cm.JPG_thumb.webp",
      "image": "web_body_1200/022c Lipa 400 cm.JPG_body.webp"
+    },
+    {
+     "id": "d",
+     "thumbnail": "web_thumbnail_400/022d Lipa 400 cm_thumb.webp",
+     "image": "web_body_1200/022d Lipa 400 cm_body.webp"
+    },
+    {
+     "id": "e",
+     "thumbnail": "web_thumbnail_400/022e Lipa 400 cm_thumb.webp",
+     "image": "web_body_1200/022e Lipa 400 cm_body.webp"
     }
    ],
    "group": false,
@@ -760,18 +736,16 @@
     4.0
    ],
    "title": "Lipa (Tilia sp.)",
-   "title_en": "Linden (Tilia sp.)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "023",
    "name": "Dąb Szypułkowy (Quercus robur)",
-   "name_en": "Pedunculate Oak (Quercus robur)",
    "coordinates": {
     "lat": 54.4467661,
     "lng": 18.4721934
    },
    "description": "Dąb szypułkowy (Quercus robur). Największy dąb w okolicy. Rośnie niedaleko torów w dość gęstym młodym drzewostanie. Bliski sąsiad pomnikowych zrośniętych buków.",
-   "description_en": "Pedunculate oak (Quercus robur). The largest oak in the area. It grows not far from the railway tracks in a fairly dense young stand. A close neighbour of the natural-monument fused beeches.",
    "photos": [
     {
      "id": "a",
@@ -790,18 +764,16 @@
     3.54
    ],
    "title": "Dąb Szypułkowy (Quercus robur)",
-   "title_en": "Pedunculate Oak (Quercus robur)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "024",
    "name": "Świerk Pospolity (Picea abies)",
-   "name_en": "Norway Spruce (Picea abies)",
    "coordinates": {
     "lat": 54.4495772,
     "lng": 18.468262
    },
    "description": "Świerk pospolity (Picea abies). Bardzo ładny i unikalny przedstawiciel swojego gatunku. Drzewo rośnie przy drodze na dość odsłoniętym na słońce kawałku ziemi. Z tego powodu jego korona sięga bardzo nisko (najniższe gałęzie wiszą nieco ponad metr nad ziemią). Główny pień stosunkowo nisko rozgałęzia się na dwa równolegle i bardzo blisko siebie idące ku górze konary. Jest to dla świerków dość nietypowe. Bujna korona oraz nietypowy krój czynią z niego drzewo o wysokich walorach estetycznych. Sąsiaduje z martwym od lat świerkiem, który nachylony jest w jego stronę. (Być może warto byłoby umiejętnie przyciąć martwe drzewo, aby ochronić żywe przed uszkodzeniami w razie jego upadku.)",
-   "description_en": "Norway spruce (Picea abies). A very beautiful and unique specimen of its species. The tree grows by the road on a fairly sun-exposed patch of ground. For this reason its crown reaches very low (the lowest branches hang just over a metre above the ground). The main trunk forks relatively low into two limbs that run upwards parallel and very close to each other, which is quite unusual for spruces. The lush crown and unusual shape make it a tree of high aesthetic value. It stands next to a spruce that has been dead for years and leans towards it. (It might be worth skilfully cutting back the dead tree to protect the living one from damage if it falls.)",
    "photos": [
     {
      "id": "a",
@@ -830,23 +802,26 @@
     2.57
    ],
    "title": "Świerk Pospolity (Picea abies)",
-   "title_en": "Norway Spruce (Picea abies)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "025",
    "name": "Dąb Szypułkowy (Quercus robur)",
-   "name_en": "Pedunculate Oak (Quercus robur)",
    "coordinates": {
     "lat": 54.4093689,
     "lng": 18.5258494
    },
    "description": "Dąb szypułkowy (Quercus robur). Spory dąb na samym początku alei drzew w leśnej części ul. Kościerskiej (głównie lip) idącej od ZOO w stronę Owczarni. Drzewo zdrowe o ładnej koronie.",
-   "description_en": "Pedunculate oak (Quercus robur). A sizeable oak at the very beginning of the avenue of trees (mainly lindens) in the forested part of Kościerska Street, running from the Zoo towards Owczarnia. A healthy tree with a handsome crown.",
    "photos": [
     {
      "id": "a",
      "thumbnail": "web_thumbnail_400/025a Dąb Szypułkowy 335cm_thumb.webp",
      "image": "web_body_1200/025a Dąb Szypułkowy 335cm_body.webp"
+    },
+    {
+     "id": "b",
+     "thumbnail": "web_thumbnail_400/025b Dąb Szypułkowy 335cm_thumb.webp",
+     "image": "web_body_1200/025b Dąb Szypułkowy 335cm_body.webp"
     },
     {
      "id": "c",
@@ -860,18 +835,16 @@
     3.35
    ],
    "title": "Dąb Szypułkowy (Quercus robur)",
-   "title_en": "Pedunculate Oak (Quercus robur)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "026",
    "name": "Lipa (Tilia sp.)",
-   "name_en": "Linden (Tilia sp.)",
    "coordinates": {
     "lat": 54.4092134,
     "lng": 18.5233395
    },
-   "description": "Lipa (Tilia sp.) (Tilia cordata lub T. platyphyllos). Jedna z największych lip będących częścią alei drzew w leśnej części ul. Kościerskiej. Drzewo rozwidla się na 2 duże konary około 3 m nad ziemią. Ma ładnie rozwiniętą koronę i zdaje się być zdrowe, bez dziupli lub odsłoniętego martwego drewna. Warto byłoby pomyśleć nad statusem pomnika nie tylko dla tej lipy, ale dla całej alei.",
-   "description_en": "Linden (Tilia sp.) (Tilia cordata or T. platyphyllos). One of the largest lindens in the avenue of trees in the forested part of Kościerska Street. The tree forks into 2 large limbs about 3 m above the ground. It has a nicely developed crown and appears healthy, with no hollows or exposed dead wood. It would be worth considering monument status not only for this linden but for the whole avenue.",
+   "description": "Lipa (Tilia sp.) (Tilia cordata lub T. platyphyllos). Jedna z największych lip będących częścią alei drzew w leśnej części ul. Kościerskiej. Drzewo rozwidla się na 2 duże konary około 3 m nad ziemią. Ma ładnie rozwiniętą koronę i zdaje się być zdrowe, bez dziupli lub odsłoniętego martwego drewna. Warto byłoby pomyśleć nad statusem pomnika nie tylko dla tej lipy ale dla całej alei.",
    "photos": [
     {
      "id": "a",
@@ -890,18 +863,16 @@
     3.3
    ],
    "title": "Lipa (Tilia sp.)",
-   "title_en": "Linden (Tilia sp.)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "027",
    "name": "Grab Pospolity (Carpinus betulus)",
-   "name_en": "European Hornbeam (Carpinus betulus)",
    "coordinates": {
     "lat": 54.4085554,
     "lng": 18.525791
    },
    "description": "Grab pospolity (Carpinus betulus). Osobnik o naprawdę imponującym, jak na swój gatunek, obwodzie pnia, przewyższającym niejednego pomnikowego graba. Sądząc po nisko rozgałęzionym kroju drzewa można przypuszczać, że w młodości miało większy dostęp do światła. Umiejscowienie tego osobnika jest również dość urokliwe, rośnie on bowiem kilka metrów od źródła malutkiego potoku.",
-   "description_en": "European hornbeam (Carpinus betulus). A specimen with a truly impressive trunk circumference for its species, exceeding that of many a monument hornbeam. Judging by the low-branching shape of the tree, it probably had more access to light in its youth. The location is also rather charming, as it grows a few metres from the source of a tiny stream.",
    "photos": [
     {
      "id": "b",
@@ -915,18 +886,16 @@
     2.83
    ],
    "title": "Grab Pospolity (Carpinus betulus)",
-   "title_en": "European Hornbeam (Carpinus betulus)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "028",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.4056552,
     "lng": 18.5256234
    },
    "description": "Sosna zwyczajna (Pinus sylvestris). Duże, stare, silnie rozgałęzione drzewo. Wyrasta bezpośrednio przy potoku przecinającym Dolinę Czystej Wody. W gałęziach ma resztki czegoś, co mogło być myśliwską amboną lub domkiem na drzewie. Po zimie 2025/26 ma lekkie uszkodzenia – straciła sporą gałąź na skutek obciążenia zamarzniętym śniegiem.",
-   "description_en": "Scots pine (Pinus sylvestris). A large, old, heavily branched tree. It grows directly beside the stream that crosses the Dolina Czystej Wody valley. In its branches are remains of what may have been a hunting hide or a treehouse. After winter 2025/26 it shows slight damage – it lost a sizeable branch under the weight of frozen snow.",
    "photos": [
     {
      "id": "a",
@@ -965,18 +934,16 @@
     3.3
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "029",
    "name": "Dąb Szypułkowy (Quercus robur)",
-   "name_en": "Pedunculate Oak (Quercus robur)",
    "coordinates": {
     "lat": 54.3821126,
     "lng": 18.5233197
    },
    "description": "Dąb szypułkowy (Quercus robur). Bardzo okazały strzelisty osobnik. Drzewo bez wyraźnych oznak próchnienia. Rośnie blisko czarnego szlaku.",
-   "description_en": "Pedunculate oak (Quercus robur). A very impressive, tall and slender specimen. The tree shows no clear signs of decay. It grows close to the black trail.",
    "photos": [
     {
      "id": "a",
@@ -995,18 +962,16 @@
     4.16
    ],
    "title": "Dąb Szypułkowy (Quercus robur)",
-   "title_en": "Pedunculate Oak (Quercus robur)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "030",
    "name": "Olsza Czarna (Alnus glutinosa)",
-   "name_en": "Black Alder (Alnus glutinosa)",
    "coordinates": {
     "lat": 54.3836729,
     "lng": 18.5230203
    },
    "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Drzewo ma wyraźną ranę po ułamanym konarze. Poza tym pień wydaje się zdrowy, a korona ładnie rozwinięta.",
-   "description_en": "Black alder (Alnus glutinosa). One of several large forest alders growing in a small, boggy valley near the black trail. The tree has a clear wound where a limb broke off. Otherwise the trunk looks healthy and the crown is nicely developed.",
    "photos": [
     {
      "id": "a",
@@ -1025,18 +990,16 @@
     2.73
    ],
    "title": "Olsza Czarna (Alnus glutinosa)",
-   "title_en": "Black Alder (Alnus glutinosa)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "031",
    "name": "Olsza Czarna (Alnus glutinosa)",
-   "name_en": "Black Alder (Alnus glutinosa)",
    "coordinates": {
     "lat": 54.383641,
     "lng": 18.52302
    },
    "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Osobnik o największym obwodzie pnia spośród okolicznych olsz. Z nasady jej pnia wyrasta gęsto wiele małych gałązek. Stosunkowo nisko pień rozdziela się na dwa spore konary. Drzewo posiada wykształconą koronę.",
-   "description_en": "Black alder (Alnus glutinosa). One of several large forest alders growing in a small, boggy valley near the black trail. The specimen with the largest trunk circumference among the alders nearby. Many small shoots grow densely from the base of its trunk. The trunk splits fairly low into two sizeable limbs. The tree has a well-formed crown.",
    "photos": [
     {
      "id": "a",
@@ -1055,18 +1018,16 @@
     3.0
    ],
    "title": "Olsza Czarna (Alnus glutinosa)",
-   "title_en": "Black Alder (Alnus glutinosa)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "032",
    "name": "Olsza Czarna (Alnus glutinosa)",
-   "name_en": "Black Alder (Alnus glutinosa)",
    "coordinates": {
     "lat": 54.383576,
     "lng": 18.522983
    },
    "description": "Olsza czarna (Alnus glutinosa). Jedna z kilku dużych, leśnych olsz rosnących w niewielkiej podmokłej dolince nieopodal czarnego szlaku. Jedna z jej większych gałęzi obumarła i ma w sobie kilka dziupli. Pozostałe konary są żywe i zdają się być w dobrej kondycji. Rozgałęziają się w dobrze uformowaną koronę.",
-   "description_en": "Black alder (Alnus glutinosa). One of several large forest alders growing in a small, boggy valley near the black trail. One of its larger limbs has died and contains several hollows. The remaining limbs are alive and seem to be in good condition. They branch into a well-formed crown.",
    "photos": [
     {
      "id": "b",
@@ -1090,18 +1051,16 @@
     2.72
    ],
    "title": "Olsza Czarna (Alnus glutinosa)",
-   "title_en": "Black Alder (Alnus glutinosa)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "033",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.3812045,
     "lng": 18.520895
    },
-   "description": "Sosna zwyczajna (Pinus sylvestris). Drzewo o wyjątkowo bujnej i pięknej jak na sosny koronie, zbudowanej z wielu warstw gałęzi. Prawdziwa ozdoba żółtego szlaku. Choć nie należy do największych sosen, jej rozmiary są i tak ponadprzeciętne. Wizualnie jedna z piękniejszych przedstawicielek swojego gatunku. Co ciekawe, mimo tak gęstej korony nie ucierpiała ona w najmniejszym stopniu w zimie 2025/26 z powodu zamarzniętego śniegu, który uszkodził bardzo wiele sosen na terenie Trójmiasta.",
-   "description_en": "Scots pine (Pinus sylvestris). A tree with an exceptionally lush crown, beautiful for a pine, made up of many layers of branches. A true ornament of the yellow trail. Although it is not among the largest pines, its size is still above average. Visually one of the most beautiful specimens of its species. Interestingly, despite such a dense crown, it suffered no damage at all in winter 2025/26 from the frozen snow that damaged very many pines across the Tricity.",
+   "description": "Sosna zwyczajna (Pinus sylvestris). Drzewo o wyjątkowo bujnej i pięknej jak na sosny koronie, zbudowanej z wielu warstw gałęzi. Prawdziwa ozdoba żółtego szlaku. Choć nie należy do największych sosen, jej rozmiary są i tak ponadprzeciętne. Wizualnie jedna z piękniejszych przedstawicielek swojego gatunku. Co ciekawe mimo tak gęstej korony nie ucierpiała ona w najmniejszym stopniu w zimie 2025/26 z powodu zamarzniętego śniegu, który uszkodził bardzo wiele sosen na terenie Trójmiasta.",
    "photos": [
     {
      "id": "a",
@@ -1125,18 +1084,16 @@
     2.53
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "034",
    "name": "Daglezja Zielona (Pseudotsuga menziesii)",
-   "name_en": "Douglas Fir (Pseudotsuga menziesii)",
    "coordinates": {
     "lat": 54.3827037,
     "lng": 18.5166796
    },
    "description": "Daglezja zielona (Pseudotsuga menziesii). Jedna z najbardziej dostojnych daglezji w TPK. Drzewo ma dla siebie sporo przestrzeni, a zadziwia nie tylko grubym, nieco łukowatym pniem, ale i szeroką, piękną koroną. Osobnik, do którego pasuje określenie monumentalny.",
-   "description_en": "Douglas fir (Pseudotsuga menziesii). One of the most majestic Douglas firs in the Tricity Landscape Park (TPK). The tree has plenty of space around it and impresses not only with its thick, slightly arched trunk but also with its wide, beautiful crown. A specimen that deserves the word monumental.",
    "photos": [
     {
      "id": "a",
@@ -1150,18 +1107,16 @@
     3.65
    ],
    "title": "Daglezja Zielona (Pseudotsuga menziesii)",
-   "title_en": "Douglas Fir (Pseudotsuga menziesii)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "035",
    "name": "Grab Pospolity (Carpinus betulus)",
-   "name_en": "European Hornbeam (Carpinus betulus)",
    "coordinates": {
     "lat": 54.378697,
     "lng": 18.5506095
    },
    "description": "Grab pospolity (Carpinus betulus). Duży, rosnący przy samej drodze osobnik o pochylonym pniu. Jego korona rozgałęzia się przypominając nieco wachlarz lub świecznik. Jest to największy grab przy tym szlaku. Sąsiaduje z wieloma ponadprzeciętnymi pod względem rozmiarów bukami rosnącymi wzdłuż tej samej drogi.",
-   "description_en": "European hornbeam (Carpinus betulus). A large specimen with a leaning trunk, growing right by the road. Its crown branches out somewhat like a fan or a candelabrum. It is the largest hornbeam along this trail. It stands among many above-average beeches growing along the same road.",
    "photos": [
     {
      "id": "a",
@@ -1190,18 +1145,16 @@
     2.2
    ],
    "title": "Grab Pospolity (Carpinus betulus)",
-   "title_en": "European Hornbeam (Carpinus betulus)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "036",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.397657,
     "lng": 18.546223
    },
    "description": "Sosna zwyczajna (Pinus sylvestris). Najgrubsza w okolicy sosna. Posiada bardzo dobrze rozwiniętą koronę. Rośnie przy samej drodze na zakręcie nieopodal punktu widokowego na Zatokę Gdańską.",
-   "description_en": "Scots pine (Pinus sylvestris). The thickest pine in the area. It has a very well-developed crown. It grows right by the road on a bend, not far from a viewpoint over the Gulf of Gdańsk.",
    "photos": [
     {
      "id": "a",
@@ -1225,18 +1178,16 @@
     3.19
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "037",
    "name": "Świerk Pospolity (Picea abies)",
-   "name_en": "Norway Spruce (Picea abies)",
    "coordinates": {
     "lat": 54.4455211,
     "lng": 18.4869352
    },
    "description": "Świerk pospolity (Picea abies). Największy przedstawiciel swojego gatunku w okolicy. Sąsiaduje z innym nieco mniejszym świerkiem. Ze względu na to, że wyrósł w dolince, gdzie miał cięższy dostęp do światła, jest wysoki i prosty.",
-   "description_en": "Norway spruce (Picea abies). The largest specimen of its species in the area. It stands next to another, slightly smaller spruce. Because it grew up in a small valley where light was harder to come by, it is tall and straight.",
    "photos": [
     {
      "id": "b",
@@ -1250,18 +1201,16 @@
     2.84
    ],
    "title": "Świerk Pospolity (Picea abies)",
-   "title_en": "Norway Spruce (Picea abies)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "038",
    "name": "Dąb Bezszypułkowy (Quercus petraea)",
-   "name_en": "Sessile Oak (Quercus petraea)",
    "coordinates": {
     "lat": 54.4459877,
     "lng": 18.4804875
    },
    "description": "Dąb bezszypułkowy (Quercus petraea). Jeden z grubszych i starszych osobników swojego gatunku w okolicy. Pień porastają grzyby najprawdopodobniej z rodzaju Phellinus. Korona zbudowana z bardzo ładnie poskręcanych konarów. Drzewo o dużej wartości biocenotycznej.",
-   "description_en": "Sessile oak (Quercus petraea). One of the thicker and older specimens of its species in the area. Fungi, most likely of the genus Phellinus, grow on the trunk. The crown is made up of beautifully twisted limbs. A tree of high biodiversity value.",
    "photos": [
     {
      "id": "a",
@@ -1290,18 +1239,16 @@
     3.53
    ],
    "title": "Dąb Bezszypułkowy (Quercus petraea)",
-   "title_en": "Sessile Oak (Quercus petraea)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "039",
    "name": "Lipa (Tilia sp.)",
-   "name_en": "Linden (Tilia sp.)",
    "coordinates": {
     "lat": 54.4087031,
     "lng": 18.5335513
    },
    "description": "Lipa (Tilia sp.) (Tilia cordata lub T. platyphyllos). Duża ładnie rozgałęziona lipa o pięknie rozwiniętej koronie. Rośnie przy ul. Kościerskiej blisko tylnej bramy Gdańskiego Ogrodu Zoologicznego. Krój korony wskazuje, że w przeciwieństwie do wielu innych okolicznych lip nie była przycinana.",
-   "description_en": "Linden (Tilia sp.) (Tilia cordata or T. platyphyllos). A large, nicely branched linden with a beautifully developed crown. It grows by Kościerska Street near the back gate of the Gdańsk Zoo. The shape of the crown shows that, unlike many other lindens nearby, it has not been pruned.",
    "photos": [
     {
      "id": "a",
@@ -1330,18 +1277,16 @@
     3.54
    ],
    "title": "Lipa (Tilia sp.)",
-   "title_en": "Linden (Tilia sp.)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "040",
    "name": "Brzoza Brodawkowata (Betula pendula)",
-   "name_en": "Silver Birch (Betula pendula)",
    "coordinates": {
     "lat": 54.4062891,
     "lng": 18.5337434
    },
    "description": "Brzoza brodawkowata (Betula pendula). Najgrubsza z szeregu dużych brzóz rosnących przy bocznej odnodze ul. Kościerskiej. Prosty i gruby osobnik o bardzo bujnej koronie.",
-   "description_en": "Silver birch (Betula pendula). The thickest of a row of large birches growing by a side branch of Kościerska Street. A straight, thick specimen with a very lush crown.",
    "photos": [
     {
      "id": "a",
@@ -1365,18 +1310,16 @@
     2.3
    ],
    "title": "Brzoza Brodawkowata (Betula pendula)",
-   "title_en": "Silver Birch (Betula pendula)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "041",
    "name": "Modrzew Europejski (Larix decidua)",
-   "name_en": "European Larch (Larix decidua)",
    "coordinates": {
     "lat": 54.389097,
     "lng": 18.5153991
    },
    "description": "Modrzew europejski (Larix decidua). Jeden z największych okolicznych modrzewi. Wyróżnia się szczególnie szeroką koroną. Rośnie przy jednym z leśnych szlaków wychodzących z Doliny Radości.",
-   "description_en": "European larch (Larix decidua). One of the largest larches in the area. It stands out for its particularly wide crown. It grows beside one of the forest trails leading out of Dolina Radości.",
    "photos": [
     {
      "id": "a",
@@ -1395,12 +1338,11 @@
     2.75
    ],
    "title": "Modrzew Europejski (Larix decidua)",
-   "title_en": "European Larch (Larix decidua)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "042",
    "name": "Grupa: Dąb Szypułkowy (Quercus robur)",
-   "name_en": "Group: Pedunculate Oak (Quercus robur)",
    "circumference_m": 3.8,
    "measurements_m": [
     3.35,
@@ -1414,7 +1356,6 @@
     "lng": 18.537405
    },
    "description": "Grupa około 230–250-letnich dębów niedaleko Sanktuarium Matki Boskiej Brzemiennej w Matemblewie. Większość drzew jest w dobrym stanie. Jeden osobnik dziuplasty z porastającym go czyreniem dębowym – może stanowić matecznik wielu gatunków zwierząt (zwłaszcza chrząszczy). Najgrubszy (mierzący 380 cm w pierśnicy) ma ślad będący najprawdopodobniej pozostałością po uderzeniu pioruna. Grupa ta jest bardzo dobrym kandydatem na pomnik zbiorowy. Wiek oszacowany na podstawie słojów obumarłego i pociętego osobnika.",
-   "description_en": "A group of oaks about 230–250 years old, not far from the Sanctuary of Our Lady with Child (Matki Boskiej Brzemiennej) in Matemblewo. Most of the trees are in good condition. One hollow specimen, overgrown with a bracket fungus (Polish: czyreń dębowy), may serve as a refuge for many animal species (especially beetles). The thickest (measuring 380 cm at breast height) bears a mark that is most likely the remains of a lightning strike. This group is a very good candidate for a collective natural monument. The age was estimated from the growth rings of a dead, felled tree.",
    "photos": [
     {
      "id": "a",
@@ -1474,18 +1415,16 @@
    ],
    "group": true,
    "title": "Grupa: Dąb Szypułkowy (Quercus robur)",
-   "title_en": "Group: Pedunculate Oak (Quercus robur)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "043",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3646127,
     "lng": 18.5450426
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Rośnie kilkadziesiąt metrów od drogi z Sanktuarium w Matemblewie do rezerwatu Doliny Strzyży. Drzewo leśne – strzeliste, wysoko rozgałęzione. Otoczone znacznie młodszym drzewostanem.",
-   "description_en": "European beech (Fagus sylvatica). It grows a few dozen metres from the road leading from the Sanctuary in Matemblewo to the Dolina Strzyży nature reserve. A forest tree – tall and slender, branching high up. Surrounded by a much younger stand.",
    "photos": [
     {
      "id": "a",
@@ -1504,12 +1443,11 @@
     3.15
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "044",
    "name": "Grupa: Modrzew Europejski (Larix decidua)",
-   "name_en": "Group: European Larch (Larix decidua)",
    "circumference_m": 3.18,
    "measurements_m": [
     3.08,
@@ -1520,7 +1458,6 @@
     "lng": 18.491212
    },
    "description": "Dwa modrzewie europejskie (Larix decidua). Duże drzewa o ponad 300 cm obwodzie w pierśnicy. Jedno z nich nosi bliznę najprawdopodobniej po uderzeniu pioruna. Rosną zaraz obok leśnego zadaszenia turystycznego, co jest dodatkowym (edukacyjnym) argumentem na nadanie im statusu pomników przyrody.",
-   "description_en": "Two European larches (Larix decidua). Large trees with a circumference of over 300 cm at breast height. One of them bears a scar, most likely from a lightning strike. They stand right next to a forest tourist shelter, which is an additional (educational) argument for granting them natural-monument status.",
    "photos": [
     {
      "id": "a",
@@ -1540,18 +1477,16 @@
    ],
    "group": true,
    "title": "Grupa: Modrzew Europejski (Larix decidua)",
-   "title_en": "Group: European Larch (Larix decidua)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "045",
    "name": "Modrzew Europejski (Larix decidua)",
-   "name_en": "European Larch (Larix decidua)",
    "coordinates": {
     "lat": 54.4002146,
     "lng": 18.4910242
    },
    "description": "Modrzew europejski (Larix decidua). Najgrubszy osobnik tego gatunku w okolicznym lesie. Drzewo jest naprawdę imponujących rozmiarów zarówno pod względem grubości pnia i wysokości, jak i rozłożystości korony. Prawdziwie monumentalny modrzew.",
-   "description_en": "European larch (Larix decidua). The thickest specimen of its species in the surrounding forest. The tree is truly impressive in size, in trunk thickness and height as well as in the spread of its crown. A truly monumental larch.",
    "photos": [
     {
      "id": "a",
@@ -1580,18 +1515,16 @@
     3.34
    ],
    "title": "Modrzew Europejski (Larix decidua)",
-   "title_en": "European Larch (Larix decidua)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "046",
    "name": "Daglezja Zielona (Pseudotsuga menziesii)",
-   "name_en": "Douglas Fir (Pseudotsuga menziesii)",
    "coordinates": {
     "lat": 54.4260311,
     "lng": 18.5110459
    },
-   "description": "Daglezja zielona (Pseudotsuga menziesii). Jedna z bardziej okazałych w okolicy. Drzewo rośnie dość daleko od drogi. Ma wokoło sporo przestrzeni, dzięki czemu jego korona jest dość bujna.",
-   "description_en": "Douglas fir (Pseudotsuga menziesii). One of the more magnificent in the area. The tree grows quite far from the road. It has plenty of space around it, so its crown is fairly lush.",
+   "description": "Daglezja zielona (Pseudotsuga menziesii). Jedna z bardziej okazałych w okolicy. Drzewo rośnie dość daleko od drogi. Ma wokoło sporo przestrzeni dzięki czemu jego korona jest dość bujna.",
    "photos": [
     {
      "id": "a",
@@ -1620,18 +1553,16 @@
     3.63
    ],
    "title": "Daglezja Zielona (Pseudotsuga menziesii)",
-   "title_en": "Douglas Fir (Pseudotsuga menziesii)"
+   "forest_district": "Sopot"
   },
   {
    "id": "047",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4406815,
     "lng": 18.5333297
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Najokazalszy z szeregu rosnących wzdłuż tego szlaku buków. Pień palowy, wysoko rozgałęziający się na mniejsze gałęzie. Ma ładnie wykształconą koronę dzięki dodatkowemu światłu i przestrzeni wynikających z bliskości drogi.",
-   "description_en": "European beech (Fagus sylvatica). The most magnificent of the row of beeches growing along this trail. Straight, pole-like trunk branching high up into smaller branches. It has a nicely formed crown thanks to the extra light and space provided by the nearby road.",
    "photos": [
     {
      "id": "a",
@@ -1680,18 +1611,16 @@
     3.5
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Sopot"
   },
   {
    "id": "048",
    "name": "Dąb (Quercus sp.)",
-   "name_en": "Oak (Quercus sp.)",
    "coordinates": {
     "lat": 54.4666333,
     "lng": 18.5248858
    },
    "description": "Dąb szypułkowy (Quercus robur) lub bezszypułkowy (Quercus petraea). Drzewo o ponadprzeciętnych rozmiarach. Rośnie przy szlaku na rozstaju dróg.",
-   "description_en": "Pedunculate oak (Quercus robur) or sessile oak (Quercus petraea). A tree of above-average size. It grows by the trail at a crossroads.",
    "photos": [
     {
      "id": "a",
@@ -1710,18 +1639,16 @@
     3.14
    ],
    "title": "Dąb (Quercus sp.)",
-   "title_en": "Oak (Quercus sp.)"
+   "forest_district": "Sopot"
   },
   {
    "id": "049",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3996519,
     "lng": 18.5260542
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Jeden z najokazalszych przedstawicieli swojego gatunku w TPK. Na wysokości około 3,5 m główny pień rozdziela się na 3 większe konary stanowiące fundament rozłożystej korony. Możliwe, że drzewo jest wynikiem zrośnięcia się (inoskulacji) dwóch dużych buków. Jednak z zewnątrz nie jest to jednoznacznie widoczne.",
-   "description_en": "European beech (Fagus sylvatica). One of the most magnificent specimens of its species in the Tricity Landscape Park (TPK). At a height of about 3.5 m the main trunk divides into 3 larger limbs that form the foundation of a spreading crown. The tree may be the result of two large beeches fusing together (inosculation), but from the outside this is not clearly visible.",
    "photos": [
     {
      "id": "a",
@@ -1760,18 +1687,16 @@
     3.7
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "050",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4053592,
     "lng": 18.5176418
    },
-   "description": "Buk zwyczajny (Fagus sylvatica). Najdostojniejsze drzewo okolicznych lasów. Ponad 400 cm w pierśnicy umieszcza go w kategorii najgrubszych trójmiejskich buków. Niewykluczone, że drzewo to jest wynikiem zrośnięcia się (inoskulacji) dwóch starych buków. Po obu stronach pnia przebiega głęboka pionowa bruzda. Powyżej jednak kora staje się ciągła, a zrośnięcie całkowite. Ma ogromną koronę zbudowaną z wielu pięknie poskręcanych gałęzi. U podstawy pnia wyrastają trzy spore odrosty stanowiące część drzewa.",
-   "description_en": "European beech (Fagus sylvatica). The most majestic tree in the surrounding forests. A circumference of over 400 cm at breast height places it among the thickest beeches in the Tricity. It may well be the result of two old beeches fusing together (inosculation). A deep vertical furrow runs down both sides of the trunk, but above it the bark becomes continuous and the fusion complete. It has an enormous crown made up of many beautifully twisted branches. Three sizeable suckers growing from the base of the trunk are part of the tree.",
+   "description": "Buk zwyczajny (Fagus sylvatica). Najdostojniejsze drzewo okolicznych lasów. Ponad 400 cm w pierśnicy umieszcza go w kategorii najgrubszych trójmiejskich buków. Niewykluczone że drzewo to jest wynikiem zrośnięcia się (inoskulacji) dwóch starych buków. Po obu stronach pnia przebiega głęboka pionowa bruzda. Powyżej jednak kora staje się ciągła a zrośnięcie całkowite. Ma ogromną koronę zbudowaną z wielu pięknie poskręcanych gałęzi. U podstawy pnia wyrastają trzy spore odrosty stanowiące część drzewa.",
    "photos": [
     {
      "id": "a",
@@ -1835,18 +1760,16 @@
     4.18
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "051",
    "name": "Świerk Pospolity (Picea abies)",
-   "name_en": "Norway Spruce (Picea abies)",
    "coordinates": {
     "lat": 54.4841641,
     "lng": 18.4997213
    },
    "description": "Świerk pospolity (Picea abies). Spore drzewo na skraju drogi. Dobry dostęp do światła sprawił, że ma dość dobrze rozwiniętą koronę. Główny pień rozwidla się na dwa pionowo pnące się ku górze konary. Nadaje to temu świerkowi dość nietypowy charakter.",
-   "description_en": "Norway spruce (Picea abies). A sizeable tree at the edge of a road. Good access to light has given it a fairly well-developed crown. The main trunk forks into two limbs climbing vertically upwards, which gives this spruce a rather unusual character.",
    "photos": [
     {
      "id": "a",
@@ -1875,12 +1798,11 @@
     2.68
    ],
    "title": "Świerk Pospolity (Picea abies)",
-   "title_en": "Norway Spruce (Picea abies)"
+   "forest_district": "Witomino"
   },
   {
    "id": "052",
    "name": "Grupa: Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "Group: European Beech (Fagus sylvatica)",
    "circumference_m": 3.41,
    "measurements_m": [
     3.41,
@@ -1892,7 +1814,6 @@
     "lng": 18.600328777265403
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Rośnie przy wejściu do lasu po wschodniej stronie ul. Jaśkowej Doliny. Jeden z największych buków w okolicy. Pień nieco powyginany z kilkoma naroślami. Dobrze rozwinięta korona. Sąsiaduje z dwoma innymi nieco mniejszymi bukami o obwodach ponad 300 cm.",
-   "description_en": "European beech (Fagus sylvatica). It grows at the forest entrance on the eastern side of Jaśkowa Dolina Street. One of the largest beeches in the area. Slightly crooked trunk with several burls. Well-developed crown. Two other, slightly smaller beeches with circumferences of over 300 cm grow beside it.",
    "photos": [
     {
      "id": "a",
@@ -1917,18 +1838,16 @@
    ],
    "group": true,
    "title": "Grupa: Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "Group: European Beech (Fagus sylvatica)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "053",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4872254,
     "lng": 18.4948735
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Jeden z szeregu dużych buków rosnących wzdłuż Szlaku Zagórskiej Strugi – czarnego. Drzewo rośnie na stromej skarpie. Sąsiaduje z innym sporym bukiem obrośniętym bluszczem.",
-   "description_en": "European beech (Fagus sylvatica). One of a row of large beeches growing along the Zagórska Struga trail (the black trail). The tree grows on a steep slope. Next to it stands another sizeable beech overgrown with ivy.",
    "photos": [
     {
      "id": "a",
@@ -1962,18 +1881,16 @@
     3.2
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Witomino"
   },
   {
    "id": "054",
    "name": "Dąb Bezszypułkowy (Quercus petraea)",
-   "name_en": "Sessile Oak (Quercus petraea)",
    "coordinates": {
     "lat": 54.4792232,
     "lng": 18.4587298
    },
    "description": "Dąb bezszypułkowy (Quercus petraea). Jeden z szeregu dużych drzew rosnących wzdłuż Szlaku Zagórskiej Strugi – czarnego. Spory, stosunkowo prosty dąb. Pień wydaje się być w dobrym stanie – bez obdrapań i dziupli.",
-   "description_en": "Sessile oak (Quercus petraea). One of a row of large trees growing along the Zagórska Struga trail (the black trail). A sizeable, relatively straight oak. The trunk seems to be in good condition – no scrapes or hollows.",
    "photos": [
     {
      "id": "a",
@@ -2002,18 +1919,16 @@
     3.06
    ],
    "title": "Dąb Bezszypułkowy (Quercus petraea)",
-   "title_en": "Sessile Oak (Quercus petraea)"
+   "forest_district": "Witomino"
   },
   {
    "id": "055",
    "name": "Modrzew Europejski (Larix decidua)",
-   "name_en": "European Larch (Larix decidua)",
    "coordinates": {
     "lat": 54.4846352,
     "lng": 18.4599817
    },
    "description": "Modrzew europejski (Larix decidua). Obszar leśny, na którym rośnie ten osobnik ma ponadprzeciętną liczbę starszych modrzewi.",
-   "description_en": "European larch (Larix decidua). The forest area where this tree grows has an above-average number of older larches.",
    "photos": [
     {
      "id": "a",
@@ -2027,18 +1942,16 @@
     2.78
    ],
    "title": "Modrzew Europejski (Larix decidua)",
-   "title_en": "European Larch (Larix decidua)"
+   "forest_district": "Witomino"
   },
   {
    "id": "056",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4861698,
     "lng": 18.4579305
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Spory, nisko rozgałęziony osobnik. U nasady dwóch głównych konarów dochodzi do ich zrastania, przez co pień ma specyficzne wybrzuszenia z tym związane. Drzewo zdrowe o dość nietypowym dla lasów podwójnym kroju.",
-   "description_en": "European beech (Fagus sylvatica). A sizeable, low-branching specimen. At the base of its two main limbs they are fusing together, which gives the trunk distinctive bulges. A healthy tree with a double form that is unusual for forests.",
    "photos": [
     {
      "id": "a",
@@ -2062,18 +1975,16 @@
     3.45
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Witomino"
   },
   {
    "id": "057",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4862066,
     "lng": 18.4580589
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Spory, wysoko rozgałęziony osobnik. Niestety, odsłonięte części korzenia zostały uszkodzone przez prace leśne, co niewątpliwie osłabia tego osobnika.",
-   "description_en": "European beech (Fagus sylvatica). A sizeable, high-branching specimen. Unfortunately, exposed parts of the roots have been damaged by forestry work, which undoubtedly weakens the tree.",
    "photos": [
     {
      "id": "a",
@@ -2107,18 +2018,16 @@
     2.99
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Witomino"
   },
   {
    "id": "058",
    "name": "Modrzew Europejski (Larix decidua)",
-   "name_en": "European Larch (Larix decidua)",
    "coordinates": {
     "lat": 54.4885088,
     "lng": 18.4609493
    },
    "description": "Modrzew europejski (Larix decidua). Obszar leśny, na którym rośnie ten osobnik ma ponadprzeciętną liczbę starszych modrzewi.",
-   "description_en": "European larch (Larix decidua). The forest area where this tree grows has an above-average number of older larches.",
    "photos": [
     {
      "id": "a",
@@ -2137,18 +2046,16 @@
     2.58
    ],
    "title": "Modrzew Europejski (Larix decidua)",
-   "title_en": "European Larch (Larix decidua)"
+   "forest_district": "Witomino"
   },
   {
    "id": "059",
    "name": "Dąb Szypułkowy (Quercus robur)",
-   "name_en": "Pedunculate Oak (Quercus robur)",
    "coordinates": {
     "lat": 54.4905046,
     "lng": 18.4686697
    },
    "description": "Dąb szypułkowy (Quercus robur). Niewysoki, nisko rozgałęziony osobnik. Biorąc pod uwagę eliptyczny kształt pnia, bardzo możliwe, że są to dwa zrośnięte osobniki. Rośnie nieopodal przydrożnej ławeczki.",
-   "description_en": "Pedunculate oak (Quercus robur). A low, low-branching specimen. Given the elliptical shape of the trunk, it is quite possible that these are two fused trees. It grows near a roadside bench.",
    "photos": [
     {
      "id": "a",
@@ -2162,18 +2069,16 @@
     3.2
    ],
    "title": "Dąb Szypułkowy (Quercus robur)",
-   "title_en": "Pedunculate Oak (Quercus robur)"
+   "forest_district": "Witomino"
   },
   {
    "id": "060",
    "name": "Jabłoń Domowa (Malus domestica)",
-   "name_en": "Domestic Apple (Malus domestica)",
    "coordinates": {
     "lat": 54.4875378,
     "lng": 18.4873808
    },
    "description": "Jabłoń domowa (Malus domestica). Spora, stara, wielokonarowa jabłoń. Krój drzewa wskazywałby raczej na samosiejkę aniżeli stare drzewo sadowe. Ze względu na spore zacienienie i zagłuszenie nie wydaje się być w najlepszym zdrowiu.",
-   "description_en": "Domestic apple tree (Malus domestica). A sizeable, old, multi-limbed apple tree. Its shape suggests a self-sown tree rather than an old orchard tree. Because of heavy shading and being crowded out, it does not seem to be in the best of health.",
    "photos": [
     {
      "id": "a",
@@ -2187,18 +2092,16 @@
     1.64
    ],
    "title": "Jabłoń Domowa (Malus domestica)",
-   "title_en": "Domestic Apple (Malus domestica)"
+   "forest_district": "Witomino"
   },
   {
    "id": "061",
    "name": "Lipa (Tilia sp.)",
-   "name_en": "Linden (Tilia sp.)",
    "coordinates": {
     "lat": 54.4873354,
     "lng": 18.4894913
    },
    "description": "Lipa (Tilia sp.) (Tilia cordata lub T. platyphyllos). Spore drzewo, mocno zaatakowane przez jemiołę. Rośnie na skraju lasu niedaleko rozstaju dróg. Z tego powodu jest stosunkowo nisko i bujnie rozgałęzione. Z nasady pnia wyrasta dużo różnej wielkości odrostów.",
-   "description_en": "Linden (Tilia sp.) (Tilia cordata or T. platyphyllos). A sizeable tree, heavily infested with mistletoe. It grows at the edge of the forest near a crossroads. For this reason it branches relatively low and abundantly. Many suckers of various sizes grow from the base of the trunk.",
    "photos": [
     {
      "id": "a",
@@ -2222,18 +2125,16 @@
     3.0
    ],
    "title": "Lipa (Tilia sp.)",
-   "title_en": "Linden (Tilia sp.)"
+   "forest_district": "Witomino"
   },
   {
    "id": "062",
    "name": "Brzoza Brodawkowata (Betula pendula)",
-   "name_en": "Silver Birch (Betula pendula)",
    "coordinates": {
     "lat": 54.4872361,
     "lng": 18.4892151
    },
    "description": "Brzoza brodawkowata (Betula pendula). Spora brzoza o dość ciekawym kroju. U samej nasady pnia wyrasta z niej mniejsze drzewko.",
-   "description_en": "Silver birch (Betula pendula). A sizeable birch of rather interesting shape. A smaller tree grows out of it at the very base of the trunk.",
    "photos": [
     {
      "id": "a",
@@ -2257,12 +2158,11 @@
     1.85
    ],
    "title": "Brzoza Brodawkowata (Betula pendula)",
-   "title_en": "Silver Birch (Betula pendula)"
+   "forest_district": "Witomino"
   },
   {
    "id": "063",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "circumference_m": 3.27,
    "measurements_m": [
     3.27
@@ -2272,7 +2172,6 @@
     "lng": 18.465849444674923
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Dwa ściśle przylegające do siebie i zrastające się buki. Stanowią już praktycznie jedno duże drzewo. Rozgałęzia się ono już dość nisko na wiele konarów tworzących podstawę rozłożystej korony.",
-   "description_en": "European beech (Fagus sylvatica). Two beeches pressed closely together and fusing. They are already practically one large tree. It branches fairly low into many limbs that form the base of a spreading crown.",
    "photos": [
     {
      "id": "a",
@@ -2308,22 +2207,25 @@
      "id": "g",
      "thumbnail": "web_thumbnail_400/063g Podwójny Buk 327cm_thumb.webp",
      "image": "web_body_1200/063g Podwójny Buk 327cm_body.webp"
+    },
+    {
+     "id": "h",
+     "thumbnail": "web_thumbnail_400/063h Podwójny Buk 327cm_thumb.webp",
+     "image": "web_body_1200/063h Podwójny Buk 327cm_body.webp"
     }
    ],
    "group": false,
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "064",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4022564,
     "lng": 18.560411
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Duże pojedyncze drzewo rosnące przy dróżce na skraju lasu. Ma u swojej podstawy sporą dziuplę. Korona zwłaszcza od strony krawędzi lasu bardzo bujna, zbudowana z wielu poskręcanych gałęzi.",
-   "description_en": "European beech (Fagus sylvatica). A large solitary tree growing by a path at the edge of the forest. It has a sizeable hollow at its base. The crown, especially on the side facing the forest edge, is very lush, made up of many twisted branches.",
    "photos": [
     {
      "id": "a",
@@ -2352,18 +2254,16 @@
     3.4
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "065",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.4011395,
     "lng": 18.5600613
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Bardzo duży osobnik rosnący na dnie dolinki przy jednym ze szlaków. Zdecydowanie wyróżnia się spośród otaczających go drzew. Jest to buk o pojedynczym pniu oraz bujnej koronie. Jeden z najdostojniejszych okazów w okolicznych lasach.",
-   "description_en": "European beech (Fagus sylvatica). A very large specimen growing at the bottom of a small valley beside one of the trails. It clearly stands out from the trees around it. A beech with a single trunk and a lush crown. One of the most majestic specimens in the surrounding forests.",
    "photos": [
     {
      "id": "a",
@@ -2387,18 +2287,16 @@
     3.59
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "066",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3976424,
     "lng": 18.5609145
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Potrójny zroślak. Niestety mocno połamany. Tylko jeden konar zachował sporą część korony. Widać u niego fenomen samozaszczepiania (inoskulacji) nie tylko u podstawy, ale także wśród gałęzi. Wyraźne ślady bytowania na nim wielu gatunków zwierząt. Bardzo dobry kandydat na drzewo świadek.",
-   "description_en": "European beech (Fagus sylvatica). A triple fused tree. Unfortunately it is badly broken. Only one limb has kept a large part of its crown. Self-grafting (inosculation) is visible not only at the base but also among the branches. Clear traces of many animal species living on it. A very good candidate for a witness tree.",
    "photos": [
     {
      "id": "a",
@@ -2427,18 +2325,16 @@
     4.55
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "067",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3975871,
     "lng": 18.5616813
    },
-   "description": "Buk zwyczajny (Fagus sylvatica). Duży osobnik rosnący na zboczu skarpy. Ma częściowo odsłonięty system korzeniowy nadający mu dodatkowych walorów estetycznych. Samo drzewo ma pojedynczy, nieco nachylony pień rozgałęziający się dość wysoko. Buk wydaje się być zupełnie zdrowy, bez uszkodzeń lub dziupli.",
-   "description_en": "European beech (Fagus sylvatica). A large specimen growing on the side of a slope. Its partly exposed root system gives it additional aesthetic value. The tree itself has a single, slightly leaning trunk that branches fairly high up. The beech seems perfectly healthy, with no damage or hollows.",
+   "description": "Buk zwyczajny (Fagus sylvatica). Duży osobnik rosnący na zboczu skarpy. Ma częściowo odsłonięty system korzeniowy nadający mu dodatkowych walorów estetycznych. Samo drzewo ma pojedynczy nieco nachylony pień rozgałęziający się dość wysoko. Buk wydaje się być zupełnie zdrowy bez uszkodzeń lub dziupli.",
    "photos": [
     {
      "id": "a",
@@ -2467,18 +2363,16 @@
     3.3
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "068",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3966684,
     "lng": 18.5626868
    },
-   "description": "Buk zwyczajny (Fagus sylvatica). Spore drzewo rosnące na skarpie przy wejściu do lasu. Osobnik mocno nietypowy, gdyż ma silnie odsłoniętą sporą część korzenia. Pień rozwidla się na wysokości około trzech metrów.",
-   "description_en": "European beech (Fagus sylvatica). A sizeable tree growing on a slope at the forest entrance. A very unusual specimen, as a large part of its root is strongly exposed. The trunk forks at a height of about three metres.",
+   "description": "Buk zwyczajny (Fagus sylvatica). Spore drzewo rosnące na skarpie przy wejściu do lasu. Osobnik mocno nietypowy gdyż ma silnie odsłoniętą sporą część korzenia. Pień rozwidla się na wysokości około trzech metrów.",
    "photos": [
     {
      "id": "a",
@@ -2507,18 +2401,16 @@
     3.1
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "069",
    "name": "Dąb Bezszypułkowy (Quercus petraea)",
-   "name_en": "Sessile Oak (Quercus petraea)",
    "coordinates": {
     "lat": 54.3967192,
     "lng": 18.5625359
    },
    "description": "Dąb bezszypułkowy (Quercus petraea). Jeden z największych osobników tego gatunku w okolicznych lasach. Drzewo straciło przez lata dużą część konarów tworzących jego koronę. W dobrym stanie pozostał tylko jeden. Dąb ten ma dużą wartość zarówno obecnie, jak i potencjalną w przyszłości jako drzewo biocenotyczne.",
-   "description_en": "Sessile oak (Quercus petraea). One of the largest specimens of its species in the surrounding forests. Over the years the tree has lost a large part of the limbs that made up its crown. Only one remains in good condition. This oak has great value, both now and potentially in the future, as a biodiversity tree.",
    "photos": [
     {
      "id": "a",
@@ -2542,18 +2434,16 @@
     4.02
    ],
    "title": "Dąb Bezszypułkowy (Quercus petraea)",
-   "title_en": "Sessile Oak (Quercus petraea)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "070",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3957475,
     "lng": 18.5599379
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Sporych rozmiarów drzewo rosnące na skraju lasu. Stan ogólny wydaje się być bardzo dobry – brak dziupli oraz widocznych uszkodzeń.",
-   "description_en": "European beech (Fagus sylvatica). A sizeable tree growing at the forest edge. Its overall condition seems very good – no hollows or visible damage.",
    "photos": [
     {
      "id": "a",
@@ -2572,18 +2462,16 @@
     2.9
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "071",
    "name": "Klon Zwyczajny (Acer platanoides)",
-   "name_en": "Norway Maple (Acer platanoides)",
    "coordinates": {
     "lat": 54.3951885,
     "lng": 18.5586819
    },
    "description": "Klon zwyczajny (Acer platanoides). Drzewo utworzone ze zrośnięcia dwóch klonów. Dolna część pnia, zupełnie scalona, szybko rozgałęzia się na dwa konary.",
-   "description_en": "Norway maple (Acer platanoides). A tree formed by two maples fusing together. The lower part of the trunk, completely merged, quickly divides into two limbs.",
    "photos": [
     {
      "id": "a",
@@ -2607,18 +2495,16 @@
     2.76
    ],
    "title": "Klon Zwyczajny (Acer platanoides)",
-   "title_en": "Norway Maple (Acer platanoides)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "072",
    "name": "Kasztanowiec Pospolity (Aesculus hippocastanum)",
-   "name_en": "Horse Chestnut (Aesculus hippocastanum)",
    "coordinates": {
     "lat": 54.3953794,
     "lng": 18.5564011
    },
-   "description": "Kasztanowiec pospolity (Aesculus hippocastanum). Spore drzewo rosnące obok ruin domku Lecha ogrodnika w Zajęczej Dolinie. Jak u większości kasztanowców zaatakowany szrotówkiem kasztanowcowiaczkiem (szczególnie w dolnych partiach korony). Osobnik o znaczeniu historycznym.",
-   "description_en": "Horse chestnut (Aesculus hippocastanum). A sizeable tree growing next to the ruins of Lech the gardener's cottage in Zajęcza Dolina. As with most horse chestnuts, it is infested by the horse-chestnut leaf miner (especially in the lower parts of the crown). A specimen of historical significance.",
+   "description": "Kasztanowiec pospolity (Aesculus hippocastanum). Spore drzewo rosnące obok ruin domku Lecha ogrodnika w Zajęczej Dolinie. Jak u większości kasztanowców zaatakowany Szrotówkiem kasztanowcowiaczkiem (szczególnie w dolnych partiach korony). Osobnik o znaczeniu historycznym.",
    "photos": [
     {
      "id": "a",
@@ -2662,18 +2548,16 @@
     3.0
    ],
    "title": "Kasztanowiec Pospolity (Aesculus hippocastanum)",
-   "title_en": "Horse Chestnut (Aesculus hippocastanum)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "073",
    "name": "Brzoza Brodawkowata (Betula pendula)",
-   "name_en": "Silver Birch (Betula pendula)",
    "coordinates": {
     "lat": 54.3948611,
     "lng": 18.5567367
    },
-   "description": "Brzoza brodawkowata (Betula pendula). Spore drzewo o strzelistej budowie. Ma dość nietypowy, nieco trójkątny kształt pnia z lekko wklęsłym bokiem.",
-   "description_en": "Silver birch (Betula pendula). A sizeable, slender tree. It has a rather unusual, slightly triangular trunk shape with one slightly concave side.",
+   "description": "Brzoza brodawkowata (Betula pendula). Spore drzewo o strzelistej budowie. Ma dość nietypowy nieco trójkątny kształt pnia z lekko wklęsłym bokiem.",
    "photos": [
     {
      "id": "a",
@@ -2697,18 +2581,16 @@
     2.1
    ],
    "title": "Brzoza Brodawkowata (Betula pendula)",
-   "title_en": "Silver Birch (Betula pendula)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "074",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3929056,
     "lng": 18.5601391
    },
-   "description": "Buk zwyczajny (Fagus sylvatica). Bardzo duży buk będący najprawdopodobniej potrójnym zroślakiem. Ma silnie rozbudowaną koronę. Na głównym pniu widać wgłębienia w miejscach, gdzie zrost nie jest jeszcze zupełny. Osobnik ten jest jednym z najgrubszych okolicznych buków.",
-   "description_en": "European beech (Fagus sylvatica). A very large beech, most likely a triple fused tree. It has a heavily developed crown. On the main trunk, hollows are visible where the fusion is not yet complete. This tree is one of the thickest beeches in the area.",
+   "description": "Buk zwyczajny (Fagus sylvatica). Bardzo duży buk będący najprawdopodobniej potrójnym zroślakiem. Ma silnie rozbudowaną koronę. Na głównym pniu widać wgłębienia w miejscach gdzie zrost nie jest jeszcze zupełny. Osobnik ten jest jednym z najgrubszych okolicznych buków.",
    "photos": [
     {
      "id": "a",
@@ -2757,18 +2639,16 @@
     4.05
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "075",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3928103,
     "lng": 18.5605025
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Duże pojedyncze drzewo. Ma dość nietypowy pień o skręconej budowie. Osobnik posiada także wielką wypróchniałą dziuplę będącą pozostałością po odłamanym konarze.",
-   "description_en": "European beech (Fagus sylvatica). A large solitary tree. It has a rather unusual, twisted trunk. The tree also has a huge rotten hollow left by a broken-off limb.",
    "photos": [
     {
      "id": "a",
@@ -2812,18 +2692,16 @@
     3.33
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "076",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3892912,
     "lng": 18.5629363
    },
-   "description": "Buk zwyczajny (Fagus sylvatica). Spory osobnik na skraju lasu Doliny Zielonej. Rośnie w miejscu, gdzie ma dobry dostęp do światła, przez co jest nisko i bujnie rozgałęziony.",
-   "description_en": "European beech (Fagus sylvatica). A sizeable specimen at the forest edge in Dolina Zielona. It grows where it has good access to light, so it branches low and abundantly.",
+   "description": "Buk zwyczajny (Fagus sylvatica). Spory osobnik na skraju lasu Doliny Zielonej. Rośnie w miejscu gdzie ma dobry dostęp do światła przez co jest nisko i bujnie rozgałęziony.",
    "photos": [
     {
      "id": "a",
@@ -2852,18 +2730,16 @@
     3.2
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "077",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3893468,
     "lng": 18.5628813
    },
-   "description": "Buk zwyczajny (Fagus sylvatica). Jeden z szeregu większych buków rosnących przy szlaku w Dolinie Zielonej. Drzewo pojedyncze o kolumnowym pniu, zdrowe, bez wyraźnych uszkodzeń oraz bujnej koronie.",
-   "description_en": "European beech (Fagus sylvatica). One of a row of larger beeches growing by the trail in Dolina Zielona. A solitary tree with a columnar trunk, healthy with no clear damage, and a lush crown.",
+   "description": "Buk zwyczajny (Fagus sylvatica). Jeden z szeregu większych buków rosnących przy szlaku w Dolinie Zielonej. Drzewo pojedyncze o kolumnowym pniu, zdrowe bez wyraźnych uszkodzeń oraz bujnej koronie.",
    "photos": [
     {
      "id": "a",
@@ -2892,18 +2768,16 @@
     3.1
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "078",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3898134,
     "lng": 18.562151
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Jeden z szeregu większych buków rosnących przy szlaku w Dolinie Zielonej. Osobnik ten rośnie nieco głębiej w lesie, przez co jego budowa jest bardzo strzelista. Pień w dużej części jednolity zaczyna się rozgałęziać dość wysoko.",
-   "description_en": "European beech (Fagus sylvatica). One of a row of larger beeches growing by the trail in Dolina Zielona. This tree grows somewhat deeper in the forest, so its build is very tall and slender. The trunk, largely uniform, begins to branch fairly high up.",
    "photos": [
     {
      "id": "a",
@@ -2927,18 +2801,16 @@
     3.08
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "079",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3898892,
     "lng": 18.5615368
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Jeden z szeregu większych buków rosnących przy szlaku w Dolinie Zielonej. Osobnik ten szybko rozwidla się na dwa główne, równolegle idące ku górze konary. W kilku punktach zaobserwować można ich ponowne zrastanie. Możliwe, że drzewo to jest osobnikiem powstałym w wyniku zrośnięcia się (inoskulacji) dwóch buków. Osobnik ten, mimo że rośnie w lesie, ma sporo przestrzeni, przez co jego korona jest dość silnie rozwinięta.",
-   "description_en": "European beech (Fagus sylvatica). One of a row of larger beeches growing by the trail in Dolina Zielona. This tree quickly forks into two main limbs running upwards in parallel. In several places they can be seen fusing together again. The tree may have formed from two beeches fusing together (inosculation). Although it grows in the forest, it has plenty of space, so its crown is quite strongly developed.",
    "photos": [
     {
      "id": "a",
@@ -2962,18 +2834,16 @@
     3.28
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "080",
    "name": "Brzoza Brodawkowata (Betula pendula)",
-   "name_en": "Silver Birch (Betula pendula)",
    "coordinates": {
     "lat": 54.3887717,
     "lng": 18.5625027
    },
    "description": "Brzoza brodawkowata (Betula pendula). Drzewo o kroju typowo leśnym – wysoka o palowym pniu bez rozgałęzień. Jest to dość duży osobnik, zwłaszcza jak na brzozę rosnącą w środku lasu.",
-   "description_en": "Silver birch (Betula pendula). A tree of typical forest form – tall, with a pole-like trunk and no branching. It is quite a large specimen, especially for a birch growing in the middle of a forest.",
    "photos": [
     {
      "id": "a",
@@ -2992,18 +2862,16 @@
     2.1
    ],
    "title": "Brzoza Brodawkowata (Betula pendula)",
-   "title_en": "Silver Birch (Betula pendula)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "081",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.3856679,
     "lng": 18.5526892
    },
-   "description": "Sosna zwyczajna (Pinus sylvestris). Duże i ciekawe drzewo. Nosi wyraźne ślady próby ścięcia go siekierką sprzed wielu lat. Niektóre już prawie zarosły, jednak główna rana pomimo powolnego zabliźniania jest nadal silnie odsłonięta. Mimo to drzewo zdaje się radzić sobie dobrze. Ma ono też dość ciekawy, jak na sosnę, kształt. Dość nisko rozwidla się na dwa konary, z których każdy tworzy osobną część niemałej korony.",
-   "description_en": "Scots pine (Pinus sylvestris). A large and interesting tree. It bears clear marks of an attempt to fell it with an axe many years ago. Some have almost healed over, but the main wound, despite slow healing, is still strongly exposed. Even so, the tree seems to be coping well. It also has a rather interesting shape for a pine. It forks fairly low into two limbs, each forming a separate part of a sizeable crown.",
+   "description": "Sosna zwyczajna (Pinus sylvestris). Duże i ciekawe drzewo. Nosi wyraźne ślady próby ścięcia go siekierką sprzed wielu lat. Niektóre już prawie zarosły, jednak główna rana pomimo powolnego zabliźniania jest nadal silnie odsłonięta. Mimo to drzewo zdaje się radzić sobie dobrze. Ma ono też dość ciekawy jak na sosnę kształt. Dość nisko rozwidla się na dwa konary, z których każdy tworzy osobną część niemałej korony.",
    "photos": [
     {
      "id": "a",
@@ -3057,18 +2925,16 @@
     3.0
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "082",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.3854537,
     "lng": 18.5520046
    },
-   "description": "Sosna zwyczajna (Pinus sylvestris). Duże drzewo o typowo leśnym kroju – prosty, nierozgałęziony nisko pień i wysoko usytuowana korona. Jest to jedna z sosen, które nie straciły istotnych gałęzi na skutek obciążenia zamarzniętym śniegiem w zimie 2025/26.",
-   "description_en": "Scots pine (Pinus sylvestris). A large tree of typical forest form – a straight trunk without branches low down and a high-set crown. It is one of the pines that did not lose any significant branches to the weight of frozen snow in winter 2025/26.",
+   "description": "Sosna zwyczajna (Pinus sylvestris). Duże drzewo o typowo leśnym kroju – prosty nierozgałęziony nisko pień i wysoko usytuowana korona. Jest to jedna z sosen, które nie straciły istotnych gałęzi na skutek obciążenia zamarzniętym śniegiem w zimie 2025/26.",
    "photos": [
     {
      "id": "a",
@@ -3087,18 +2953,16 @@
     3.05
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "083",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.3837434,
     "lng": 18.549947
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Imponujących rozmiarów osobnik powstały na skutek ścisłego zrośnięcia się pni dwóch drzew (inoskulacja). Widoczna na nim już dość mocno wytarta litera „E” wskazująca na drzewo biocenotyczne. Główny pień na wysokości 2–3 metrów rozdziela się na dwa konary rozgałęziające się dalej w rozłożystą koronę.",
-   "description_en": "European beech (Fagus sylvatica). A specimen of impressive size formed by the close fusion of the trunks of two trees (inosculation). A rather worn letter “E”, marking a biodiversity tree, is visible on it. At a height of 2–3 metres the main trunk divides into two limbs that branch further into a spreading crown.",
    "photos": [
     {
      "id": "a",
@@ -3132,18 +2996,16 @@
     3.93
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "084",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.434754,
     "lng": 18.534415
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w Dolinie Świemirowskiej na skraju lasu, obok ogródków działkowych. Jest pojedynczym dużym bukiem. Sąsiaduje z nim podobnych rozmiarów, rozdwojony osobnik. Korona wystawiona na dużo słońca, zbudowana jest z wielu pięter gałęzi.",
-   "description_en": "European beech (Fagus sylvatica). It grows in Dolina Świemirowska at the forest edge, next to allotment gardens. A single large beech. Beside it stands a forked specimen of similar size. The crown, exposed to plenty of sun, is built of many tiers of branches.",
    "photos": [
     {
      "id": "a",
@@ -3172,18 +3034,16 @@
     3.15
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Sopot"
   },
   {
    "id": "085",
    "name": "Modrzew Europejski (Larix decidua)",
-   "name_en": "European Larch (Larix decidua)",
    "coordinates": {
     "lat": 54.37101,
     "lng": 18.5410997
    },
    "description": "Modrzew europejski (Larix decidua). Drugi pod względem wielkości z grupy dużych modrzewi rosnących na stosunkowo niewielkim obszarze. Jego największy sąsiad jest pomnikiem przyrody. W okolicy znajduje się jeszcze kilka drzew tego gatunku przekraczających 300 cm obwodu oraz kilka nieco mniejszych – między 250–300 cm. Ten osobnik jest spośród nich najlepszym kandydatem na kolejny pomnik, choć uznanie tych drzew za pomnik grupowy mogłoby być najlepszym rozwiązaniem.",
-   "description_en": "European larch (Larix decidua). The second largest of a group of large larches growing in a relatively small area. Its largest neighbour is a natural monument. A few more trees of this species with circumferences over 300 cm grow in the area, as well as a few somewhat smaller ones – between 250 and 300 cm. This tree is the best candidate among them for the next monument, although recognising these trees as a group monument might be the best solution.",
    "photos": [
     {
      "id": "a",
@@ -3202,18 +3062,16 @@
     3.37
    ],
    "title": "Modrzew Europejski (Larix decidua)",
-   "title_en": "European Larch (Larix decidua)"
+   "forest_district": "Matemblewo"
   },
   {
    "id": "086",
    "name": "Wierzba (Salix sp.)",
-   "name_en": "Willow (Salix sp.)",
    "coordinates": {
     "lat": 54.4816933,
     "lng": 18.5329408
    },
-   "description": "Wierzba (Salix sp.). Najprawdopodobniej wierzba biała (Salix alba) – wymaga dokładniejszego oznaczenia. Wielkie, stare, powykręcane drzewo rosnące przy ul. Wielkopolskiej. Ze względu na nietypowy kształt trudno dokonać jednoznacznego pomiaru obwodu pnia w pierśnicy. Jest on jednak bardzo imponujący niezależnie od tego, jak do niego podejść. Drzewo o wartości biocenotycznej, jak i estetycznej. Jedna z najstarszych i najbardziej imponujących wierzb w Trójmieście.",
-   "description_en": "Willow (Salix sp.). Most likely white willow (Salix alba) – requires more precise identification. A huge, old, twisted tree growing by Wielkopolska Street. Because of its unusual shape it is hard to take an unambiguous measurement of the trunk circumference at breast height. It is nevertheless very impressive however you approach it. A tree of both biodiversity and aesthetic value. One of the oldest and most impressive willows in the Tricity.",
+   "description": "Wierzba (Salix sp.). Najprawdopodobniej wierzba biała (Salix alba) – wymaga dokładniejszego oznaczenia. Wielkie, stare, powykręcane drzewo rosnące przy ul. Wielkopolskiej. Ze względu na nietypowy kształt trudno dokonać jednoznacznego pomiaru obwodu pnia w pierśnicy. Jest on jednak bardzo imponujący niezależnie od tego, jak do niego podejść. Drzewo o wartości biocenotycznej jak i estetycznej. Jedna z najstarszych i najbardziej imponujących wierzb w Trójmieście.",
    "photos": [
     {
      "id": "a",
@@ -3237,18 +3095,16 @@
     8.2
    ],
    "title": "Wierzba (Salix sp.)",
-   "title_en": "Willow (Salix sp.)"
+   "forest_district": "Witomino"
   },
   {
    "id": "087",
    "name": "Topola Biała (Populus alba)",
-   "name_en": "White Poplar (Populus alba)",
    "coordinates": {
     "lat": 54.4837925,
     "lng": 18.5420476
    },
    "description": "Topola biała (Populus alba). Nieco grubsza z dwóch rosnących blisko siebie ogromnych przedstawicieli tego gatunku. Pod względem grubości pnia oraz rozłożystości korony jest to jedno z najbardziej imponujących drzew Gdyni.",
-   "description_en": "White poplar (Populus alba). The slightly thicker of two huge specimens of this species growing close together. In trunk thickness and crown spread it is one of the most impressive trees in Gdynia.",
    "photos": [
     {
      "id": "a",
@@ -3267,18 +3123,16 @@
     5.13
    ],
    "title": "Topola Biała (Populus alba)",
-   "title_en": "White Poplar (Populus alba)"
+   "forest_district": "Witomino"
   },
   {
    "id": "088",
    "name": "Topola Biała (Populus alba)",
-   "name_en": "White Poplar (Populus alba)",
    "coordinates": {
     "lat": 54.4836176,
     "lng": 18.5417542
    },
    "description": "Topola biała (Populus alba). Nieco mniejsze z dwóch rosnących blisko siebie ogromnych przedstawicieli tego gatunku. Podobnie jak jej sąsiadka jest jednak drzewem o bardzo imponujących rozmiarach. Do jej pnia przybitych jest kilka desek, będących być może pozostałością po jakiejś konstrukcji.",
-   "description_en": "White poplar (Populus alba). The slightly smaller of two huge specimens of this species growing close together. Like its neighbour, however, it is a tree of very impressive size. Several boards are nailed to its trunk, perhaps the remains of some kind of structure.",
    "photos": [
     {
      "id": "a",
@@ -3297,18 +3151,16 @@
     5.04
    ],
    "title": "Topola Biała (Populus alba)",
-   "title_en": "White Poplar (Populus alba)"
+   "forest_district": "Witomino"
   },
   {
    "id": "089",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.5178779,
     "lng": 18.4258704
    },
    "description": "Sosna zwyczajna (Pinus sylvestris). Jest sporą przedstawicielką swojego gatunku o dość ładnie rozwiniętej koronie. Rośnie bezpośrednio obok tablicy edukacyjnej.",
-   "description_en": "Scots pine (Pinus sylvestris). A sizeable specimen of its species with a fairly well-developed crown. It grows directly next to an information board.",
    "photos": [
     {
      "id": "a",
@@ -3327,18 +3179,16 @@
     2.62
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Cisowa"
   },
   {
    "id": "090",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.520399,
     "lng": 18.4112647
    },
-   "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w lesie obfitującym w dość młode drzewa, na tle których się dość mocno wyróżnia. Ma też dość ładny pokrój – stosunkowo nisko rozgałęziony, o dość bujnej koronie.",
-   "description_en": "European beech (Fagus sylvatica). It grows in a forest full of fairly young trees, among which it stands out quite strongly. It also has a rather nice form – relatively low-branching, with a fairly lush crown.",
+   "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w lesie obfitującym w dość młode drzewa, na tle których się dość mocno wyróżnia. Ma też dość ładny pokrój – stosunkowo nisko rozgałęziony o dość bujnej koronie.",
    "photos": [
     {
      "id": "a",
@@ -3352,18 +3202,16 @@
     2.93
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Cisowa"
   },
   {
    "id": "091",
    "name": "Topola (Populus sp.)",
-   "name_en": "Poplar (Populus sp.)",
    "coordinates": {
     "lat": 54.5329645,
     "lng": 18.4876061
    },
    "description": "Topola (Populus sp.). Najprawdopodobniej topola czarna (Populus nigra) – wymaga dokładniejszego oznaczenia. Duże, nisko rozgałęziające się drzewo o bujnej koronie. Rośnie na wzniesieniu przy chodniku ul. Morskiej. Osobnik o wysokich walorach estetycznych.",
-   "description_en": "Poplar (Populus sp.). Most likely black poplar (Populus nigra) – requires more precise identification. A large, low-branching tree with a lush crown. It grows on a rise by the pavement of Morska Street. A specimen of high aesthetic value.",
    "photos": [
     {
      "id": "b",
@@ -3392,18 +3240,16 @@
     3.8
    ],
    "title": "Topola (Populus sp.)",
-   "title_en": "Poplar (Populus sp.)"
+   "forest_district": "Cisowa"
   },
   {
    "id": "092",
    "name": "Topola (Populus sp.)",
-   "name_en": "Poplar (Populus sp.)",
    "coordinates": {
     "lat": 54.5326672,
     "lng": 18.487707
    },
-   "description": "Topola (Populus sp.). Wymaga dokładniejszego oznaczenia. Duże drzewo o imponującym obwodzie. Główny pień pojedynczy, rozgałęziający się wysoko. Jego korona jest dość mocno przycięta.",
-   "description_en": "Poplar (Populus sp.). Requires more precise identification. A large tree with an impressive circumference. A single main trunk branching high up. Its crown has been quite heavily pruned.",
+   "description": "Topola (Populus sp.). Wymaga dokładniejszego oznaczenia. Duże drzewo o imponującym obwodzie. Główny pień pojedynczy rozgałęziający się wysoko. Jego korona jest dość mocno przycięta.",
    "photos": [
     {
      "id": "a",
@@ -3432,18 +3278,16 @@
     4.23
    ],
    "title": "Topola (Populus sp.)",
-   "title_en": "Poplar (Populus sp.)"
+   "forest_district": "Cisowa"
   },
   {
    "id": "093",
    "name": "Topola (Populus sp.)",
-   "name_en": "Poplar (Populus sp.)",
    "coordinates": {
     "lat": 54.5109048,
     "lng": 18.5326203
    },
-   "description": "Topola (Populus sp.). Wymaga dokładniejszego oznaczenia. Duże drzewo o imponującym obwodzie oraz bardzo ładnej, szerokiej koronie.",
-   "description_en": "Poplar (Populus sp.). Requires more precise identification. A large tree with an impressive circumference and a very beautiful, wide crown.",
+   "description": "Topola (Populus sp.). Wymaga dokładniejszego oznaczenia. Duże drzewo o imponującym obwodzie oraz bardzo ładnej szerokiej koronie.",
    "photos": [
     {
      "id": "a",
@@ -3467,18 +3311,16 @@
     3.9
    ],
    "title": "Topola (Populus sp.)",
-   "title_en": "Poplar (Populus sp.)"
+   "forest_district": "Zwierzyniec"
   },
   {
    "id": "094",
    "name": "Wiąz (Ulmus sp.)",
-   "name_en": "Elm (Ulmus sp.)",
    "coordinates": {
     "lat": 54.4860837,
     "lng": 18.5449185
    },
    "description": "Wiąz (Ulmus sp.). Wymaga dokładniejszego oznaczenia. Duże drzewo rosnące przy Alei Zwycięstwa. Jeden z nielicznych naprawdę imponujących wiązów w Gdyni. Główny pień stosunkowo nisko (3–4 m) rozgałęzia się na trzy duże konary tworzące podstawę dla ładnie rozwiniętej korony.",
-   "description_en": "Elm (Ulmus sp.). Requires more precise identification. A large tree growing beside Aleja Zwycięstwa. One of the few truly impressive elms in Gdynia. The main trunk divides fairly low (3–4 m) into three large limbs forming the base of a nicely developed crown.",
    "photos": [
     {
      "id": "a",
@@ -3507,18 +3349,16 @@
     3.05
    ],
    "title": "Wiąz (Ulmus sp.)",
-   "title_en": "Elm (Ulmus sp.)"
+   "forest_district": "Witomino"
   },
   {
    "id": "095",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.48075570111463,
     "lng": 18.49243513845023
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w dolince, blisko potoku Źródła Marii przy jednym ze szlaków łączących rezerwat Kacze Łęgi z Wielkim Kackiem. Jest największym bukiem przy tym szlaku. Drzewo ma budowę przypominającą wielką kolumnę uwieńczoną bujną i wyjątkowo foremnie ułożoną koroną.",
-   "description_en": "European beech (Fagus sylvatica). It grows in a small valley near the Źródło Marii stream, beside one of the trails linking the Kacze Łęgi nature reserve with Wielki Kack. It is the largest beech along this trail. The tree is built like a huge column crowned with a lush and exceptionally well-formed crown.",
    "photos": [
     {
      "id": "a",
@@ -3547,18 +3387,16 @@
     3.3
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Witomino"
   },
   {
    "id": "096",
    "name": "Sosna Zwyczajna (Pinus sylvestris)",
-   "name_en": "Scots Pine (Pinus sylvestris)",
    "coordinates": {
     "lat": 54.4050015,
     "lng": 18.5340345
    },
    "description": "Sosna zwyczajna (Pinus sylvestris). Rośnie przy drodze prowadzącej do Doliny Czystej Wody. Jest dużym drzewem o ciekawym pokroju. Nisko się rozwidla na dwa duże konary osobno tworzące dwie części korony. Jest to najgrubsza sosna rosnąca bezpośrednio przy tym żółtym szlaku.",
-   "description_en": "Scots pine (Pinus sylvestris). It grows by the road leading to Dolina Czystej Wody. A large tree of interesting habit. It forks low into two large limbs, each forming a separate part of the crown. It is the thickest pine growing directly beside this yellow trail.",
    "photos": [
     {
      "id": "b",
@@ -3587,18 +3425,16 @@
     2.87
    ],
    "title": "Sosna Zwyczajna (Pinus sylvestris)",
-   "title_en": "Scots Pine (Pinus sylvestris)"
+   "forest_district": "Renuszewo"
   },
   {
    "id": "097",
    "name": "Klon Zwyczajny (Acer platanoides)",
-   "name_en": "Norway Maple (Acer platanoides)",
    "coordinates": {
     "lat": 54.4636115,
     "lng": 18.5450811
    },
    "description": "Klon zwyczajny (Acer platanoides). Drzewo to posiada bardzo ciekawą, przypominającą stojącą falę teksturę pnia. Poza tym jest sporym klonem, jednak nie wyróżnia się na tle okolicznych drzew.",
-   "description_en": "Norway maple (Acer platanoides). This tree has a very interesting trunk texture resembling a standing wave. Otherwise it is a sizeable maple, though it does not stand out among the trees around it.",
    "photos": [
     {
      "id": "a",
@@ -3622,18 +3458,16 @@
     2.37
    ],
    "title": "Klon Zwyczajny (Acer platanoides)",
-   "title_en": "Norway Maple (Acer platanoides)"
+   "forest_district": "Sopot"
   },
   {
    "id": "098",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.457375,
     "lng": 18.484042
    },
-   "description": "Buk zwyczajny (Fagus sylvatica). Rośnie blisko kapliczki z figurką Matki Bożej przy Źródle Marii. Jest największym bukiem okolicznego lasu. Wysoki, prosty, zdrowy w kwiecie wieku. Przy tym ma bujną, rozłożystą koronę.",
-   "description_en": "European beech (Fagus sylvatica). It grows near the shrine with a figure of the Virgin Mary at Źródło Marii. It is the largest beech in the surrounding forest. Tall, straight, healthy and in its prime. It also has a lush, spreading crown.",
+   "description": "Buk zwyczajny (Fagus sylvatica). Rośnie blisko kapliczki z figurką Matki Bożej przy Źródle Marii. Jest największym bukiem okolicznego lasu. Wysoki, prosty, zdrowy w kwiecie wieku. Przy tym ma bujną rozłożystą koronę.",
    "photos": [
     {
      "id": "a",
@@ -3657,18 +3491,16 @@
     3.14
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Golebiewo"
   },
   {
    "id": "099",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.435659,
     "lng": 18.537087
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Rośnie blisko zadaszenia turystycznego w Dolinie Świemirowskiej. Bardzo duży osobnik. Jest jednym z niewielu buków przekraczających 350 cm w całym TPK. Pień początkowo prosty, mniej więcej w połowie wysokości rozszczepia się na 5–6 sporych konarów, te zaś tworzą podstawę rozłożystej i wysokiej korony.",
-   "description_en": "European beech (Fagus sylvatica). It grows near the tourist shelter in Dolina Świemirowska. A very large specimen. It is one of the few beeches in the whole Tricity Landscape Park (TPK) with a circumference over 350 cm. The trunk is straight at first, then about halfway up splits into 5–6 sizeable limbs, which form the base of a spreading, tall crown.",
    "photos": [
     {
      "id": "b",
@@ -3692,18 +3524,16 @@
     3.54
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Sopot"
   },
   {
    "id": "100",
    "name": "Buk Zwyczajny (Fagus sylvatica)",
-   "name_en": "European Beech (Fagus sylvatica)",
    "coordinates": {
     "lat": 54.434754,
     "lng": 18.538369
    },
    "description": "Buk zwyczajny (Fagus sylvatica). Rośnie w Dolinie Świemirowskiej na wąskim pasie zieleni między ogródkami działkowymi a ulicą Mikołaja Reja. Duży osobnik pokrojem nieco przypominający zroślaka, jednak najprawdopodobniej nim nie będący. Drzewo nisko się rozwidla z głównego pnia na dwa duże konary. Ma dość dobry dostęp do światła, co powoduje tworzenie się gałęzi na niższych partiach konarów. Największy buk przy ulicy w Dolinie Świemirowskiej, która ma już kilka przyulicznych, pomnikowych dębów.",
-   "description_en": "European beech (Fagus sylvatica). It grows in Dolina Świemirowska on a narrow strip of greenery between allotment gardens and Mikołaja Reja Street. A large specimen whose form somewhat resembles a fused tree, but it most likely is not one. The tree forks low from the main trunk into two large limbs. It has fairly good access to light, which causes branches to form on the lower parts of the limbs. The largest beech by the street in Dolina Świemirowska, which already has several monument oaks beside the road.",
    "photos": [
     {
      "id": "a",
@@ -3737,7 +3567,7 @@
     3.42
    ],
    "title": "Buk Zwyczajny (Fagus sylvatica)",
-   "title_en": "European Beech (Fagus sylvatica)"
+   "forest_district": "Sopot"
   }
  ],
  "data_quality": {
@@ -3823,11 +3653,6 @@
    "052"
   ],
   "name_rule": "name = nazwa gatunku lub rodzaju (Wielkie Litery) + łacińska nazwa w nawiasie; rodzaj bez oznaczonego gatunku: „(Rodzaj sp.)”. Rekordy group=true mają prefiks „Grupa: ”. title = name.",
-  "measurement_rule": "Każdy rekord ma circumference_m (największy obwód, w metrach) oraz measurements_m (lista wszystkich pomiarów, także gdy jest jeden). measurements_note (opcjonalnie) wyjaśnia, czego dotyczą pomiary na liście.",
-  "language_rule": "Pola bez sufiksu (name, title, description) są po polsku; wersje angielskie to name_en, title_en, description_en. Strona wybiera język przełącznikiem PL/EN i w razie braku pola _en pokazuje wersję polską."
- },
- "languages": [
-  "pl",
-  "en"
- ]
+  "measurement_rule": "Każdy rekord ma circumference_m (największy obwód, w metrach) oraz measurements_m (lista wszystkich pomiarów, także gdy jest jeden). measurements_note (opcjonalnie) wyjaśnia, czego dotyczą pomiary na liście."
+ }
 }

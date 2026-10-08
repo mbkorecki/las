@@ -205,6 +205,11 @@
     .analysis-stat-grid{grid-template-columns:1fr 1fr}
     #analysis-body>p{font-size:.96rem}
   }
+  /* ---- mobile header: keep the language switch below the crown ---- */
+  @media(max-width:520px){
+    .brand span{font-size:10px;letter-spacing:.07em;margin-top:.12em}
+    .langs{top:calc(var(--crown-h) + .25rem);font-size:13px}
+  }
   @media(max-width:520px){
     .analysis-stat-grid{grid-template-columns:1fr}
     .analysis-figure{margin-bottom:2.2rem}
@@ -934,7 +939,7 @@ function dataError(what){                 // dane są zawsze czytane z plików �
 const I18N={
  pl:{'nav.map':'Mapa','err.data':'Nie udało się wczytać danych. Strona zawsze czyta teksty i dane z plików, więc musi być uruchomiona przez serwer WWW (na stronie internetowej lub lokalnie, np. python3 -m http.server).','text.notes':'Przypisy','text.back':'wróć do tekstu','text.onlyEn':'Ten tekst jest dostępny tylko po angielsku.','text.onlyPl':'Ten tekst jest dostępny tylko po polsku.','text.error':'Nie udało się wczytać tekstu.','text.empty':'Brak tekstów.','nav.list':'Lista','nav.analysis':'Analiza','nav.text':'Teksty','nav.aria':'Menu główne',
   'list.search':'Szukaj: gatunek, miejsce, opis…','list.searchLabel':'Szukaj drzewa','list.count':'{n} z {N} drzew',
-  'list.showOnMap':'Pokaż na mapie','list.noCoords':'brak współrzędnych',
+  'list.showOnMap':'Pokaż na mapie','list.noCoords':'brak współrzędnych','list.forest':'Leśnictwo',
   'circ':'Obwód','meas':'pomiary','gal.none':'brak zdjęć','gal.prev':'Poprzednie','gal.next':'Następne',
   'popup.link':'Zobacz opis na liście','popup.more':'Opis i zdjęcia na liście →','map.layerMap':'Mapa','map.layerSat':'Satelita',
   'map.zoomIn':'Przybliż','map.zoomOut':'Oddal','tree':'Drzewo',
@@ -942,7 +947,7 @@ const I18N={
   },
  en:{'nav.map':'Map','err.data':'The data could not be loaded. The page always reads its texts and data from files, so it has to be served by a web server (online or locally, e.g. python3 -m http.server).','text.notes':'Notes','text.back':'back to text','text.onlyEn':'This text is only available in English.','text.onlyPl':'This text is only available in Polish.','text.error':'The text could not be loaded.','text.empty':'No texts yet.','nav.list':'List','nav.analysis':'Analysis','nav.text':'Texts','nav.aria':'Main menu',
   'list.search':'Search: species, place, description…','list.searchLabel':'Search trees','list.count':'{n} of {N} trees',
-  'list.showOnMap':'Show on map','list.noCoords':'no coordinates',
+  'list.showOnMap':'Show on map','list.noCoords':'no coordinates','list.forest':'Forest district',
   'circ':'Circumference','meas':'measurements','gal.none':'no photos','gal.prev':'Previous','gal.next':'Next',
   'popup.link':'See the description in the list','popup.more':'Description and photos in the list →','map.layerMap':'Map','map.layerSat':'Satellite',
   'map.zoomIn':'Zoom in','map.zoomOut':'Zoom out','tree':'Tree',
@@ -987,6 +992,15 @@ function circText(r){                  // największy obwód + lista pomiarów
 }
 function hasCoords(r){const c=r.coordinates; return !!c && (Array.isArray(c)?c.length>=2:(c.lat!=null&&c.lng!=null));}
 function latlng(r){const c=r.coordinates; return Array.isArray(c)?[c[0],c[1]]:[c.lat,c.lng];}
+function forestOf(r){
+  return String(
+    pick(r,'lesnictwo') || r.leśnictwo ||
+    pick(r,'forest_district') || r.forestDistrict || r.forest_unit || r.forestUnit ||
+    pick(r,'lesnictwo_orientacyjne') || r.leśnictwo_orientacyjne || r.lesnictwo_orientacyjne ||
+    (r.location && (r.location.leśnictwo || r.location.lesnictwo || r.location.forest_district)) ||
+    ''
+  ).trim();
+}
 function titleOf(r){ return String(pick(r,'title')||pick(r,'name')||(t('tree')+' '+r.id)).trim(); }
 const descOf=r=>pick(r,'description');
 
@@ -1053,11 +1067,13 @@ let filterList=()=>{};
 function buildList(){
   byId('tree-list').innerHTML=TREES.map(r=>{
     const imgs=(r.photos||[]).map(bodySrc);
+    const forest=forestOf(r);
+    const forestText=forest?` · ${t('list.forest')}: ${esc(forest)}`:'';
     const where=hasCoords(r)?` · <a href="#map/${r.id}">${t('list.showOnMap')}</a>`:' · '+t('list.noCoords');
-    return `<article class="tree" id="tree-${r.id}" data-q="${esc((r.id+' '+titleOf(r)+' '+descOf(r)).toLowerCase())}">
+    return `<article class="tree" id="tree-${r.id}" data-q="${esc((r.id+' '+titleOf(r)+' '+forest+' '+descOf(r)).toLowerCase())}">
       <div class="tree-media">${galleryHTML('l-'+r.id,imgs,titleOf(r),'lgallery')}</div>
       <div class="tree-body"><h3><span class="num">${r.id}</span>${latinize(titleOf(r))}</h3>
-        <p class="meta">${circText(r)}${where}</p><p>${latinize(descOf(r))}</p></div></article>`;
+        <p class="meta">${circText(r)}${forestText}${where}</p><p>${latinize(descOf(r))}</p></div></article>`;
   }).join('');
   const f=byId('list-filter'), upd=()=>{
     const q=f.value.trim().toLowerCase(); let n=0;
@@ -1291,26 +1307,23 @@ function speciesFigure(data){
   return '<div class="analysis-figure">'+s+'<p class="analysis-caption">'+AESC(LANG==='en'?'Mean of all measurements by species; line = ±1 SD; right column = number of measurements.':'Średnia ze wszystkich pomiarów danego gatunku; linia = ±1 SD; po prawej liczba pomiarów.')+'</p></div>';
 }
 
-function genusTable(data){
+function forestFigure(data){
   const rows=[...data.rows].sort((a,b)=>a.mean-b.mean);
-  const head=LANG==='en'
-    ?['Genus','Latin','N trees','N measurements','Mean','SD']
-    :['Rodzaj','Łacińska','N drzew','N pomiarów','Średnia','SD'];
-  let h='<div class="analysis-table-wrap"><table class="analysis-table"><thead><tr>'+head.map(x=>'<th>'+AESC(x)+'</th>').join('')+'</tr></thead><tbody>';
-  rows.forEach(r=>{
-    const name=LANG==='en'?(r.genus_en||r.genus_pl):(r.genus_pl||r.genus_en);
-    const b=r.bold||[false,false,false,false];
-    const cell=(v,i,dec)=>{
-      const t=v==null||v===undefined?'—':(typeof v==='number'?ANUM(v,dec):String(v));
-      return b[i]?'<strong>'+t+'</strong>':t;
-    };
-    h+='<tr><td>'+AESC(name)+'</td><td><span class="latin">'+AESC(r.latin)+'</span></td><td>'+cell(r.n_trees,0,0)+'</td><td>'+cell(r.n_measurements,1,0)+'</td><td>'+cell(r.mean,2,3)+' m</td><td>'+cell(r.sd,3,3)+'</td></tr>';
+  const W=1100,H=rows.length*58+90,L=210,R=55,T=35,B=55,max=Math.max(8.5,...rows.map(r=>r.max));
+  const X=v=>L+(v/max)*(W-L-R);
+  let s='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="'+AESC(LANG==='en'?'Forest ranges: measurement ranges, means and medians':'Leśnictwa: zakresy pomiarów, średnie i mediany')+'">';
+  [0,2,4,6,8].forEach(v=>{s+=svgText(X(v),H-B+28,v+' m','text-anchor="middle" fill="var(--bark)" opacity=".58" font-size="14"');s+='<line x1="'+X(v)+'" y1="'+T+'" x2="'+X(v)+'" y2="'+(H-B)+'" stroke="var(--bark)" stroke-opacity=".12"/>';});
+  rows.forEach((r,i)=>{
+    const y=T+25+i*58;
+    s+=svgText(L-12,y+5,r.name,'text-anchor="end" fill="var(--text)" font-size="15"');
+    s+='<line x1="'+X(r.min)+'" y1="'+y+'" x2="'+X(r.max)+'" y2="'+y+'" stroke="var(--bark)" stroke-width="1.5"/>';
+    if(r.sd!==null) s+='<line x1="'+X(Math.max(0,r.mean-r.sd))+'" y1="'+y+'" x2="'+X(Math.min(max,r.mean+r.sd))+'" y2="'+y+'" stroke="var(--leaf-a)" stroke-width="9" stroke-linecap="round" opacity=".72"/>';
+    s+='<line x1="'+X(r.median)+'" y1="'+(y-9)+'" x2="'+X(r.median)+'" y2="'+(y+9)+'" stroke="var(--bark)" stroke-width="2"/>';
+    s+='<circle cx="'+X(r.mean)+'" cy="'+y+'" r="5" fill="var(--bark)"/>';
   });
-  h+='</tbody></table></div>';
-  h+='<p class="analysis-caption">'+AESC(LANG==='en'?
-    'Mean and sample standard deviation of all measurements grouped by genus. Values rounded to three decimal places.':
-    'Średnia i odchylenie standardowe z próby wszystkich pomiarów pogrupowanych według rodzaju. Wartości zaokrąglone do trzech miejsc po przecinku.')+'</p>';
-  return h;
+  s+=svgText(W-R,H-8,LANG==='en'?'circumference':'obwód','text-anchor="end" fill="var(--bark)" opacity=".55" font-size="12"');
+  s+='</svg>';
+  return '<div class="analysis-figure">'+s+'<p class="analysis-caption">'+AESC(LANG==='en'?'Thin line = minimum–maximum; thick line = mean ±1 SD; dot = mean; vertical tick = median.':'Cienka linia = minimum–maksimum; gruby słupek = średnia ±1 SD; kropka = średnia; pionowa kreska = mediana.')+'</p></div>';
 }
 
 function thresholdTable(data, speciesData){
@@ -1324,13 +1337,14 @@ function thresholdTable(data, speciesData){
     const v=r.values[5];
     const threshold=(v&&v.inside!=null)?v.inside:(v&&v.value!=null?v.value:null);
     if(threshold==null) return;
-    rows.push({key,mean:sp.mean,threshold,label:sourceName});
+    rows.push({key,mean:sp.mean,n:sp.n_measurements,threshold,label:sourceName});
   });
   rows.sort((a,b)=>b.threshold-a.threshold);
-  const head=LANG==='en'?['Species','TPK — in forests','Our mean']:['Gatunek','TPK — w lasach','Nasza średnia'];
+  const head=LANG==='en'?['Species','TPK — in forests','Our mean','N measurements']:['Gatunek','TPK — w lasach','Nasza średnia','N pomiarów'];
   let h='<div class="analysis-table-wrap"><table class="analysis-table"><thead><tr>'+head.map(x=>'<th>'+AESC(x)+'</th>').join('')+'</tr></thead><tbody>';
   rows.forEach(r=>{
-    h+='<tr><td><span class="latin">'+AESC(r.key)+'</span></td><td>'+ANUM(r.threshold/100,2)+' m</td><td>'+ANUM(r.mean,3)+' m</td></tr>';
+    const display=r.key;
+    h+='<tr><td><span class="latin">'+AESC(display)+'</span></td><td>'+ANUM(r.threshold/100,2)+' m</td><td>'+ANUM(r.mean,3)+' m</td><td>'+r.n+'</td></tr>';
   });
   h+='</tbody></table></div>';
   h+='<p class="analysis-caption">'+AESC(LANG==='en'?
@@ -1343,8 +1357,8 @@ async function renderAnalysis(){
   const box=byId('analysis-body'); if(!box)return;
   try{
     const md=await fetchAnalysisFile(LANG==='en'?'analysis.en.md':'analysis.pl.md');
-    const [species,genus,thresholds]=await Promise.all([
-      analysisJSON('species_stats.json'),analysisJSON('genus_table.json'),
+    const [species,forest,thresholds]=await Promise.all([
+      analysisJSON('species_stats.json'),analysisJSON('forest_ranges.json'),
       analysisJSON('thresholds.json')
     ]);
     let rendered=mdRender(md,'analysis');
@@ -1352,11 +1366,11 @@ async function renderAnalysis(){
     const stats='<div class="analysis-stat-grid">'+
       '<div class="analysis-stat"><span class="n">'+species.species.length+'</span><span class="l">'+AESC(LANG==='en'?'species':'gatunków')+'</span></div>'+
       '<div class="analysis-stat"><span class="n">'+totalMeasurements+'</span><span class="l">'+AESC(LANG==='en'?'measurements':'pomiarów')+'</span></div>'+
-      '<div class="analysis-stat"><span class="n">'+genus.rows.length+'</span><span class="l">'+AESC(LANG==='en'?'genera':'rodzajów')+'</span></div>'+
+      '<div class="analysis-stat"><span class="n">'+forest.rows.length+'</span><span class="l">'+AESC(LANG==='en'?'forest ranges':'leśnictw')+'</span></div>'+
       '</div>';
     rendered=rendered.replace('<p>[[overview]]</p>',stats);
     rendered=rendered.replace('<p>[[species-figure]]</p>',speciesFigure(species));
-    rendered=rendered.replace('<p>[[genus-table]]</p>',genusTable(genus));
+    rendered=rendered.replace('<p>[[forest-ranges]]</p>',forestFigure(forest));
     rendered=rendered.replace('<p>[[thresholds-table]]</p>',thresholdTable(thresholds,species));
     box.innerHTML=rendered;
   }catch(e){
