@@ -22,4 +22,4 @@ W zestawieniu źródłowym dla Trójmiejskiego Parku Krajobrazowego propozycja Z
 
 [[thresholds-table]]
 
-Wymiar jest punktem odniesienia, a nie rozstrzygnięciem prawnym: formalne uznanie za pomnik przyrody jest odrębną decyzją administracyjną. Niemniej jednak, za wyjątkiem świerków, wszystkie wartości średnich pomiarów naszych drzew spełniają kryteria proponowane we wspomnianej publikacji. Ze względu na małą ilość świerków występujących w TPK uważamy, że zmierzone przez nas osobniki nadają się na pomniki jako, że stanowią jedne z największych przedstawicieli tego rodzaju w okolicy.
+Wymiar jest punktem odniesienia, a nie rozstrzygnięciem prawnym: formalne uznanie za pomnik przyrody jest odrębną decyzją administracyjną. Niemniej jednak, za wyjątkiem świerków, wszystkie wartości średnich pomiarów naszych drzew spełniają kryteria proponowane we wspomnianej publikacji. Ze względu na małą ilość świerków występujących w TPK uważamy, że zmierzone przez nas osobniki nadają się na pomniki, jako że stanowią jedne z największych przedstawicieli tego rodzaju w okolicy.
